@@ -1,0 +1,2001 @@
+Record Number,Amount Requested,Interest Rate Percentage,Loan Length in Months,Loan Title,Loan Purpose,Monthly PAYMENT,Total Amount Funded,Debt-To-Income Ratio Percentage,FICO Range,Status
+3482,8000,16.77,60,Small Business Loan,small_business,197.84,8000,6.57,720-724,?
+3483,15000,9.88,36,Julie's Debt Payoff Plan,debt_consolidation,483.16,15000,13.51,745-749,?
+3484,15000,14.62,36,Material and equipment,small_business,517.2,15000,11.56,665-669,?
+3485,5600,11.49,36,Personal Loan,debt_consolidation,184.64,5600,10.25,695-699,?
+3486,7350,7.49,36,Loan to pay off my cards in 1 yr less!,credit_card,228.6,7350,19.82,715-719,?
+3487,12000,14.46,60,payoff,debt_consolidation,282.09,12000,2.2,685-689,?
+3488,18000,15.2,36,Home Improvement,home_improvement,625.75,18000,19.88,675-679,?
+3489,3000,7.4,36,A Tech and a Camera,educational,93.18,3000,5.58,790-794,?
+3490,8000,12.68,36,DebtPayOff,debt_consolidation,268.33,8000,17.45,675-679,?
+3491,7000,14.22,36,Starting Over,debt_consolidation,239.99,7000,13.29,665-669,?
+3492,4000,12.12,36,Debt Consolidation,debt_consolidation,133.09,4000,18.06,695-699,?
+3493,10000,13.47,36,New Business,small_business,339.23,10000,10.33,700-704,?
+3494,6000,11.89,36,Motorcycle Purchase,other,198.99,6000,21.07,720-724,?
+3495,8000,13.79,36,Garage owner buying used tow truck,small_business,272.61,8000,10.54,680-684,?
+3496,6000,5.42,36,Farrah's house,home_improvement,180.96,6000,1.9,770-774,?
+3497,3500,14.72,36,Moving Forward,debt_consolidation,120.85,3500,19.3,675-679,?
+3498,10000,14.46,60,my loan mike,debt_consolidation,235.08,10000,20.5,680-684,?
+3499,7800,12.41,36,RealEstateInvestmentEducation,educational,260.61,7800,11.5,680-684,?
+3500,3000,12.42,36,auto/medical,other,100.25,3000,5.39,725-729,?
+3501,10000,7.66,36,Get out of debt goal!,debt_consolidation,311.8,10000,9.19,705-709,?
+3502,24000,10.71,36,Small Business Funding,other,782.44,24000,0.57,725-729,?
+3503,15000,13.22,36,pilotguy,credit_card,507.01,15000,8.36,695-699,?
+3504,8000,9.99,36,Debt Consolidation Loan,debt_consolidation,258.1,8000,11.14,720-724,?
+3505,6000,10.74,36,Debt Clean-up Completion,debt_consolidation,195.7,6000,16.86,690-694,?
+3506,15000,15.7,36,Freedom,debt_consolidation,525.17,15000,23.14,665-669,?
+3507,18500,18.55,60,Bill Payoof,debt_consolidation,475.34,18500,10.65,685-689,?
+3508,12000,16.49,36,Consolidation Loan,debt_consolidation,424.8,12000,11.98,665-669,?
+3509,20000,9.64,36,I am expanding my business.,small_business,642.02,20000,2.86,735-739,?
+3510,7000,11.11,36,Personal Loan,debt_consolidation,229.54,7000,16.57,695-699,?
+3511,5000,6.62,36,Debt Consolidation Loan,debt_consolidation,153.52,5000,11.2,785-789,?
+3512,9000,12.18,36,Refinance Credit Card at Better Rate,credit_card,299.7,9000,19.77,700-704,?
+3513,15000,8.88,36,cash for home purchase,house,476.16,15000,21.01,720-724,?
+3514,20000,14.65,36,pay off,debt_consolidation,689.89,20000,16.75,685-689,?
+3515,3000,7.43,36,Personal Loan,major_purchase,93.23,3000,11.18,755-759,?
+3516,3200,9.88,36,greekgodadonis,debt_consolidation,103.08,3200,6.51,740-744,?
+3517,6000,14.74,36,School Money for Mom of 4,debt_consolidation,207.23,6000,12.57,680-684,?
+3518,14650,7.49,36,Payoff Credit Cards,debt_consolidation,455.64,14650,14.93,740-744,?
+3519,10000,13.55,36,Trying to pay off high interest cards,credit_card,339.6,10000,7.94,660-664,?
+3520,14000,10.25,36,Debt Consolidation for Growing Family!,debt_consolidation,453.39,14000,11.06,720-724,?
+3521,15000,22.11,60,Debt Consolidation,debt_consolidation,415.23,15000,4.54,660-664,?
+3522,10000,14.26,36,2009 Debt Consolidation,debt_consolidation,343.06,10000,12.81,680-684,?
+3523,3500,14.17,36,Replacement Engine,major_purchase,119.92,3500,8.99,710-714,?
+3524,5000,15.62,36,My loan,other,174.85,5000,14.58,660-664,?
+3525,10000,9.88,36,liz and loren,major_purchase,322.11,10000,13.39,780-784,?
+3526,8125,14.42,36,bring my wife home,other,279.36,8125,0,685-689,?
+3527,25000,14.46,60,JR 2nd,debt_consolidation,587.69,25000,4.5,720-724,?
+3528,14400,9.63,36,mine,debt_consolidation,462.16,14400,16.78,760-764,?
+3529,6000,13.06,36,pool repair,home_improvement,202.34,6000,23.31,675-679,?
+3530,15000,15.31,36,High interest credit cards... Not cool.,credit_card,522.26,15000,22.93,700-704,?
+3531,1750,13.61,36,major purchase,major_purchase,59.48,1750,16.34,685-689,?
+3532,8575,19.42,36,credit free,debt_consolidation,316.15,8575,15.47,670-674,?
+3533,8000,21.74,60,House repairs,home_improvement,219.78,8000,8.31,670-674,?
+3534,2000,8.38,36,Engagement Ring,major_purchase,63.03,2000,18.96,740-744,?
+3535,5500,15.21,36,Starting Over,home_improvement,191.23,5500,7.8,660-664,?
+3536,11500,12.42,36,Get outta debt,credit_card,384.28,11500,10.35,695-699,?
+3537,8500,10.95,36,Roof Repair,home_improvement,278.07,8500,0.43,815-819,?
+3538,5050,12.29,36,dental surgery,medical,168.44,5050,8.25,665-669,?
+3539,3000,17.56,36,loan,debt_consolidation,107.8,3000,11.5,660-664,?
+3540,14000,10.74,36,Medical Loan,medical,456.63,14000,23.23,715-719,?
+3541,7000,8,36,Loan,major_purchase,219.36,7000,16.27,755-759,?
+3542,9000,15.58,36,Denise's Loan ,debt_consolidation,314.56,9000,9.48,660-664,?
+3543,3075,11.83,36,Vehicle,major_purchase,101.89,3075,12.91,695-699,?
+3544,20000,11.12,60,Debt  consolidation,debt_consolidation,315.05,14450,15.84,785-789,?
+3545,18500,13.16,36,Debt Consolidation/Home Purchase,debt_consolidation,624.75,18500,21.67,700-704,?
+3546,12000,10.83,36,Pay off this card!,credit_card,391.9,12000,17.82,720-724,?
+3547,11000,12.98,60,Legal Expenses,major_purchase,250.18,11000,5.96,720-724,?
+3548,10000,16.45,36,CONSOLIDATE DEBT,debt_consolidation,353.78,10000,19.93,665-669,?
+3549,12000,13.11,36,debt consolidation,debt_consolidation,404.97,12000,15.89,700-704,?
+3550,5350,15.27,36,heat and air,home_improvement,186.17,5350,9.46,665-669,?
+3551,5200,17.27,60,Debt Refinance/Volunteer Trip Financing,credit_card,129.99,5200,19.4,685-689,?
+3552,8000,9.25,36,No More Credit Cards,credit_card,255.33,8000,18.6,710-714,?
+3553,6000,11.48,36,ian debt,debt_consolidation,197.82,6000,18.11,710-714,?
+3554,14400,11.71,36,credit card pay off,credit_card,476.3,14400,8.82,695-699,?
+3555,9300,9.32,36,Back in the Black,debt_consolidation,297.11,9300,12.15,750-754,?
+3556,28000,18.25,60,Debt Consolidation Loan,debt_consolidation,714.83,28000,22.58,720-724,?
+3557,18000,7.88,60,steph wedding ring,wedding,228.99,11325,22.77,755-759,?
+3558,8000,10.95,36,truck loan,car,261.71,8000,22.98,690-694,?
+3559,5550,14.11,36,Loan consolidation,credit_card,189.98,5550,21.58,665-669,?
+3560,3175,11.54,36,Young Entrepreneur Needs Computer,small_business,104.76,3175,12.24,670-674,?
+3561,3000,9.62,36,No more debt,debt_consolidation,96.27,3000,2.2,725-729,?
+3562,5000,13.61,60,Other Loan,other,115.34,5000,21.81,715-719,?
+3563,8000,12.12,36,Pay down debt sooner to be debt free,credit_card,266.18,8000,12.92,725-729,?
+3564,9600,9.99,36,Auto Refinance,car,309.72,9600,7.64,705-709,?
+3565,8400,13.23,60,Tennis Teaching & Training,educational,192.12,8400,10.67,710-714,?
+3566,21000,13.92,36,Truck Repair & Consolidation,other,716.88,21000,17.95,695-699,?
+3567,10000,17.43,60,home loan,home_improvement,250.85,10000,10.96,685-689,?
+3568,9000,12.99,36,debt consolidation,debt_consolidation,303.21,9000,15.71,685-689,?
+3569,10000,9.63,36,Consolidating 2 Debts into 1,debt_consolidation,320.95,10000,19.9,750-754,?
+3570,21200,18.39,60,Debt Consolidation Loan,debt_consolidation,344.41,13450,14.36,690-694,?
+3571,15000,15.33,36,15K LOAN,other,522.43,15000,22.63,680-684,?
+3572,15000,13.47,36,PHD,educational,379.94,11200,14.28,720-724,?
+3573,9000,18.55,36,Small Business Loan,small_business,327.87,9000,11.87,660-664,?
+3574,21000,11.48,36,Wedding,wedding,692.34,21000,0.19,790-794,?
+3575,5000,14.17,36,pistol pete,debt_consolidation,171.31,5000,14.13,755-759,?
+3576,21250,17.27,60,Consolidation,small_business,531.21,21250,10.11,725-729,?
+3577,5000,12.61,36,Loan,credit_card,167.54,5000,24.26,670-674,?
+3578,11200,11.14,36,Consolidation Loan,debt_consolidation,367.4,11200,10.8,730-734,?
+3579,6225,14.79,36,Debt Consolidation Loan,debt_consolidation,215.16,6225,21.67,675-679,?
+3580,8000,7.14,36,Garnicki,debt_consolidation,247.53,8000,13.4,760-764,?
+3581,7500,13.57,36,Home improvement loan,home_improvement,254.77,7500,13.28,680-684,?
+3582,7000,9.32,36,credit card consolidation,credit_card,223.63,7000,23.42,735-739,?
+3583,20000,11.49,60,Pool Loan,home_improvement,439.76,20000,1.52,760-764,?
+3584,1600,6.62,36,Major Puchase 1,major_purchase,49.13,1600,4.75,795-799,?
+3585,15000,6.17,36,Military Home Purchase,house,305.76,10025,20.28,765-769,?
+3586,10000,18.43,36,Two Front Teeth,medical,363.7,10000,0.08,665-669,?
+3587,16000,19.41,36,HOME REMODEL,home_improvement,589.86,16000,17.36,660-664,?
+3588,35000,15.96,60,Small Business Loan,small_business,850.39,35000,0.4,825-829,?
+3589,10000,10.99,36,Home Imrovement,home_improvement,327.36,10000,15.12,705-709,?
+3590,15000,14.83,36,Three and Debt Free!!!,debt_consolidation,518.74,15000,15.56,670-674,?
+3591,2100,12.29,36,HIP,home_improvement,70.05,2100,19.92,665-669,?
+3592,7000,10.95,36,Osvaldo Roque Loan,debt_consolidation,229,7000,13.68,715-719,?
+3593,14000,13.79,36,Debt Consolidation,debt_consolidation,477.06,14000,17.26,700-704,?
+3594,3950,17.19,60,medical loan,medical,98.58,3950,5.87,670-674,?
+3595,16750,16.4,60,Thankful,debt_consolidation,410.9,16750,22.53,685-689,?
+3596,12500,7.49,36,No More Debt!,debt_consolidation,388.78,12500,13.4,740-744,?
+3597,2950,17.49,36,auto loan,car,105.9,2950,9.75,665-669,?
+3598,3975,12.17,36,Personal Loan,debt_consolidation,132.35,3975,23.2,700-704,?
+3599,10000,12.53,36,vehicle loan,car,334.67,10000,10.38,670-674,?
+3600,30000,18.64,60,Debt Consolidation,debt_consolidation,772.29,30000,14.07,720-724,?
+3601,10000,9.25,36,Credit Card Debt Consolidation,debt_consolidation,319.17,10000,20.08,705-709,?
+3602,6500,8.59,36,Used motorcycle loan,other,205.47,6500,11.48,735-739,?
+3603,18125,15.81,36,DebtConsolidate2,debt_consolidation,635.53,18125,24.43,680-684,?
+3604,13000,13.57,36,Please help me pay off credit cards!,debt_consolidation,441.6,13000,24.04,700-704,?
+3605,4725,11.22,36,Personal,other,155.19,4725,23.03,715-719,?
+3606,3000,6.76,36,Homr Improvement Load,home_improvement,92.31,3000,6.48,775-779,?
+3607,25000,17.8,36,Debt Consolidation Loan,debt_consolidation,901.31,25000,8.92,670-674,?
+3608,6500,11.78,36,personal loan,home_improvement,215.22,6500,2.14,730-734,?
+3609,4800,15.58,36,Credit builder,other,167.77,4800,10.5,665-669,?
+3610,7050,7.9,36,Debt Consolidation,debt_consolidation,220.6,7050,13.66,715-719,?
+3611,16000,11.83,36,Lucrative Project,other,530.15,16000,9.6,730-734,?
+3612,25000,11.12,36,Phase III Improvements,home_improvement,819.89,25000,3.46,755-759,?
+3613,11000,12.99,36,Debt Consolidation,debt_consolidation,370.59,11000,17.94,665-669,?
+3614,10025,21.67,60,Future Goals,small_business,275.01,10025,13.08,665-669,?
+3615,20050,9.76,36,seeking to expand my painting business.,small_business,644.71,20050,9.14,760-764,?
+3616,20000,14.54,36,Kathy's Consolidation,credit_card,688.81,20000,7.91,705-709,?
+3617,17000,15.96,36,Debt Loan,debt_consolidation,597.34,17000,15.24,705-709,?
+3618,3000,15.21,36,Money for new kitchen,home_improvement,104.31,3000,5.45,670-674,?
+3619,13050,6.92,36,Mexico Purchase,major_purchase,402.47,13050,3.29,750-754,?
+3620,9525,11.66,36,credit cards consoldation,credit_card,122.3,3700,19.58,695-699,?
+3621,6600,9.07,36,personal loan,other,210.1,6600,1.84,740-744,?
+3622,1500,18.55,36,LifelinePlease,other,54.65,1500,18.36,660-664,?
+3623,4000,6.62,36,Debt Consolidation,debt_consolidation,122.82,4000,7.92,750-754,?
+3624,8500,11.71,36,Bring Credit Cards to ZERO balance,credit_card,281.15,8500,2.91,685-689,?
+3625,7000,10.62,36,consolidate debt,debt_consolidation,227.92,7000,19.62,710-714,?
+3626,8150,12.87,36,High interest elimination,debt_consolidation,274.12,8150,17.94,685-689,?
+3627,18000,11.26,36,consolidation,debt_consolidation,591.54,18000,5.99,765-769,?
+3628,8000,11.86,36,Allison,other,265.18,8000,17.15,710-714,?
+3629,1800,10,36,personal,other,58.09,1800,18.93,700-704,?
+3630,8700,6.76,36,Consolidation,debt_consolidation,267.68,8700,9.07,790-794,?
+3631,1200,7.29,36,ByeBye BofA,credit_card,37.22,1200,26.83,725-729,?
+3632,12000,7.9,36,Credit Card Refinance,credit_card,375.49,12000,11.42,720-724,?
+3633,25000,16,36,Consolidation,debt_consolidation,878.94,25000,10.8,730-734,?
+3634,8400,12.73,36,Help in Largo,credit_card,281.96,8400,23.58,685-689,?
+3635,12000,11.89,36,Debt Reconsolidation,debt_consolidation,397.97,12000,19.64,705-709,?
+3636,7500,10.39,36,consolidation ,debt_consolidation,243.38,7500,3.26,700-704,?
+3637,4800,10.74,60,MEDLOAN,medical,103.75,4800,14.28,730-734,?
+3638,6000,10.99,36,Conolidation,debt_consolidation,196.41,6000,20.14,700-704,?
+3639,10000,9.99,36,The trumpet shall sound,major_purchase,322.63,10000,4.29,730-734,?
+3640,8000,19.03,60,LOAN,other,207.66,8000,17.3,665-669,?
+3641,10000,13.79,36,2nd story expansion,home_improvement,340.76,10000,12.3,730-734,?
+3642,3200,13.99,36,Card Payoff,credit_card,109.36,3200,14.4,685-689,?
+3643,15000,11.36,36,ClearCredit,debt_consolidation,493.67,15000,17.61,710-714,?
+3644,5400,15.95,36,Loan repayment 100  Guaranteed!!,credit_card,189.72,5400,17.22,685-689,?
+3645,11200,15.65,36,Debt Consolidation,other,391.85,11200,12.39,675-679,?
+3646,8000,16.32,60,home improvement,home_improvement,195.91,8000,1.66,690-694,?
+3647,6000,10.16,36,Make Ready Home Repairs,home_improvement,194.06,6000,4.1,725-729,?
+3648,25000,13.35,60,Debt Consolidation Loan,debt_consolidation,573.32,25000,21.08,745-749,?
+3649,16000,13.99,60,car/debit payoff,other,372.21,16000,2.6,730-734,?
+3650,10000,11.11,36,Paying off the debt,debt_consolidation,327.91,10000,7.69,740-744,?
+3651,3200,14.79,36,Credit Card Refinance Loan,credit_card,110.61,3200,5.57,690-694,?
+3652,13750,13.57,36,Sharp professional eager for fresh start,debt_consolidation,467.07,13750,9.43,690-694,?
+3653,7200,11.97,36,Consolidate Credit Card Debt,debt_consolidation,239.04,7200,22.28,695-699,?
+3654,4000,15.65,60,Credit Card Relief Fund,credit_card,96.53,4000,15.02,670-674,?
+3655,20000,18.79,60,Business Growth Loan,small_business,516.51,20000,22.04,685-689,?
+3656,14500,14.54,36,Debt Consolidation Loan,debt_consolidation,499.39,14500,19.63,715-719,?
+3657,15000,15.31,36,Kelly M. Dealership along with existing business,small_business,522.23,15000,5.26,725-729,?
+3658,6775,10.59,36,CREDIT CARD CONSOLIDATION,credit_card,220.5,6775,21.34,700-704,?
+3659,7200,10.08,36,Trying to Get Away From BAD CREDIT CARD!,credit_card,232.6,7200,18.09,720-724,?
+3660,6000,8.9,36,Refi Travel Expenses,credit_card,190.52,6000,15.01,720-724,?
+3661,25475,13.11,60,Debt Consolidation,debt_consolidation,581.08,25475,8.59,745-749,?
+3662,9000,8.49,36,Taxes,other,284.07,9000,11.13,735-739,?
+3663,25000,14.61,36,IT Mgr Needs to Reduce Debt Balance,credit_card,861.88,25000,20.52,705-709,?
+3664,6000,10.36,36,Medical Loan,medical,194.62,6000,22.28,680-684,?
+3665,2000,14.35,36,England Drive Life,other,68.7,2000,6.75,705-709,?
+3666,21575,23.91,60,credit card free,debt_consolidation,619.55,21575,18.5,660-664,?
+3667,15000,13.92,36,Free and clear in 3 years,debt_consolidation,512.06,15000,22.34,680-684,?
+3668,8000,14.42,36,Help Me Consolidate!,debt_consolidation,275.07,8000,6.88,665-669,?
+3669,18000,11.71,60,Personal ,debt_consolidation,397.77,18000,15.25,720-724,?
+3670,5000,20.17,36,MARY'S CUBAN KITCHEN,small_business,186.26,5000,6,670-674,?
+3671,15000,14.96,36,**Pay off 3 to 10 yr old CC debt in 3yrs for the same pymt-I NEVER PAY LATE**,credit_card,519.68,15000,21.57,705-709,?
+3672,4000,16.77,36,ATV,major_purchase,142.16,4000,2.64,660-664,?
+3673,10500,11.83,36,Home Imprv. Loan,home_improvement,347.91,10500,4.57,775-779,?
+3674,17050,17.99,60,debt consolidation,debt_consolidation,432.87,17050,17.14,680-684,?
+3675,4000,7.66,36,home improvement,home_improvement,124.72,4000,20.92,725-729,?
+3676,8000,7.51,36,Home improvements @ 8K,home_improvement,248.88,8000,2.1,755-759,?
+3677,20000,10.38,36,June 2010 - June 2013,debt_consolidation,422.61,13025,5.69,750-754,?
+3678,19000,16.02,60,BOA payoff,debt_consolidation,462.25,19000,22.32,705-709,?
+3679,3500,8.94,36,Manhattan Apartment Downpayment,other,111.21,3500,1.71,725-729,?
+3680,10000,11.58,36,Fifteen Thousand Dollar Credit Line,debt_consolidation,330.14,10000,8.32,725-729,?
+3681,5000,7.14,36,disoulation and credit card debt,debt_consolidation,154.7,5000,4.78,750-754,?
+3682,23400,13.23,60,Debt Consolidation,debt_consolidation,535.19,23400,17.65,745-749,?
+3683,3500,10.99,60,Car Loan ,car,76.09,3500,8.92,735-739,?
+3684,21000,12.36,36,DVD Rental Machine Purchase,small_business,701.12,21000,0.85,680-684,?
+3685,5000,12.61,60,Mel's Loan,debt_consolidation,112.77,5000,14.33,775-779,?
+3686,12000,13.43,36,Credit Card Loan,credit_card,406.82,12000,6.4,680-684,?
+3687,18000,12.12,60,CC Refinance,credit_card,401.5,18000,22.43,735-739,?
+3688,23025,13.49,36,CC Consolidation,credit_card,781.25,23025,27.14,720-724,?
+3689,22000,19.04,60,Pay back Dad and consolidate credit card,debt_consolidation,395.93,15250,11.05,670-674,?
+3690,1000,5.42,36,Medical,medical,30.16,1000,13.51,750-754,?
+3691,20000,12.61,60,Debt Consolidation,debt_consolidation,451.08,20000,8.85,715-719,?
+3692,12000,13.55,36,bee business expanding,major_purchase,407.52,12000,17.07,665-669,?
+3693,2500,8.49,36,June11 Debt,debt_consolidation,78.91,2500,20.93,725-729,?
+3694,8000,12.53,36,Refinance,credit_card,267.73,8000,9.32,710-714,?
+3695,8000,18.25,36,Consolidation,debt_consolidation,290.23,8000,15.79,665-669,?
+3696,10000,12.18,36,E-Man's loan,home_improvement,333,10000,0.52,710-714,?
+3697,12250,14.27,36,Debt Consolidation,debt_consolidation,420.29,12250,23.09,670-674,?
+3698,30000,18.79,60,Debt Consolidation,credit_card,512.63,19850,24.57,700-704,?
+3699,6000,16.45,36,tito,house,212.27,6000,1.48,660-664,?
+3700,14000,10.37,36,Small Business Loan,small_business,454.18,14000,11.1,695-699,?
+3701,10400,21.67,60,Home Improvements,home_improvement,285.29,10400,0.77,680-684,?
+3702,1700,10.59,36,Personal,debt_consolidation,55.33,1700,20.88,705-709,?
+3703,25000,13.43,36,credit card loan,credit_card,847.54,25000,13.7,740-744,?
+3704,4800,10.36,60,Richard's loan,car,102.84,4800,7.55,715-719,?
+3705,4500,12.61,36,Out of debt quicker,debt_consolidation,150.78,4500,19.01,670-674,?
+3706,13775,12.98,36,Three Years to Free,debt_consolidation,464.01,13775,15,690-694,?
+3707,7400,15.57,60,VICTORY VEGAS,car,178.27,7400,24.39,675-679,?
+3708,25000,15.7,36,Debt Consolidation,debt_consolidation,875.27,25000,14.21,690-694,?
+3709,12000,15.68,36,pay off credit cards,debt_consolidation,420.02,12000,4.04,665-669,?
+3710,4000,12.61,36,Fresh Start,debt_consolidation,134.03,4000,13.68,670-674,?
+3711,10000,14.22,36,Responsible Borrower,debt_consolidation,342.85,10000,13.9,675-679,?
+3712,8400,5.79,36,Credit Card Repayment,debt_consolidation,185,6100,15.32,745-749,?
+3713,35000,9.91,36,Personal loan,house,1127.88,35000,8.41,770-774,?
+3714,15850,11.14,36,Debt Consolidation Loan,debt_consolidation,519.94,15850,9.5,760-764,?
+3715,1400,11.12,60,Home Improvement,home_improvement,30.53,1400,22.38,725-729,?
+3716,18000,13.24,36,debtconsolidation,debt_consolidation,608.58,18000,22.4,685-689,?
+3717,18000,16.32,60,debtloan,debt_consolidation,440.8,18000,14.28,700-704,?
+3718,17500,15.28,60,Consolidate Debt - 3rd Lending Club Loan,debt_consolidation,418.91,17500,29.63,725-729,?
+3719,25000,18.67,60,Randall Lowers Debt,debt_consolidation,643.99,25000,20.84,685-689,?
+3720,6250,12.87,36,Erika's Consolidaton,debt_consolidation,210.21,6250,23.73,690-694,?
+3721,18000,17.19,36,C's Loan,debt_consolidation,643.44,18000,10.13,705-709,?
+3722,6000,11.86,60,Business Loan,small_business,133.05,6000,22.35,705-709,?
+3723,16000,17.56,60,Will's Loan,debt_consolidation,402.48,16000,3.71,670-674,?
+3724,15000,10.99,36,Good credit never missed payment,credit_card,491.03,15000,20.56,710-714,?
+3725,7000,10.62,36,Grant,credit_card,227.92,7000,23.19,705-709,?
+3726,25000,19.36,60,debt consolidation ,debt_consolidation,653.48,25000,21.92,685-689,?
+3727,10000,10.36,36,get outta debt,debt_consolidation,324.37,10000,16.17,700-704,?
+3728,8500,12.53,36,Broomer-Debt Consolidation,debt_consolidation,284.47,8500,16.11,695-699,?
+3729,6000,11.28,36,High Interest Credit Card Consolidation,debt_consolidation,167.65,5100,14.68,685-689,?
+3730,3600,11.58,36,Motorcycle Purchase,major_purchase,118.85,3600,23.6,710-714,?
+3731,25000,13.16,36,Better Rate To Payoff Last CC Balance,credit_card,844.26,25000,8.24,725-729,?
+3732,25000,15.95,36,Expansion Financing,small_business,647.32,18425,11.46,680-684,?
+3733,9000,9.83,36,Loan Number One,debt_consolidation,289.69,9000,4.83,710-714,?
+3734,12000,14.46,60,Lower Monthly Payment,other,282.09,12000,18.39,685-689,?
+3735,7000,10.65,36,Tax Dollars At Work,debt_consolidation,228.02,7000,21.06,705-709,?
+3736,10000,9.76,36,Debt,debt_consolidation,321.55,10000,8.11,715-719,?
+3737,10000,7.88,36,Brax and Kristin's Wedding,wedding,312.82,10000,19.71,740-744,?
+3738,20000,11.78,36,Paying off debt,debt_consolidation,662.19,20000,15.42,725-729,?
+3739,15000,18.99,36,Debt Free,debt_consolidation,549.77,15000,15.51,660-664,?
+3740,15000,7.49,36,fix 2nd floor for an apartment,home_improvement,466.53,15000,4.18,805-809,?
+3741,10000,14.74,36,dloan,debt_consolidation,345.37,10000,18.71,670-674,?
+3742,10000,6.62,36,Debt Consolidation,debt_consolidation,307.04,10000,18.81,750-754,?
+3743,3600,7.37,36,Woodworking,major_purchase,111.77,3600,3.5,775-779,?
+3744,4000,7.9,36,Personal Loan,other,125.17,4000,24.29,745-749,?
+3745,6000,8.94,36,personal loan,other,190.63,6000,8.05,725-729,?
+3746,5275,7.51,36,Motorcycle,other,164.11,5275,6.79,740-744,?
+3747,12000,9.88,36,Credit Card Consol,credit_card,386.53,12000,18.68,735-739,?
+3748,8000,11.86,36,Want to Pay Off Debt Faster ,credit_card,265.18,8000,8.13,695-699,?
+3749,5000,7.14,36,home improvement/ personal ,home_improvement,154.71,5000,10.71,765-769,?
+3750,5850,7.9,36,Personal,debt_consolidation,183.05,5850,17.26,725-729,?
+3751,5000,8.59,36,Appraisal Business,debt_consolidation,158.06,5000,6.3,740-744,?
+3752,2000,7.51,36,Bathroom Remodel,home_improvement,62.23,2000,24.33,725-729,?
+3753,7500,13.06,60,truck loan,car,170.88,7500,10.99,730-734,?
+3754,3600,16.77,36,payoffs,debt_consolidation,127.94,3600,20.6,695-699,?
+3755,3675,9.91,36,Credit card refi,credit_card,118.43,3675,7.85,705-709,?
+3756,12000,16.49,60,Credit Card Loan,debt_consolidation,294.96,12000,16.94,685-689,?
+3757,6000,19.41,60,car repair,other,157.01,6000,11.47,675-679,?
+3758,2000,14.59,36,Personal Loan,other,68.93,2000,8.86,660-664,?
+3759,20000,15.23,60,Get rid of the credit cards!,debt_consolidation,478.22,20000,16.5,705-709,?
+3760,6000,14.74,36,School and debt consolidation,other,207.23,6000,12.32,660-664,?
+3761,35000,23.26,60,Loan,debt_consolidation,991.91,35000,14.11,665-669,?
+3762,4000,9.45,36,for a better home,home_improvement,128.04,4000,13.16,730-734,?
+3763,13500,7.66,36,Home,other,420.93,13500,8.96,750-754,?
+3764,20000,14.61,36,Credit Cards,debt_consolidation,689.51,20000,9.41,680-684,?
+3765,7500,6.62,36,Other,other,230.28,7500,13.74,745-749,?
+3766,4000,17.93,36,Corvair Purchase,major_purchase,144.47,4000,23.14,665-669,?
+3767,3000,13.57,36,dental,medical,101.91,3000,22.98,670-674,?
+3768,11000,11.49,36,consolidate and purchase engagement ring,debt_consolidation,362.69,11000,16.47,710-714,?
+3769,4800,11.99,36,My Home,home_improvement,159.41,4800,9.78,695-699,?
+3770,12000,14.27,36,Debt Consolidation Loan,other,411.71,12000,8.4,690-694,?
+3771,10000,12.18,36,for me,debt_consolidation,333,10000,23.01,770-774,?
+3772,25000,18.64,60,debt loan,debt_consolidation,643.58,25000,20.48,700-704,?
+3773,24000,15.21,36,Consolidate,debt_consolidation,834.44,24000,17.07,715-719,?
+3774,1875,10.25,36,Loan needed to Consolidate Credit Card Debt Before Getting Married in July,debt_consolidation,60.73,1875,6,700-704,?
+3775,13000,15.23,60,Business Loan 2011,small_business,289.92,12125,13.2,710-714,?
+3776,5000,8,36,Cash for a downpayment,house,156.69,5000,0.5,780-784,?
+3777,14000,16.77,60,Debt Freedom,debt_consolidation,346.21,14000,20.42,690-694,?
+3778,5000,15.31,36,pay debt,debt_consolidation,174.09,5000,24.38,675-679,?
+3779,13800,10.74,60,Debt Consolidation Loan,debt_consolidation,298.26,13800,14.44,750-754,?
+3780,9200,14.83,60,Personal Loan,other,218.05,9200,19.28,675-679,?
+3781,12000,11.83,36,PLEASE HELP ME,debt_consolidation,397.61,12000,5.69,720-724,?
+3782,5000,8.59,36,10-Jan,debt_consolidation,158.06,5000,12.59,745-749,?
+3783,2000,7.29,36,Motorcycle Loan,major_purchase,62.02,2000,11.35,715-719,?
+3784,15000,11.66,36,I WOULD LIKE TO FURNISH MY APARTMENT,home_improvement,495.79,15000,5.17,690-694,?
+3785,10000,9.33,36,Pam Spittler,moving,319.54,10000,19.46,725-729,?
+3786,22400,19.22,60,CC Consolidation,debt_consolidation,583.79,22400,6.68,695-699,?
+3787,10000,9.63,36,Home Improvement Loan,home_improvement,320.95,10000,8.94,740-744,?
+3788,16000,20.99,60,Bill Loan,debt_consolidation,432.77,16000,14.43,685-689,?
+3789,20000,13.67,36,Debt Consolidation,debt_consolidation,680.36,20000,15.58,690-694,?
+3790,15500,19.22,60,Debt Consolidation,debt_consolidation,403.96,15500,10.48,685-689,?
+3791,3000,14.33,36,personal loan,debt_consolidation,103.02,3000,27.81,675-679,?
+3792,8000,10.59,36,Debt Consolidation Loan,debt_consolidation,260.36,8000,12,700-704,?
+3793,8000,13.43,60,Big Blue Toy,major_purchase,183.8,8000,6.87,700-704,?
+3794,2350,12.99,36,Small Business Loan,small_business,79.17,2350,22.5,685-689,?
+3795,2400,6.39,36,SpringOak2010,other,73.45,2400,0.21,820-824,?
+3796,7200,9.45,36,Need short term loan to pay bills,debt_consolidation,230.47,7200,0.8,715-719,?
+3797,9000,13.67,36,Medical Expenses,medical,306.16,9000,17.61,705-709,?
+3798,4900,9.99,36,Consolidate Debt,debt_consolidation,158.09,4900,14.72,700-704,?
+3799,13000,6.54,36,Debt Free in 3,debt_consolidation,398.68,13000,11.04,765-769,?
+3800,14400,16.45,60,Credit Card  Refinancing,credit_card,353.64,14400,14.78,695-699,?
+3801,8250,9.32,36,Clean Up from Divorce,credit_card,263.57,8250,24.45,755-759,?
+3802,17500,20.89,60,Debt Consolidation Loan,debt_consolidation,472.36,17500,18.65,665-669,?
+3803,15000,9.63,36,Laser Tag Working Capital,small_business,481.42,15000,5.65,775-779,?
+3804,19200,12.29,36,consolidation,debt_consolidation,640.38,19200,18.93,700-704,?
+3805,3000,16,36,Moving to New York to further my career.,moving,105.48,3000,6.71,695-699,?
+3806,28000,11.49,60,Home Improvement,home_improvement,615.66,28000,0.27,785-789,?
+3807,16000,12.12,60,Business Expence,small_business,356.89,16000,9.17,720-724,?
+3808,9600,7.66,36,Buy a condo,house,299.33,9600,11.09,720-724,?
+3809,22750,8.9,36,Consolidate,debt_consolidation,722.39,22750,10.45,730-734,?
+3810,30000,16.77,60,Consolidation,credit_card,741.88,30000,7.1,725-729,?
+3811,7500,5.79,36,Debt Consolidation,debt_consolidation,227.46,7500,15.56,765-769,?
+3812,35000,11.71,60,Debt Consolidation Loan,debt_consolidation,773.44,35000,9.84,770-774,?
+3813,16000,10.37,60,swimming pool,home_improvement,342.88,16000,4.13,790-794,?
+3814,7500,7.49,36,Debt Consolidation Loan,debt_consolidation,233.27,7500,14.94,735-739,?
+3815,16000,11.49,60,dedt consolidation,other,351.81,16000,23.86,740-744,?
+3816,20000,11.36,36,Debt Buster,debt_consolidation,658.23,20000,11.83,715-719,?
+3817,6000,10.38,36,ERIC,other,194.68,6000,10.16,730-734,?
+3818,6700,10.99,60,Medical,other,145.65,6700,4.22,730-734,?
+3819,20000,10.38,36,CC Consolidation,debt_consolidation,648.92,20000,11.61,755-759,?
+3820,6000,14.79,36,help pay off,debt_consolidation,207.38,6000,10.32,670-674,?
+3821,10000,14.27,36,Credit Card Consolidation,credit_card,343.09,10000,20.57,680-684,?
+3822,6500,14.35,36,personal loan,debt_consolidation,223.27,6500,11.55,670-674,?
+3823,25000,16.07,36,Debt Pay Off,debt_consolidation,879.85,25000,21.05,675-679,?
+3824,7000,11.49,36,Income Fund,small_business,230.8,7000,8.09,680-684,?
+3825,23000,17.06,60,JB Debt Consolidation,debt_consolidation,572.36,23000,9.61,695-699,?
+3826,8000,14.91,60,life saver,debt_consolidation,189.95,8000,7.15,765-769,?
+3827,10500,9.63,36,Bill payoff,debt_consolidation,336.99,10500,15.17,700-704,?
+3828,11400,14.17,60,Loan for my son,major_purchase,266.27,11400,21.11,695-699,?
+3829,7000,7.88,36,Brian,major_purchase,218.97,7000,11.27,730-734,?
+3830,3000,6.62,36,Business Loan,small_business,92.12,3000,23.19,745-749,?
+3831,18000,12.18,36,Wedding,major_purchase,599.4,18000,13.9,715-719,?
+3832,20000,15.05,36,Home Repairs / Legal Costs,home_improvement,693.83,20000,9.76,690-694,?
+3833,7000,13.99,36,Additional work truck,car,239.21,7000,2.06,695-699,?
+3834,20000,15.95,36,Credit Card Debt Consolidation,debt_consolidation,702.65,20000,8.17,705-709,?
+3835,12200,15.28,36,Debt consolidation,debt_consolidation,424.6,12200,22.23,670-674,?
+3836,15000,9.63,36,Insurance Agency- Start-Up,small_business,481.42,15000,6,780-784,?
+3837,10000,13.79,36,engagement ring,wedding,340.76,10000,4.95,685-689,?
+3838,10175,12.69,36,Unsecured Debt Rollup & Refinance,credit_card,341.32,10175,10.79,695-699,?
+3839,13750,15.05,36,Crabbing buisness,small_business,477.01,13750,17.96,685-689,?
+3840,10800,16.77,60,Debt consolidation loan,debt_consolidation,267.08,10800,11.22,695-699,?
+3841,6400,19.29,60,Debt Consolidation Loan,debt_consolidation,167.05,6400,11.25,670-674,?
+3842,25000,17.93,36,Seabrooks,debt_consolidation,608.58,16850,10.32,675-679,?
+3843,13075,20.99,36,Other,other,492.54,13075,23.8,660-664,?
+3844,12000,13.11,36,Debt Consolidation,debt_consolidation,404.97,12000,12.57,700-704,?
+3845,14000,9.63,36,Business/Personal,small_business,449.32,14000,14.59,785-789,?
+3846,13000,17.99,36,Pay off bills,debt_consolidation,469.92,13000,6.53,700-704,?
+3847,2600,9.25,36,American Dreamcard payoff,debt_consolidation,82.99,2600,22.95,705-709,?
+3848,12000,5.42,36,kitchen remodel,home_improvement,361.92,12000,7.54,800-804,?
+3849,6000,10.74,36,Personal Loan,other,195.7,6000,22.37,675-679,?
+3850,12000,6.03,36,Down Payment for Daughter's House,house,365.23,12000,2.21,795-799,?
+3851,25200,20.3,60,Debt Consolidation,debt_consolidation,671.86,25200,14.9,690-694,?
+3852,10000,11.26,36,Card Consolidation,debt_consolidation,328.64,10000,2.54,715-719,?
+3853,34800,20.11,60,New beginning loan. 3rd time's the charm,debt_consolidation,681.14,25650,8.38,715-719,?
+3854,4000,8.94,36,car down payment,car,127.09,4000,12.24,740-744,?
+3855,24000,9.91,36,Debt Consolidation,debt_consolidation,773.4,24000,6.57,725-729,?
+3856,8600,11.26,36,Refinancing a Predatry Loan,other,282.63,8600,2.88,710-714,?
+3857,6000,16.45,60,Debt Consolidation,debt_consolidation,147.35,6000,2.99,665-669,?
+3858,18000,12.73,60,Debt consolidation loan ,debt_consolidation,265.17,11725,7.18,725-729,?
+3859,3500,13.72,36,personal,other,119.15,3500,14.97,660-664,?
+3860,25000,14.79,36,Consolidation,debt_consolidation,864.07,25000,11.43,725-729,?
+3861,16000,12.73,36,Bundle of joy,debt_consolidation,537.06,16000,19.29,715-719,?
+3862,15000,12.18,36,Home improvement,home_improvement,499.5,15000,13.1,765-769,?
+3863,15000,13.43,36,Debt Consolidation Loan,debt_consolidation,508.53,15000,8.64,705-709,?
+3864,12000,9.88,36,Avatar,debt_consolidation,386.53,12000,15.03,740-744,?
+3865,21000,9.76,36,Debt Consolidation Loan,debt_consolidation,675.25,21000,17.93,725-729,?
+3866,5125,10.71,36,Purchasing Landscape CAD Program,credit_card,167.09,5125,6.26,690-694,?
+3867,16000,10.25,36,Business Loan,small_business,518.16,16000,4.61,730-734,?
+3868,14000,11.48,36,Education Payoff,educational,461.56,14000,21.29,725-729,?
+3869,6000,13.48,36,Boat Loan,other,203.55,6000,3.02,685-689,?
+3870,15000,15.81,36,Freedom,debt_consolidation,525.95,15000,11.62,675-679,?
+3871,20000,7.49,36,Wedding Loan,wedding,398.88,12825,29.38,745-749,?
+3872,20400,13.06,36,Credit Cards,debt_consolidation,687.95,20400,7.3,705-709,?
+3873,3700,9.99,60,Vacatin,vacation,78.6,3700,10.59,730-734,?
+3874,10000,12.73,36,MJK Personal Loan,other,335.67,10000,13.6,690-694,?
+3875,10000,7.88,36,taxes down,debt_consolidation,312.81,10000,12.32,745-749,?
+3876,7550,9.99,36,laon123,debt_consolidation,243.59,7550,18,725-729,?
+3877,8000,10.95,36,Attorney fees,other,261.71,8000,14.46,725-729,?
+3878,13000,7.9,36,Small Business,small_business,406.78,13000,2.14,730-734,?
+3879,4000,13.79,36,Pay Off Medical Expenses,medical,136.31,4000,8.19,710-714,?
+3880,20000,6.91,60,Debt Consolidation Loan,debt_consolidation,395.18,20000,5.14,760-764,?
+3881,12000,12.09,36,Consolidation Loan,debt_consolidation,399.09,12000,11.04,690-694,?
+3882,15000,11.99,36,Basement,home_improvement,498.15,15000,12.46,715-719,?
+3883,10000,14.22,36,Republic of Palau,debt_consolidation,342.85,10000,17.22,685-689,?
+3884,10400,7.14,60,Fellow LC lender needs HVAC,home_improvement,206.63,10400,3.16,780-784,?
+3885,10000,10.25,36,asur,small_business,323.85,10000,6.84,725-729,?
+3886,16475,23.52,60,Consolidating Bills into one payment,debt_consolidation,469.38,16475,17.56,660-664,?
+3887,9000,12.49,36,Pay off debt,debt_consolidation,301.04,9000,5.08,665-669,?
+3888,7000,10.37,60,Responsible businesswoman needs new car,car,150.01,7000,19.78,715-719,?
+3889,4000,10.74,36,Clean Start,debt_consolidation,130.47,4000,4.97,700-704,?
+3890,3200,13.04,36,GoodBye Capital One,debt_consolidation,107.89,3200,17.18,680-684,?
+3891,8000,11.34,36,Down The Creek w/ No Paddle,debt_consolidation,263.2,8000,8.75,680-684,?
+3892,5000,11.36,36,Bandmill Purchase,other,164.56,5000,23.96,685-689,?
+3893,3250,7.14,36,Pay off HIGH INTEREST cards quicker!,debt_consolidation,100.56,3250,22.65,740-744,?
+3894,5000,12.92,36,Consolidate,debt_consolidation,168.28,5000,21.04,675-679,?
+3895,5000,10.75,60,SW Custom Airbrushing,small_business,108.09,5000,19.78,735-739,?
+3896,12000,20.25,60,Hawaii Vacation,vacation,319.6,12000,2.25,670-674,?
+3897,7500,6.03,36,Home Improvement,house,228.27,7500,6.37,790-794,?
+3898,10000,7.49,36,Payoff,debt_consolidation,311.02,10000,17.29,765-769,?
+3899,8000,7.51,36,credit debt reduction,credit_card,248.89,8000,23.73,725-729,?
+3900,15000,12.04,36,Debt Consolidation,debt_consolidation,498.51,15000,14.32,675-679,?
+3901,8000,13.98,60,Pay Off Credit Cards,debt_consolidation,186.07,8000,3.13,695-699,?
+3902,4375,5.42,36,Texas,debt_consolidation,131.95,4375,20.2,750-754,?
+3903,20400,11.71,36,Debt Consolidation Loan,debt_consolidation,674.75,20400,22.46,700-704,?
+3904,15000,9.63,36,Don't really need it ,small_business,481.42,15000,8.44,810-814,?
+3905,17925,14.26,36,Consolidation Loan,other,614.94,17925,16.57,695-699,?
+3906,3800,7.88,60,truck,car,76.84,3800,23.83,760-764,?
+3907,1500,16.07,36,RMS,other,52.79,1500,9.48,665-669,?
+3908,7750,15.21,36,Freedom,debt_consolidation,269.46,7750,8.19,710-714,?
+3909,13000,7.88,36,Upset with American Express loan,debt_consolidation,406.66,13000,13.39,730-734,?
+3910,5000,8.7,36,Personal Loan,other,158.31,5000,6.15,720-724,?
+3911,18000,13.22,36,Paying Difference on Mortgage in Order to Sell House for Less than I owe,other,608.42,18000,12.33,730-734,?
+3912,6000,10.65,36,Credit ,credit_card,195.44,6000,7.99,700-704,?
+3913,12000,10.38,36,Creid Card Consolidation,credit_card,389.36,12000,13.37,720-724,?
+3914,18000,11.58,36,new home,house,594.25,18000,11.35,725-729,?
+3915,4000,7.88,36,PPT,debt_consolidation,125.13,4000,10.81,715-719,?
+3916,3000,10.99,36,Personal Loan,other,98.21,3000,17.94,720-724,?
+3917,7500,13.55,36,Finishing degree,educational,232.63,6850,24.22,685-689,?
+3918,15000,10.99,36,Consolidate credit cards,credit_card,491.01,15000,15.86,730-734,?
+3919,8000,11.86,36,Down payment,house,265.18,8000,13.41,695-699,?
+3920,5100,13.22,36,Sure Deal,home_improvement,172.39,5100,9.14,690-694,?
+3921,14125,22.11,60,Moving Loan,moving,391.01,14125,7.08,660-664,?
+3922,9200,11.86,36,Major Purchase,major_purchase,304.96,9200,18.24,695-699,?
+3923,5500,9.32,36,Credit Card Refinance,credit_card,175.71,5500,10.99,755-759,?
+3924,3000,6.91,36,Good Habits Mean Success,credit_card,92.51,3000,2.2,770-774,?
+3925,17750,13.99,36,credit card ,credit_card,606.57,17750,19.31,695-699,?
+3926,1500,7.51,36,End of Summer Trip,vacation,46.67,1500,20.77,725-729,?
+3927,7750,10.38,36,debt_consolidation,debt_consolidation,251.46,7750,23.64,720-724,?
+3928,13000,15.23,36,To better my life: debt consolidation,credit_card,452.12,13000,7.56,690-694,?
+3929,7750,7.51,36,debt consolidation,debt_consolidation,241.11,7750,23.24,750-754,?
+3930,2500,7.66,36,Hobby Car,car,77.95,2500,7.95,745-749,?
+3931,4950,11.71,36,debt_consolidation loan,debt_consolidation,163.73,4950,22.63,680-684,?
+3932,25000,14.83,60,Debt Consolidation,debt_consolidation,370.92,15650,15.9,715-719,?
+3933,8500,18.3,60,Credit is almost 700 but banks say no.,car,217.24,8500,14.74,660-664,?
+3934,13000,17.27,60,card payoff,credit_card,324.98,13000,15.31,680-684,?
+3935,12000,13.47,36,debt restructure,debt_consolidation,407.08,12000,21.9,695-699,?
+3936,11000,13.43,36,Bathroom Improvements,home_improvement,372.92,11000,22.04,680-684,?
+3937,10000,10.36,36,baby,home_improvement,324.37,10000,18.6,690-694,?
+3938,12000,12.73,36,LC,debt_consolidation,402.8,12000,16.07,690-694,?
+3939,12000,17.56,36,Debt Consolidation,debt_consolidation,431.18,12000,21.81,680-684,?
+3940,18000,12.09,36,Tired of credit card interest,credit_card,598.64,18000,19.22,700-704,?
+3941,12000,11.89,36,Home remodeling,home_improvement,397.97,12000,17.84,705-709,?
+3942,16800,14.65,36,Closer to Done,debt_consolidation,579.51,16800,7.69,690-694,?
+3943,2500,16.29,36,Fixing issues,debt_consolidation,88.26,2500,18.01,660-664,?
+3944,20000,14.38,36,Loan,debt_consolidation,687.25,20000,15.7,670-674,?
+3945,4000,7.29,36,Payoff CitiBank Master Card,debt_consolidation,124.04,4000,9.21,770-774,?
+3946,13000,10.38,60,toddandkim4ever,home_improvement,278.65,13000,5.22,770-774,?
+3947,3500,12.21,36,Matt,other,116.61,3500,15.07,705-709,?
+3948,11675,11.12,60,My Consolidation 2010,debt_consolidation,254.55,11675,14.2,730-734,?
+3949,2500,15.7,36,First Time Home Buyer,home_improvement,87.53,2500,11.05,675-679,?
+3950,10000,10,60,David's Loan,major_purchase,212.48,10000,6,740-744,?
+3951,30000,17.14,60,debt consolidation,debt_consolidation,747.84,30000,17.96,705-709,?
+3952,4800,7.05,36,car loan,car,148.32,4800,7.37,770-774,?
+3953,16000,11.58,36,Standard One,house,528.22,16000,2.2,730-734,?
+3954,22475,17.58,60,credit card payoff,debt_consolidation,565.6,22475,24,700-704,?
+3955,10000,11.41,36,Pay off my debt,debt_consolidation,329.34,10000,14.03,690-694,?
+3956,7500,16.89,60,Loan Of Change,major_purchase,185.96,7500,18.61,685-689,?
+3957,8000,14.09,36,Home improvement,home_improvement,273.78,8000,26.34,695-699,?
+3958,27000,19.74,60,Debt Consolidation,debt_consolidation,711.44,27000,20.63,665-669,?
+3959,20000,6.91,60,Solar Array,renewable_energy,249.95,12650,21.01,745-749,?
+3960,12950,17.56,36,DTtax,debt_consolidation,465.32,12950,6.21,660-664,?
+3961,8000,15.65,60,Tonry's,major_purchase,193.06,8000,9.28,730-734,?
+3962,10000,15.65,36,Dmctbo,debt_consolidation,349.85,10000,18.31,690-694,?
+3963,6000,15.7,36,Refinance my car,car,210.07,6000,14.86,665-669,?
+3964,10000,11.86,60,Personal Loan,major_purchase,221.74,10000,4.72,750-754,?
+3965,10000,8,36,small business loan (art cafe),other,313.37,10000,2.1,790-794,?
+3966,10000,13.57,36,Personal Loan,debt_consolidation,339.69,10000,21.3,685-689,?
+3967,6000,13.23,36,School/Personal,educational,202.83,6000,14.05,700-704,?
+3968,22000,17.58,36,Debt Consolidation,debt_consolidation,790.73,22000,14.03,665-669,?
+3969,5500,14.46,60,visa card,credit_card,129.3,5500,10.63,675-679,?
+3970,5000,13.85,36,Marnhout Inc,debt_consolidation,170.52,5000,5.89,670-674,?
+3971,8500,9.99,36,tracy,debt_consolidation,274.24,8500,15.56,695-699,?
+3972,5000,13.22,36,Debt Consoilidation,other,169.01,5000,13.49,715-719,?
+3973,10000,9.76,36,personal,major_purchase,321.55,10000,2.7,715-719,?
+3974,8400,11.12,36,credit fix,credit_card,275.49,8400,22.43,710-714,?
+3975,23675,12.99,60,Payoff and Rv,debt_consolidation,538.56,23675,25.12,765-769,?
+3976,12000,15.7,36,Paying Off Last Credit Cards,credit_card,420.11,12000,19.44,665-669,?
+3977,5600,11.12,36,Housing,moving,183.66,5600,19.85,700-704,?
+3978,24250,16.32,60,thank you,debt_consolidation,367.33,15000,22.13,710-714,?
+3979,2600,7.9,36,To payoff miscellenous debts,other,81.36,2600,17.44,720-724,?
+3980,20000,13.48,36,Polyaspatric Protective Coatings,small_business,678.49,20000,7.53,715-719,?
+3981,25000,13.11,36,Credit Card Re-finance and Consolidation Loan,credit_card,843.63,25000,22.03,730-734,?
+3982,15000,12.84,36,Funches & Associates LLC,small_business,504.27,15000,11.92,720-724,?
+3983,10000,10.62,36,Help me pay off some debt before my wedding!,debt_consolidation,325.6,10000,4.12,725-729,?
+3984,6000,13.22,36,Just trying to decrease my interest rate,credit_card,202.81,6000,14.47,680-684,?
+3985,25000,15.58,36,debt_consolidation,debt_consolidation,587.17,16800,20.83,695-699,?
+3986,10000,15.68,36,Semi-trailer for my trucking business,small_business,350.02,10000,7.03,665-669,?
+3987,20000,11.83,36,Wedding expenses for a responsible couple,wedding,662.68,20000,7.42,750-754,?
+3988,8400,7.49,36,Personal,other,261.26,8400,8.96,760-764,?
+3989,7775,12.21,36,Credit Card Consolidation,debt_consolidation,259.03,7775,14.86,695-699,?
+3990,2000,5.42,36,Small Business Loan,small_business,60.32,2000,12.16,770-774,?
+3991,25000,10.62,36,Tax Liability and Tuition Bill,other,814,25000,4.36,765-769,?
+3992,5000,5.79,36,jessica's loan,credit_card,151.64,5000,8.53,760-764,?
+3993,3000,15.37,36,loan needed before Iraq...,wedding,104.54,3000,1,670-674,?
+3994,16000,13.99,60,Debt Consolidation,debt_consolidation,372.21,16000,11.6,725-729,?
+3995,5000,13.93,36,jump starting advertising and marketing!,small_business,170.72,5000,20.72,660-664,?
+3996,35000,21.98,60,Debt Consolidation Loan,debt_consolidation,966.27,35000,21.1,695-699,?
+3997,8000,11.83,36,Paid Off Secured,debt_consolidation,265.08,8000,10.79,705-709,?
+3998,6000,13.85,36,pay,other,204.63,6000,5.02,675-679,?
+3999,28000,19.29,60,Debt consolidation,debt_consolidation,730.82,28000,12.05,690-694,?
+4000,5400,15.58,60,Home Repairs,home_improvement,130.12,5400,2.55,700-704,?
+4001,2000,15.05,36,Summer School Loan,other,69.39,2000,20.51,685-689,?
+4002,10000,12.18,36,Ketchup Up,home_improvement,333,10000,10.07,705-709,?
+4003,4000,15.95,60,Debt Consolidation,debt_consolidation,97.17,4000,3.68,710-714,?
+4004,7000,8.59,36,2002 Timberland RV travel trailer,major_purchase,221.28,7000,6.09,755-759,?
+4005,6575,13.49,36,Debt consolidation,debt_consolidation,223.1,6575,18.47,685-689,?
+4006,5275,9.64,36,Travel Resorts of America TNC27,other,169.32,5275,17.57,735-739,?
+4007,3000,10.25,36,Rid me of arbitrarily rising credit card rates.,credit_card,97.16,3000,23.61,700-704,?
+4008,12500,10.37,36,CLUB LOAN,debt_consolidation,405.52,12500,11.55,745-749,?
+4009,7800,7.88,36,Debt Consolidation,debt_consolidation,244,7800,15.46,720-724,?
+4010,12000,17.19,60,Nancy's saving grace,debt_consolidation,299.46,12000,6.36,665-669,?
+4011,9600,8.94,36,Horrible Auto Loan - Help!,car,305.01,9600,12.01,740-744,?
+4012,3500,14.91,60,car repairs,other,83.1,3500,16.68,695-699,?
+4013,11200,13.49,36,Wedding Loan,wedding,380.03,11200,15.42,670-674,?
+4014,5000,10.99,36,Awesome credit,debt_consolidation,163.68,5000,19.88,700-704,?
+4015,10000,14.17,36,Debt Consolidation 2011,debt_consolidation,342.61,10000,8.01,680-684,?
+4016,8300,12.61,36,freedom,debt_consolidation,278.11,8300,10.79,690-694,?
+4017,2900,9.62,36,Consolidating BankofAmerica CreditCards,credit_card,93.06,2900,20.79,695-699,?
+4018,10000,10.37,60,home imporvement,home_improvement,214.3,10000,24.08,750-754,?
+4019,13800,11.48,36,homeciti,debt_consolidation,454.97,13800,23.61,750-754,?
+4020,5000,6.91,36,My Loan,debt_consolidation,154.18,5000,8.5,740-744,?
+4021,4000,6.39,36,Kart loan,major_purchase,122.4,4000,4.26,770-774,?
+4022,10000,5.79,36,Credit Card & Home Equity Consolidation,credit_card,303.27,10000,21.23,760-764,?
+4023,8500,6.54,36,Credit Card Payment,debt_consolidation,260.68,8500,21.83,725-729,?
+4024,21250,11.86,60,Debt KO,debt_consolidation,471.2,21250,12.96,735-739,?
+4025,2500,11.99,36,Debt consolidation loan,debt_consolidation,83.03,2500,7.4,690-694,?
+4026,9000,10.99,36,Home Improvement,home_improvement,294.62,9000,13.32,700-704,?
+4027,35000,17.27,36,Small Business loan,small_business,1252.56,35000,17.49,745-749,?
+4028,5000,14.22,36,change,other,171.43,5000,14.97,665-669,?
+4029,5000,11.71,36,Motorcycle,major_purchase,165.38,5000,18.33,695-699,?
+4030,10000,8.49,36,Debt Consolidation,debt_consolidation,315.63,10000,16.05,715-719,?
+4031,12000,18.25,60,3  carry,debt_consolidation,306.36,12000,12.51,695-699,?
+4032,4000,13.04,36,Paying for College,educational,134.86,4000,12.8,665-669,?
+4033,500,10.71,36,go on vacation in 08,vacation,16.31,500,3.04,680-684,?
+4034,4000,11.49,36,Karen's Cash,renewable_energy,131.89,4000,9.39,700-704,?
+4035,25000,15.33,36,Pay off my high interest credit cards.,debt_consolidation,870.71,25000,22.57,700-704,?
+4036,5000,15.05,36,Credit Card Consolidation,debt_consolidation,173.46,5000,4.31,685-689,?
+4037,5500,10.99,36,my loan,debt_consolidation,180.05,5500,19.6,695-699,?
+4038,3000,11.83,36,Ocean loan,other,99.41,3000,4.17,735-739,?
+4039,8000,15.68,36,Lower interest rate,credit_card,280.02,8000,22.49,660-664,?
+4040,4500,6.62,36,Rebuilding Fund,debt_consolidation,138.17,4500,10.09,735-739,?
+4041,2000,11.49,36,Happy Home,home_improvement,65.95,2000,21.48,700-704,?
+4042,10000,10.59,36,Debt Consolidation Loan,debt_consolidation,325.45,10000,2.95,715-719,?
+4043,11500,7.88,36,Debt Consolidation Loan,debt_consolidation,359.74,11500,18.96,735-739,?
+4044,20000,18.79,60,panacea,debt_consolidation,516.51,20000,20.7,680-684,?
+4045,16000,18.3,60,bills ,debt_consolidation,408.92,16000,10.72,660-664,?
+4046,20500,21.97,60,Debt consolidation,debt_consolidation,565.84,20500,26.15,665-669,?
+4047,13000,16.07,36,Debt Consolidate and Home Repair,debt_consolidation,457.52,13000,17.91,660-664,?
+4048,10000,15.95,60,Credit Card Loan,credit_card,242.92,10000,22.16,670-674,?
+4049,18000,10.99,36,Debt Consolidation Loan,debt_consolidation,589.22,18000,7.69,725-729,?
+4050,7000,7.14,36,Shell's car,car,216.59,7000,11.66,785-789,?
+4051,20000,8.9,36,Credit Card Payment Payoff Plan,debt_consolidation,635.07,20000,10.34,745-749,?
+4052,12000,8.94,36,Consolidating Credit Cards,debt_consolidation,381.26,12000,8.85,755-759,?
+4053,8500,14.27,36,Debt Consolidation Loan,debt_consolidation,291.63,8500,8.5,685-689,?
+4054,6000,11.36,36,GREAT BORROWER --DEBT CONSOLIDATION,debt_consolidation,197.47,6000,6.02,700-704,?
+4055,15000,21.67,60,Debt Consolidation Loan,debt_consolidation,411.48,15000,14.36,660-664,?
+4056,15800,16.32,60,Bill Consolidation,debt_consolidation,386.92,15800,15.54,690-694,?
+4057,6000,7.68,36,Cherokee,major_purchase,187.14,6000,9.52,815-819,?
+4058,8500,16.49,60,JC,vacation,208.93,8500,22,685-689,?
+4059,8000,7.51,36,Debt Consolidation,debt_consolidation,248.89,8000,13.28,725-729,?
+4060,4200,8.63,36,Personal Loan-Refinance at a better rate,credit_card,132.84,4200,19.48,760-764,?
+4061,26500,19.42,60,Debt Consolidation Loan,debt_consolidation,693.57,26500,17.56,690-694,?
+4062,30000,19.03,60,Debt Consolidation Loan,debt_consolidation,778.72,30000,19.09,705-709,?
+4063,8000,11.09,36,purchase work pickup truck,car,262.26,8000,5.12,685-689,?
+4064,10000,12.23,60,60 month,home_improvement,223.61,10000,2.5,805-809,?
+4065,6000,14.54,36,CitiFinancial Payoff,credit_card,206.65,6000,13.74,665-669,?
+4066,20000,6.91,36,Credit Card Payoff,credit_card,616.72,20000,12.65,740-744,?
+4067,15000,11.71,60,credit card refinance loan,credit_card,331.48,15000,21.04,745-749,?
+4068,10000,9.62,36,Family Home Improvement,home_improvement,320.9,10000,6.93,710-714,?
+4069,14500,11.97,36,credit cards are the devil,debt_consolidation,481.4,14500,8.6,685-689,?
+4070,35000,14.27,36,Debt Consolidation Loan,debt_consolidation,1200.82,35000,9.43,720-724,?
+4071,5000,11.14,36,Money Funk Debt Consolidation,debt_consolidation,164.02,5000,13.35,720-724,?
+4072,6400,7.49,36,Save,debt_consolidation,199.06,6400,7.81,755-759,?
+4073,2700,7.9,36,Pay off Centennial Bank,debt_consolidation,84.49,2700,23.18,730-734,?
+4074,21000,12.12,36,pay off and well,credit_card,698.71,21000,20.14,705-709,?
+4075,2500,12.53,36,Loan,major_purchase,83.67,2500,9.52,680-684,?
+4076,3000,13.11,36,debt consolidation,debt_consolidation,101.25,3000,24.74,685-689,?
+4077,10000,9.63,36,Personal Loan,debt_consolidation,320.95,10000,6.31,735-739,?
+4078,7125,10,36,Credit pay off,debt_consolidation,229.91,7125,22.46,695-699,?
+4079,3500,14.84,36,Getting me Over the Hump,medical,121.06,3500,20.4,660-664,?
+4080,25000,16.63,36,Business ,small_business,886.75,25000,2.84,740-744,?
+4081,18000,16.32,60,Debt Free,debt_consolidation,440.8,18000,8.5,680-684,?
+4082,5000,11.36,36,credit card refinance,credit_card,164.55,5000,20.39,685-689,?
+4083,10000,13.98,60,Lanscape Project,home_improvement,232.58,10000,23.83,705-709,?
+4084,10800,11.12,36,Pay OFF Everything,debt_consolidation,354.2,10800,24.51,725-729,?
+4085,12400,18.39,60,Debt Consolidation,debt_consolidation,317.52,12400,5.21,680-684,?
+4086,14000,13.06,60,Debt Loan,debt_consolidation,318.98,14000,14.96,715-719,?
+4087,1000,9.99,36,Joe's birthday,major_purchase,32.27,1000,2.84,695-699,?
+4088,15000,11.58,36,Equipment Purchase,small_business,495.21,15000,20.26,720-724,?
+4089,3000,6.76,36,JPR Home Loan,home_improvement,92.31,3000,20.45,795-799,?
+4090,4800,13.8,36,4800 credit paydown,debt_consolidation,163.59,4800,20.42,665-669,?
+4091,2875,19.72,60,GTI loan,car,75.73,2875,10.82,675-679,?
+4092,5500,10,60,motorcycle loan,car,116.86,5500,13.61,740-744,?
+4093,12000,14.3,36,Need to rent my house,home_improvement,411.89,12000,20.87,660-664,?
+4094,14125,21.28,60,Debt Consolidation Loan,debt_consolidation,384.36,14125,16.49,660-664,?
+4095,9600,12.73,36,Payoff,other,322.24,9600,13.76,705-709,?
+4096,6000,5.79,36,Credit Card Loan,credit_card,181.97,6000,5.57,755-759,?
+4097,7000,12.18,36,jen,debt_consolidation,233.1,7000,19.36,700-704,?
+4098,20000,15.31,60,Pay off for freedom of debt!!,debt_consolidation,479.06,20000,21.45,720-724,?
+4099,6000,10.25,36,MRC Loan,credit_card,194.31,6000,17.81,725-729,?
+4100,18500,14.27,60,credit,debt_consolidation,433.06,18500,16.8,710-714,?
+4101,10750,13.98,60,Debt Consolidation,debt_consolidation,250.03,10750,21.73,705-709,?
+4102,10000,10.25,36,Taking Control,major_purchase,323.85,10000,12.93,775-779,?
+4103,5000,15.8,36,Debt consolidation,debt_consolidation,175.3,5000,34.2,665-669,?
+4104,7500,10.83,36,second try,credit_card,244.94,7500,17.68,745-749,?
+4105,5300,5.42,36,Spring2011,debt_consolidation,159.85,5300,9.44,780-784,?
+4106,2800,12.18,36,debt consolidation,debt_consolidation,93.24,2800,16.96,695-699,?
+4107,7500,6.76,36,1991 Mustang,major_purchase,230.76,7500,15.74,775-779,?
+4108,9000,15.58,36,Debt Consolidation Loan,debt_consolidation,314.56,9000,4.6,670-674,?
+4109,2500,10.99,36,Upward Mobility Loan,other,81.84,2500,9.75,685-689,?
+4110,24250,6.91,60,Home Improvement Loan,home_improvement,318.62,16125,6.23,750-754,?
+4111,6000,14.84,36,Leslie debt free,debt_consolidation,207.53,6000,6.14,665-669,?
+4112,1400,5.79,36,Veterinary Expense,medical,42.46,1400,3.5,740-744,?
+4113,3250,7.49,36,Personal ,other,101.09,3250,21.33,715-719,?
+4114,25000,10.62,36,Debt,debt_consolidation,814,25000,16.17,760-764,?
+4115,13000,17.27,36,fiscally_smart05,debt_consolidation,465.24,13000,11.54,665-669,?
+4116,15250,13.11,36,Great loan,major_purchase,514.61,15250,11.89,690-694,?
+4117,15000,8.94,36,Second Chance,debt_consolidation,476.58,15000,6,785-789,?
+4118,6000,12.21,36,High Interest Credit Card Payoff,credit_card,199.89,6000,15.14,685-689,?
+4119,5000,15.62,36,summer fun,home_improvement,174.85,5000,16.48,665-669,?
+4120,1300,12.73,36,AHI Funds,debt_consolidation,43.64,1300,20.63,690-694,?
+4121,2475,15.05,36,Debt Consolidation,debt_consolidation,85.87,2475,19.87,670-674,?
+4122,10000,10.62,36,Victor's Loan,other,325.6,10000,14.24,745-749,?
+4123,1200,15.99,36,Home Improvement Loan,home_improvement,42.19,1200,19.48,660-664,?
+4124,14500,15.95,36,John's Debt Consolidation loan,debt_consolidation,509.42,14500,23.87,670-674,?
+4125,10500,11.49,60,wolfie,credit_card,230.87,10500,20.16,765-769,?
+4126,3500,6.62,36,repairs to my rental property,home_improvement,107.47,3500,2.96,745-749,?
+4127,15000,10,36,Almost There debt consolidation,debt_consolidation,484.01,15000,14.29,745-749,?
+4128,8000,7.9,36,Credit Card Loan,credit_card,250.33,8000,6.99,725-729,?
+4129,7700,14.65,36,Home improvement,home_improvement,265.61,7700,21.05,690-694,?
+4130,4500,13.35,60,GABRIEL1,credit_card,103.2,4500,12.91,700-704,?
+4131,15000,16.32,60,Debt Consolidation Loan,debt_consolidation,341.01,13925,9.31,685-689,?
+4132,8000,14.65,36,Car Loan,car,275.96,8000,12.6,675-679,?
+4133,5000,12.12,36,debt consolidation,debt_consolidation,166.36,5000,24.95,700-704,?
+4134,20000,14.26,36,relief,debt_consolidation,686.12,20000,22.81,685-689,?
+4135,13650,16.35,36,Grow with us!,small_business,482.25,13650,7.89,700-704,?
+4136,1000,14.3,36,School loan,educational,34.33,1000,15.04,660-664,?
+4137,14500,12.73,36,out of debt,credit_card,486.72,14500,22.62,705-709,?
+4138,2000,14.35,36,mark ,debt_consolidation,68.7,2000,17.94,665-669,?
+4139,4000,13.8,36,new equipment,small_business,136.33,4000,12.69,670-674,?
+4140,6000,7.66,36,Wanting To Do The Debt-Free Dance!,debt_consolidation,187.08,6000,14.33,700-704,?
+4141,3200,18.54,36,back to par,debt_consolidation,116.56,3200,2.8,670-674,?
+4142,5200,5.99,36,Medical Help,medical,158.18,5200,9.98,750-754,?
+4143,16000,15.33,36,non-covered medical surgery,medical,557.26,16000,15.31,670-674,?
+4144,8000,12.92,36,Paying my taxes,debt_consolidation,269.25,8000,4.08,665-669,?
+4145,2450,14.42,36,Consolidate debt,debt_consolidation,84.24,2450,21.6,700-704,?
+4146,12000,9.63,36,consolidate debt,credit_card,385.14,12000,22.02,750-754,?
+4147,7200,14.67,36,Consolidate and lower rate,debt_consolidation,248.43,7200,20.76,665-669,?
+4148,15000,13.23,36,Debt Free In 3,debt_consolidation,507.08,15000,8.86,700-704,?
+4149,7750,14.27,36,Debit Consolidation,debt_consolidation,265.9,7750,14.41,665-669,?
+4150,6000,13.98,60,Consolidation Loan,debt_consolidation,139.55,6000,4.16,705-709,?
+4151,15350,17.88,60,Debt Consolidation,debt_consolidation,388.79,15350,14.6,690-694,?
+4152,9250,10.74,36,Debt Buster,debt_consolidation,301.7,9250,12.63,685-689,?
+4153,8000,7.51,36,Personal Loan,other,248.89,8000,10.32,740-744,?
+4154,19125,21.59,60,Debt (Credit Cards) Cosolidation Loan,debt_consolidation,523.77,19125,18.61,665-669,?
+4155,11000,11.49,60,freedom,debt_consolidation,241.87,11000,12.08,720-724,?
+4156,6500,17.99,60,Loan T,debt_consolidation,165.03,6500,15.08,665-669,?
+4157,8400,13.57,36,GIN Success,debt_consolidation,285.34,8400,5.78,680-684,?
+4158,5000,7.51,36,Credit Card Loan,credit_card,155.56,5000,18.72,755-759,?
+4159,7500,12.29,36,bathroom reno,home_improvement,163.43,4900,2.15,670-674,?
+4160,12000,14.96,36,Debt Consolidation,debt_consolidation,415.76,12000,9.72,670-674,?
+4161,6000,13.23,60,Debt Consolidation,debt_consolidation,137.23,6000,23.26,710-714,?
+4162,30225,13.99,60,Small Business Loan,small_business,703.13,30225,17.1,755-759,?
+4163,6600,10.71,36,air conditioner,home_improvement,116.56,3575,13.3,700-704,?
+4164,20000,13.49,60,Debt Consolidation Loan,debt_consolidation,460.1,20000,24.74,745-749,?
+4165,8000,14.83,60,Get Out of Debt Now-2011,debt_consolidation,189.61,8000,8.72,700-704,?
+4166,2000,10.74,36,nip tuck,medical,65.24,2000,18.93,670-674,?
+4167,15000,10.62,36,savings,debt_consolidation,488.4,15000,9.55,725-729,?
+4168,15000,17.26,36,Alakkaya,debt_consolidation,536.77,15000,5.93,670-674,?
+4169,25000,19.29,36,Added Together,debt_consolidation,920.08,25000,14.77,660-664,?
+4170,4000,15.95,60,Auto Loan,car,97.17,4000,3.77,685-689,?
+4171,16000,10.25,36,Debt Free,debt_consolidation,518.16,16000,9.29,740-744,?
+4172,15000,13.99,36,Lending Club CC Refinance,credit_card,512.6,15000,12.05,690-694,?
+4173,8000,11.36,36,High credit card rates giving great couple the blues~,debt_consolidation,263.29,8000,22.93,690-694,?
+4174,16000,12.99,36,klf,debt_consolidation,539.03,16000,14.82,675-679,?
+4175,5000,10.25,36,SELEN,other,161.93,5000,19.12,715-719,?
+4176,1500,7.51,36,October Living Loan,major_purchase,46.67,1500,19.24,720-724,?
+4177,4000,5.42,36,Pool Loan,home_improvement,120.64,4000,11.53,800-804,?
+4178,14400,12.53,36,Freelancer with 750 score,car,481.92,14400,3.29,740-744,?
+4179,7500,9.01,36,Consolidation and Special Purchase,other,238.54,7500,10.37,710-714,?
+4180,12000,16,36,Purchase inventory for resale,small_business,421.89,12000,11.86,700-704,?
+4181,10000,9.99,60,Home Improvement,home_improvement,212.43,10000,15.54,735-739,?
+4182,5000,13.98,36,gneighbors,home_improvement,170.84,5000,8.29,675-679,?
+4183,15000,17.56,60,Bill Loan,debt_consolidation,259.73,10325,11.96,665-669,?
+4184,29700,16.4,60,Vending Business Startup,small_business,728.58,29700,8.41,755-759,?
+4185,25000,13.72,60,Benge Low Interest Consolidation,credit_card,376.34,16275,24.92,720-724,?
+4186,6000,11.99,36,God loves me,debt_consolidation,199.26,6000,19.37,700-704,?
+4187,20000,14.61,36,Credit Card and Loan Consolidation,debt_consolidation,689.51,20000,15.8,680-684,?
+4188,9950,12.99,36,OUT OF DEBT,debt_consolidation,335.21,9950,24.32,680-684,?
+4189,19200,9.99,36,freedom from debt in 3,debt_consolidation,619.44,19200,12.47,740-744,?
+4190,35000,18.39,60,Plate Swimming Pool ,other,896.22,35000,11.04,710-714,?
+4191,1500,7.74,36,New Job Bridge,debt_consolidation,46.83,1500,15.04,740-744,?
+4192,2500,13.67,36,Other,other,85.05,2500,19.03,670-674,?
+4193,15000,11.71,36,Small Business,small_business,496.14,15000,10.71,710-714,?
+4194,5000,8.59,36,investment,major_purchase,158.06,5000,12.59,740-744,?
+4195,8000,14.84,36,Credit Card Refinance,credit_card,276.7,8000,4.27,670-674,?
+4196,3800,8.59,36,Fresh Start with a Spin,credit_card,120.12,3800,5.33,790-794,?
+4197,9600,9.99,36,consolidation,debt_consolidation,309.72,9600,17.1,730-734,?
+4198,5000,16.35,36,loan for small business,small_business,176.65,5000,7.2,745-749,?
+4199,12000,16,36,RELISTED: Milestone Farm Expansion,small_business,421.89,12000,11.2,700-704,?
+4200,14500,17.04,36,debt  consolidate,debt_consolidation,517.28,14500,12.98,670-674,?
+4201,28000,9.99,36,Consolidation,credit_card,903.35,28000,15.65,725-729,?
+4202,12000,14.65,36,credit card refinance,credit_card,413.94,12000,24.89,670-674,?
+4203,12500,11.89,36,New Deal,credit_card,414.55,12500,0.25,765-769,?
+4204,10000,5.79,36,1991 Airstream ,major_purchase,303.27,10000,14.03,755-759,?
+4205,25000,13.49,36,Consolidation,debt_consolidation,848.27,25000,14.65,720-724,?
+4206,10000,10.25,36,Roxanne,other,323.85,10000,9.09,745-749,?
+4207,12825,17.58,36,Credit Cards,debt_consolidation,460.96,12825,13.13,665-669,?
+4208,13000,8.94,36,Bridge loan to cover loss on home sale.,moving,413.03,13000,0.05,800-804,?
+4209,3000,12.21,36,Cash,debt_consolidation,99.95,3000,9.88,700-704,?
+4210,10000,14.17,60,Pay off Credit Cards with high APR,credit_card,233.57,10000,8.58,695-699,?
+4211,20000,11.14,36,My First Home,house,656.07,20000,17.2,770-774,?
+4212,14000,11.49,36,CC Loan,debt_consolidation,461.6,14000,12.45,675-679,?
+4213,14000,9.91,36,Dept consolidation,debt_consolidation,451.15,14000,9.65,725-729,?
+4214,2500,7.14,36,Discoverfree,debt_consolidation,77.35,2500,0.2,760-764,?
+4215,9000,7.14,36,sable ans,car,278.48,9000,7.96,755-759,?
+4216,10400,10.25,36,Ruth_Ñés Ruthless Commitment to Her Future!!,debt_consolidation,336.81,10400,14.83,720-724,?
+4217,10000,9.76,36,solution,debt_consolidation,321.55,10000,8.61,720-724,?
+4218,20000,11.58,36,Business Consolidation Loan,credit_card,226.97,6875,19.37,755-759,?
+4219,5000,8,36,motorcycle loan,major_purchase,156.69,5000,2.36,750-754,?
+4220,20000,12.53,36,Debt consolidation,debt_consolidation,669.33,20000,24.56,715-719,?
+4221,9000,7.29,36,Getting Closer to Buying A House,debt_consolidation,279.09,9000,18.44,735-739,?
+4222,2500,7.37,36,Loan to pay lawyers,other,77.62,2500,0.39,770-774,?
+4223,5550,13.06,60,rusty,debt_consolidation,126.46,5550,19.62,725-729,?
+4224,13600,11.49,60,Debt consolidation,debt_consolidation,299.04,13600,21.73,725-729,?
+4225,29000,20.99,60,Home Improvement Loan,home_improvement,784.39,29000,11.73,680-684,?
+4226,7200,11.03,36,consolidate,other,235.83,7200,14.4,690-694,?
+4227,5000,5.42,36,debt consolidation,debt_consolidation,150.8,5000,16.03,790-794,?
+4228,24000,17.26,36,Pay off Credit Cards,debt_consolidation,521.56,14575,12.12,675-679,?
+4229,4000,13.92,36,College Debt Pay Off,debt_consolidation,136.55,4000,7.83,675-679,?
+4230,16000,11.99,60,Debt,debt_consolidation,355.84,16000,11.63,750-754,?
+4231,15000,11.83,36,Debt Consolidation,debt_consolidation,497.01,15000,9.26,730-734,?
+4232,19200,17.06,60,Credit cards,credit_card,365.19,14675,15.66,685-689,?
+4233,8000,5.79,36,Pay Off Charge Cards,credit_card,242.62,8000,4.1,775-779,?
+4234,6625,7.66,36,PayThatCreditCardOFF!!!,debt_consolidation,206.57,6625,15.09,705-709,?
+4235,3500,14.22,36,Wedding,other,120,3500,15.36,660-664,?
+4236,10000,9.63,36,ccf,credit_card,320.94,10000,3.35,740-744,?
+4237,2000,14.22,36,Amanda's Personal Loan,other,68.57,2000,7.83,660-664,?
+4238,10000,13.49,36,Bail & Lawyer,other,339.31,10000,11.34,695-699,?
+4239,10000,16.49,36,DebT Consolidation,debt_consolidation,354,10000,15.1,665-669,?
+4240,7750,7.14,36,Freedom Loan,debt_consolidation,239.78,7750,14.35,775-779,?
+4241,9000,13.61,36,Catering Truck Purchase,car,305.9,9000,17.62,680-684,?
+4242,5000,15.21,36,jeep,car,173.85,5000,7.43,660-664,?
+4243,13100,16.77,36,lending club,car,465.56,13100,9.56,675-679,?
+4244,9000,12.68,36,Motorcycle loan,car,301.87,9000,15.37,695-699,?
+4245,11000,8.59,36,poogie2,debt_consolidation,347.72,11000,16.46,750-754,?
+4246,5000,16.29,36,Debt consolidation,debt_consolidation,176.51,5000,12.18,660-664,?
+4247,29700,15.28,60,Debt consolidator,debt_consolidation,710.94,29700,24.42,725-729,?
+4248,5500,8.59,36,Consolodation,debt_consolidation,173.86,5500,14.97,740-744,?
+4249,6000,11.89,36,pay off 401k loan,debt_consolidation,198.99,6000,15.87,695-699,?
+4250,24250,11.36,36,Thanks for the Help!,debt_consolidation,798.1,24250,17.53,740-744,?
+4251,15850,15.65,36,Pay off credit card with high interests ,debt_consolidation,554.53,15850,22.84,670-674,?
+4252,15000,14.65,36,debt consolidation loan,debt_consolidation,517.42,15000,7.06,685-689,?
+4253,7800,12.53,36,Debt Consolidation,debt_consolidation,261.04,7800,16.42,715-719,?
+4254,16000,14.35,36,Appreciative Borrower,credit_card,549.57,16000,18.3,690-694,?
+4255,17000,6.62,36,Debt Consolidation,debt_consolidation,521.97,17000,24.73,795-799,?
+4256,3000,10.99,36,Consolidate Bills,debt_consolidation,98.21,3000,14.18,695-699,?
+4257,5000,11.71,36,small_business,small_business,165.38,5000,0.88,730-734,?
+4258,28000,18.39,60,Debt Consolidation Loan,debt_consolidation,716.97,28000,17.37,705-709,?
+4259,30000,10.99,60,BF Consolidation Loan,debt_consolidation,422.25,19425,1.34,770-774,?
+4260,10000,14.27,36,Credit card,credit_card,343.09,10000,20.05,670-674,?
+4261,5000,16,36,Assist in buying used car,car,175.79,5000,3.73,670-674,?
+4262,16000,16.32,60,Credit Card Loan,credit_card,317.13,12950,3.69,685-689,?
+4263,5850,17.58,60,down payment,major_purchase,147.22,5850,13.12,705-709,?
+4264,3600,17.93,60,Debt Consolidation & Schooling,debt_consolidation,91.28,3600,1.28,685-689,?
+4265,3500,13.57,36,26 Years at My Job_Good Credit Borrower,major_purchase,118.89,3500,16.05,670-674,?
+4266,8875,12.69,36,credit card debt,debt_consolidation,297.72,8875,23.11,695-699,?
+4267,5500,10.36,36,Medical Expense,medical,178.41,5500,11.7,720-724,?
+4268,12000,15.31,36,Personal Loan to Consolidate Debt,debt_consolidation,417.79,12000,5.59,665-669,?
+4269,3600,11.89,36,Help with our dream wedding!,wedding,119.4,3600,15.02,695-699,?
+4270,13400,11.48,36,Come Back Kid,debt_consolidation,441.78,13400,20.5,725-729,?
+4271,25000,16.77,36,Debt Consolidation,debt_consolidation,888.46,25000,14.14,680-684,?
+4272,20000,14.42,36,Consolidate,debt_consolidation,687.66,20000,23.25,695-699,?
+4273,8000,14.27,36,Medical,medical,274.48,8000,10.76,685-689,?
+4274,6000,14.96,36,personal loan,major_purchase,207.87,6000,8.49,660-664,?
+4275,25000,11.86,36,pizza loan,small_business,729.25,22000,11.45,790-794,?
+4276,2200,7.9,36,Debt Consolidation Loan,debt_consolidation,68.84,2200,28.34,725-729,?
+4277,10000,20.5,36,Business Interest,small_business,374.19,10000,16.88,660-664,?
+4278,12000,11.71,36,Debt Payoff,debt_consolidation,396.92,12000,17.52,685-689,?
+4279,6000,13.99,36,Personal Load,other,205.04,6000,22.61,675-679,?
+4280,10200,12.69,36,Engagement and more,wedding,342.16,10200,15.5,705-709,?
+4281,12000,10.36,60,Bettesbills,debt_consolidation,257.1,12000,14.2,725-729,?
+4282,1800,11.89,36,Personal Expenses,other,59.7,1800,22.28,685-689,?
+4283,5000,15.96,36,Pay off High Interest Credit Cards,credit_card,175.69,5000,19.63,660-664,?
+4284,10000,5.79,36,Consolidation,debt_consolidation,303.27,10000,13.02,775-779,?
+4285,12000,20.25,60,Credit Card Loan,credit_card,319.6,12000,18.7,670-674,?
+4286,13000,10.65,36,Credit card Debt,debt_consolidation,423.46,13000,9.44,705-709,?
+4287,10000,16.29,36,Consolidation,debt_consolidation,353.01,10000,11.08,685-689,?
+4288,6000,15.95,36,Credit Card Consolidation,debt_consolidation,210.8,6000,6.59,665-669,?
+4289,4000,7.14,36,New commercial litigation firm!,small_business,123.76,4000,1.48,760-764,?
+4290,18400,12.41,36,Lower Credit Card Rate,credit_card,614.76,18400,14.38,700-704,?
+4291,7500,16.29,36,Home Improvement Loan,home_improvement,264.76,7500,16.67,665-669,?
+4292,7800,11.99,36,Debit Consolidation,debt_consolidation,259.04,7800,4.88,695-699,?
+4293,5000,6.92,36,Car Loan,car,154.21,5000,16.25,735-739,?
+4294,16950,16.49,60,Debt Consolidation,credit_card,416.62,16950,13.97,695-699,?
+4295,10000,13.99,36,CONSOLIDATION 2011,debt_consolidation,341.73,10000,8.44,675-679,?
+4296,6000,9.63,36,KPA Companionable Canine,other,192.57,6000,6.83,755-759,?
+4297,28000,9.76,36,Credit Loan,other,900.33,28000,5.61,745-749,?
+4298,12000,12.87,36,WiseMove4Grandson,credit_card,403.6,12000,7.15,695-699,?
+4299,22000,10.99,60,Personal Loan,debt_consolidation,478.23,22000,10.8,750-754,?
+4300,9600,15.21,60,consolodate,debt_consolidation,229.45,9600,6.17,695-699,?
+4301,15000,14.65,36,credit card,credit_card,517.42,15000,22.66,720-724,?
+4302,5000,15.65,60,Consolidation of Debt,debt_consolidation,120.67,5000,19.65,680-684,?
+4303,24000,20.16,36,fire10,home_improvement,893.85,24000,2.35,665-669,?
+4304,13500,13.22,36,Bye-bye Chase!,debt_consolidation,456.31,13500,9.3,690-694,?
+4305,6250,18.3,60,leezy,debt_consolidation,159.74,6250,16.95,665-669,?
+4306,9000,9.63,36,Debt Consolidation Loan,debt_consolidation,288.85,9000,18.69,705-709,?
+4307,12250,13.67,36,debt,debt_consolidation,416.72,12250,13.28,690-694,?
+4308,35000,19.99,60,Debt-Consolidation,home_improvement,927.1,35000,20.46,710-714,?
+4309,14000,15.95,60,personal,other,340.09,14000,13.85,705-709,?
+4310,22400,14.11,36,CREDIT,other,766.73,22400,7.78,695-699,?
+4311,1000,14.96,36,Land of Opportunity Help Become a Doctor,educational,34.65,1000,20.98,670-674,?
+4312,7000,12.73,36,a safe and profitable investment,debt_consolidation,234.97,7000,19.43,695-699,?
+4313,2500,7.14,36,780 credit -  New furniture!,major_purchase,77.36,2500,14.75,765-769,?
+4314,12000,13.99,36,Small Business Loan,small_business,410.08,12000,17.42,690-694,?
+4315,20000,13.22,36,Personal Loan,debt_consolidation,676.02,20000,0.65,725-729,?
+4316,10000,15.62,36,Debt Consolidation Loan,debt_consolidation,349.7,10000,11.14,670-674,?
+4317,3000,9.32,36,Seeking Extra Emergency Cash,other,95.85,3000,18.01,720-724,?
+4318,18000,7.49,36,Personal Loan Requirements,wedding,559.83,18000,5.29,765-769,?
+4319,15000,10.99,36,$15K,other,491.01,15000,8.15,725-729,?
+4320,10000,10.39,36,Credit Card Debt Consolidation,debt_consolidation,324.51,10000,7.12,710-714,?
+4321,12000,11.48,36,Putting credit cards into one payment saves cash!,credit_card,395.63,12000,24.61,725-729,?
+4322,18000,13.43,60,Small Business Loan,small_business,413.53,18000,13.3,745-749,?
+4323,24250,10.75,36,Personal Loan,debt_consolidation,791.05,24250,16.12,735-739,?
+4324,12000,7.51,36,Debt consolidation,debt_consolidation,373.33,12000,15.64,750-754,?
+4325,4900,9.99,36,Debt,credit_card,158.09,4900,11.09,705-709,?
+4326,2600,20.25,60,Debt Consolidation Loan,debt_consolidation,69.25,2600,4.96,665-669,?
+4327,1000,14.26,36,Merry Christmas,debt_consolidation,34.31,1000,24.61,660-664,?
+4328,3200,9.32,36,F-250 Diesel,car,102.23,3200,0,735-739,?
+4329,10000,7.9,36,Debt Consolidation/CC Payoff,debt_consolidation,312.91,10000,19.34,725-729,?
+4330,19400,13.11,36,1,debt_consolidation,654.65,19400,11.76,710-714,?
+4331,4000,12.87,36,School help,other,134.54,4000,7,735-739,?
+4332,8500,9.88,36,Loan Consolidation,debt_consolidation,273.79,8500,21.19,765-769,?
+4333,15000,10.59,36,Medical,medical,488.18,15000,7.55,740-744,?
+4334,20000,20.89,60,Debt condolidation,debt_consolidation,539.84,20000,16.23,665-669,?
+4335,18000,18.79,60,Personal,debt_consolidation,464.86,18000,11.65,670-674,?
+4336,12375,23.13,60,Purchase,other,349.79,12375,20.88,670-674,?
+4337,1500,12.99,60,Personal Loan,other,34.13,1500,6.91,690-694,?
+4338,4000,10.99,36,Moving Loan,moving,130.94,4000,2.46,685-689,?
+4339,6000,6.62,36,medical,debt_consolidation,184.23,6000,25.23,735-739,?
+4340,9000,15.81,36,Debt Consolidation Loan,debt_consolidation,315.57,9000,11.94,670-674,?
+4341,25000,10.74,36,Working Capital,small_business,815.4,25000,17.76,760-764,?
+4342,14500,11.14,36,credit card debt,credit_card,475.68,14500,21.8,710-714,?
+4343,1500,8.9,36,Credit Card Loan,credit_card,47.63,1500,4,705-709,?
+4344,35000,19.91,60,debit,debt_consolidation,925.54,35000,20.45,705-709,?
+4345,6400,8.49,36,Debt Consolidation,debt_consolidation,202.01,6400,18.82,700-704,?
+4346,8000,15.99,60,Debt Consolidation Loan,debt_consolidation,194.51,8000,6.76,720-724,?
+4347,3500,5.42,36,ATV loan,major_purchase,105.56,3500,7.43,780-784,?
+4348,3200,9.62,60,car repair,other,67.4,3200,23.24,735-739,?
+4349,2725,17.99,36,Personal,other,98.51,2725,6.56,670-674,?
+4350,3000,7.68,36,Metalending,other,93.57,3000,0.79,755-759,?
+4351,5000,12.61,36,Consolidation Loan,debt_consolidation,167.54,5000,20.24,670-674,?
+4352,7200,6.62,36,Home Improvement Loan,home_improvement,221.07,7200,21.36,755-759,?
+4353,5000,7.9,36,Debt Consolidation Loan,debt_consolidation,156.46,5000,1.11,720-724,?
+4354,11525,13.57,36,Wiring Professionals,debt_consolidation,391.49,11525,17.92,675-679,?
+4355,5000,11.28,36,Improvement,home_improvement,164.36,5000,13.53,685-689,?
+4356,5000,7.66,36,harley,major_purchase,155.9,5000,8.75,730-734,?
+4357,22000,20.89,60,2011,debt_consolidation,593.82,22000,6.27,675-679,?
+4358,10000,8,36,Help,debt_consolidation,313.37,10000,7.62,770-774,?
+4359,10000,12.68,36,Credit Card Refinance,credit_card,335.41,10000,20.59,695-699,?
+4360,11000,12.12,36,Home Improvement,other,365.99,11000,1.56,760-764,?
+4361,16000,14.74,36,Urban Fashions Outlet,small_business,552.59,16000,18.53,670-674,?
+4362,5000,10.83,36,Personal,debt_consolidation,163.3,5000,21.53,740-744,?
+4363,35000,20.25,60,Small Business Loan,small_business,932.17,35000,6.23,680-684,?
+4364,10000,6.99,36,Home Improvement Loan,home_improvement,209.94,6800,17.24,780-784,?
+4365,7000,7.9,36,personal,credit_card,219.04,7000,15.48,710-714,?
+4366,13000,12.73,36,Fresh Start,debt_consolidation,436.37,13000,22.83,700-704,?
+4367,5000,12.53,36,Student Loan Needed,educational,167.34,5000,0,695-699,?
+4368,16000,15.2,60,Consolidation 16X60,debt_consolidation,382.33,16000,18.79,700-704,?
+4369,7675,15.33,36,Must.. Get.. Out.. from under the MAN!,debt_consolidation,267.31,7675,14.03,660-664,?
+4370,9000,9.63,36,Taking Care of the Family,moving,288.85,9000,7.19,755-759,?
+4371,19600,12.12,60,personal,other,437.19,19600,29.01,750-754,?
+4372,5000,7.88,36,Tuition and Books,educational,156.41,5000,22.24,725-729,?
+4373,13375,6.92,36,CIti Pay off loan,debt_consolidation,412.5,13375,20.6,760-764,?
+4374,8000,10.38,36,Smarter Debt Consolidation,debt_consolidation,259.57,8000,2.02,715-719,?
+4375,4000,16.32,36,Wedding Expenses,other,141.27,4000,15.51,665-669,?
+4376,14125,12.68,60,Home Improvment Project,home_improvement,319.08,14125,11.13,755-759,?
+4377,2000,9.32,36,DJ company expansion,small_business,63.9,2000,12.04,740-744,?
+4378,19000,16.7,36,Paying too much interest,debt_consolidation,674.53,19000,19.87,665-669,?
+4379,5200,11.49,60,Home Improvement ,home_improvement,114.34,5200,0.32,750-754,?
+4380,9000,17.58,36,Debt Consolidation Loan,debt_consolidation,323.48,9000,7.56,660-664,?
+4381,8000,13.22,36,Debt Loan,debt_consolidation,270.41,8000,9.02,680-684,?
+4382,10000,8.59,36,School and Expenses While Working,educational,316.11,10000,4.71,770-774,?
+4383,5000,12.87,36,Breathing Room,debt_consolidation,168.17,5000,13.14,700-704,?
+4384,25000,14.7,36,WANT TO BORROW MONEY TO GROW BUSINESS,small_business,862.97,25000,5.79,675-679,?
+4385,3000,9.91,36,Debt Consolidation,wedding,96.68,3000,4.75,710-714,?
+4386,6000,11.48,36,Loan for USNavyBlueAngel,debt_consolidation,197.82,6000,1.61,740-744,?
+4387,12500,8.94,36,home improvement,home_improvement,397.15,12500,4.26,770-774,?
+4388,9800,13.11,36,consolidation,debt_consolidation,330.7,9800,9.1,685-689,?
+4389,12375,20.48,60,money flow solution,debt_consolidation,331.18,12375,14.88,665-669,?
+4390,10000,16.7,36,Nicholson Solutions,small_business,355.02,10000,6.89,690-694,?
+4391,5500,10.99,60,camper,major_purchase,119.56,5500,6.73,710-714,?
+4392,1000,9.32,36,Wife's turning 30 surprise birthday part,other,31.95,1000,20.37,740-744,?
+4393,12000,10.74,36,Personal Home Improvement Loan,home_improvement,391.39,12000,10.09,700-704,?
+4394,14000,10.99,36,Refinance,debt_consolidation,458.28,14000,15.85,700-704,?
+4395,5000,14.11,36,American Express,credit_card,171.15,5000,6.84,700-704,?
+4396,16000,16.89,36,Debt Consolidation Loan,debt_consolidation,569.57,16000,22.5,670-674,?
+4397,14000,6.03,36,Small Business Loan,small_business,426.1,14000,8.85,810-814,?
+4398,24250,13.23,36,LINE OF CREDIT,debt_consolidation,819.77,24250,3.57,715-719,?
+4399,15000,13.47,36,Home Improvement & Debt Consolidation,home_improvement,508.84,15000,13.13,685-689,?
+4400,11000,8.59,36,PAY OFF,debt_consolidation,347.72,11000,24.49,765-769,?
+4401,6400,12.87,36,Moving and Marriage,major_purchase,215.26,6400,11.09,685-689,?
+4402,12000,14.27,60,get out of debt,debt_consolidation,280.91,12000,9.35,715-719,?
+4403,35000,23.52,60,Personal Loan,debt_consolidation,997.16,35000,21.2,660-664,?
+4404,11750,15.31,36,Debt Consolidating,debt_consolidation,409.08,11750,22.51,665-669,?
+4405,3000,7.37,36,Medical Bill Consolidation ,medical,93.14,3000,6.39,780-784,?
+4406,30000,20.3,36,Debt Consolidation Loan,debt_consolidation,1119.5,30000,12.27,660-664,?
+4407,4500,5.42,36,84 GMC,car,135.72,4500,10.9,800-804,?
+4408,10000,16.59,60,Major Purchase Loan,major_purchase,246.33,10000,20.31,695-699,?
+4409,12000,15.95,36,Steve's Debt,debt_consolidation,421.59,12000,8.34,665-669,?
+4410,4650,10.28,36,udi,other,150.66,4650,3.26,685-689,?
+4411,6975,12.12,36,my new opportunity to better life,debt_consolidation,232.07,6975,7.87,680-684,?
+4412,1050,7.51,36,MAJOR PURCHASE LOAN,major_purchase,32.67,1050,15.85,730-734,?
+4413,17475,14.65,36,pay off debt,credit_card,602.79,17475,21.84,685-689,?
+4414,8500,12.84,36,Credit Card Refi,credit_card,285.76,8500,10.62,680-684,?
+4415,14400,15.27,60,Ever Feel You are Running Out of Time?,debt_consolidation,344.62,14400,16.3,700-704,?
+4416,35000,20.99,60,landscaping and pool,home_improvement,946.68,35000,12.95,670-674,?
+4417,13750,11.36,36,consolidate,debt_consolidation,292.9,8900,24.54,705-709,?
+4418,10000,16.45,36,HOME/BILLS,house,353.8,10000,12.23,660-664,?
+4419,12000,15.28,60,debt consolidation,debt_consolidation,287.25,12000,19.2,685-689,?
+4420,15000,13.98,36,Booming Web-Marketing Business,small_business,512.52,15000,6.08,690-694,?
+4421,5500,13.16,36,Home Improvment,home_improvement,185.74,5500,23.52,690-694,?
+4422,24000,12.87,36,Tax Loan,other,807.2,24000,15.35,720-724,?
+4423,18000,22.64,60,Debt Consolidation Loan,debt_consolidation,370.79,13250,18,670-674,?
+4424,24650,16.89,60,Debt Consolidation,debt_consolidation,518.19,20900,21.65,735-739,?
+4425,6000,14.61,36,personal,debt_consolidation,206.86,6000,16.2,680-684,?
+4426,3600,14.79,60,Personal Loan,other,85.25,3600,17.68,685-689,?
+4427,5000,7.88,36,First and Last Loan,major_purchase,156.41,5000,3.51,740-744,?
+4428,8400,14.27,36,Debt consolidation,debt_consolidation,288.2,8400,21.12,670-674,?
+4429,16800,16.11,60,Consolidation,debt_consolidation,409.53,16800,16.36,705-709,?
+4430,12000,10.62,36,Consolidation,debt_consolidation,390.72,12000,24.16,715-719,?
+4431,25000,15.57,36,time ,debt_consolidation,873.63,25000,11.34,715-719,?
+4432,12875,9.76,36,Debt Consolidation,debt_consolidation,414,12875,25.38,730-734,?
+4433,21625,20.49,60,Credit card refinancing,credit_card,578.85,21625,18.43,690-694,?
+4434,7000,13.48,36,Freeatlast101,credit_card,237.47,7000,19.94,675-679,?
+4435,3000,14.65,36,Other,other,103.49,3000,27.21,680-684,?
+4436,6000,11.28,36,Personal Loan,other,172.58,5250,5.24,710-714,?
+4437,3250,14.35,36,bill pay,debt_consolidation,111.64,3250,14.82,680-684,?
+4438,9975,11.48,36,autopay,medical,328.87,9975,18.98,710-714,?
+4439,3200,12.21,36,motorcycle,car,106.61,3200,16.88,690-694,?
+4440,4000,17.19,36,my loan,home_improvement,142.99,4000,9.35,665-669,?
+4441,8000,15.58,60,lendingclub,car,192.77,8000,0.07,715-719,?
+4442,8000,12.61,36,DEBT CONSOLIDATION /NEW JOB/FRESH START,credit_card,268.06,8000,17.54,680-684,?
+4443,2500,8.88,36,solar,renewable_energy,79.36,2500,19.44,710-714,?
+4444,3000,11.48,36,debs loan,home_improvement,98.91,3000,7.96,705-709,?
+4445,6000,16.2,36,consolidate debt and medical expenses,debt_consolidation,211.54,6000,14.91,660-664,?
+4446,1800,8.9,36,Wedding,wedding,57.16,1800,2.64,780-784,?
+4447,9525,19.69,60,5 year plan,debt_consolidation,250.72,9525,21.97,685-689,?
+4448,13200,14.79,36,Credit card payoff,debt_consolidation,456.23,13200,18.8,680-684,?
+4449,1325,10,36,New Start,moving,42.76,1325,14.95,710-714,?
+4450,9000,7.14,60,Half A Car,car,178.81,9000,1.15,770-774,?
+4451,10000,12.42,36,Credit Cards,debt_consolidation,334.16,10000,17.62,675-679,?
+4452,24000,16.32,36,paying off credit card,debt_consolidation,847.53,24000,14.93,680-684,?
+4453,3200,11.48,36,Working My Way Out,debt_consolidation,105.5,3200,21.43,710-714,?
+4454,10750,11.14,36,Looking for a credit consolidation loan,credit_card,352.64,10750,11.91,720-724,?
+4455,12300,14.96,36,Credit Cards Payoff,credit_card,426.14,12300,6.43,665-669,?
+4456,15000,13.57,36,Consolidate Credit Card Debt,debt_consolidation,509.53,15000,9.43,685-689,?
+4457,8000,17.14,60,DEBTFREE,debt_consolidation,199.43,8000,16.94,665-669,?
+4458,12000,12.17,36,robert martinez loan,debt_consolidation,399.55,12000,14.5,670-674,?
+4459,25000,18.25,36,Debt Pay Off,debt_consolidation,906.95,25000,21.77,680-684,?
+4460,13750,11.14,36,Bill Consolidation Loan,debt_consolidation,451.05,13750,16.09,735-739,?
+4461,7000,10,36,Refinance loan,credit_card,225.88,7000,19.4,705-709,?
+4462,6900,9.91,36,Debt pay off ,debt_consolidation,222.36,6900,20.1,695-699,?
+4463,9000,13.92,36,Debt consolidation,debt_consolidation,307.24,9000,12.04,690-694,?
+4464,5000,16.29,36,Debt Consolidation,debt_consolidation,176.51,5000,23.65,695-699,?
+4465,6800,6.54,36,Ada,credit_card,208.54,6800,16.04,735-739,?
+4466,1000,10.59,36,Hospital loan,medical,32.55,1000,27.47,740-744,?
+4467,23200,16,36,Profitable Small Business Owner needs to buy more equipment,small_business,815.66,23200,0.56,750-754,?
+4468,7000,8.94,36,Credit Card Payoff and Engagement Ring,debt_consolidation,222.41,7000,18.42,740-744,?
+4469,17000,12.68,60,Debt Consolidation Loan,debt_consolidation,384.03,17000,24.3,720-724,?
+4470,8000,6.99,36,Final Payoff,debt_consolidation,246.99,8000,4.03,725-729,?
+4471,4200,9.32,36,Wedding expenses,wedding,134.18,4200,8.52,735-739,?
+4472,21600,14.79,60,Do Drop In,small_business,511.49,21600,0.37,795-799,?
+4473,12000,10.37,36,Andrew's Debt Consol Loan,debt_consolidation,389.3,12000,19.83,705-709,?
+4474,3000,15.62,36,New Apt.,other,104.91,3000,9.65,665-669,?
+4475,6000,12.12,36,Debt Consolidation,debt_consolidation,199.63,6000,5.55,685-689,?
+4476,8500,15.05,36,Pay off credit cards and car loan,debt_consolidation,294.88,8500,13.75,670-674,?
+4477,1450,9.88,36,A loan that fits my needs,small_business,46.71,1450,7.54,705-709,?
+4478,2100,14.83,60,pesonal,other,49.78,2100,14.11,670-674,?
+4479,2400,13.23,60,cr480r,car,54.9,2400,13.96,735-739,?
+4480,3000,10.99,60,Home Improvement,home_improvement,65.22,3000,16.98,715-719,?
+4481,3000,13.99,60,To save money on gas.,car,69.79,3000,6.82,695-699,?
+4482,10850,10.99,36,Debt consolidation Loan,debt_consolidation,355.17,10850,22.91,725-729,?
+4483,6000,8.9,36,Credit Card Refinance,credit_card,190.52,6000,10.98,715-719,?
+4484,7350,11.99,36,Wedding,wedding,244.1,7350,8.67,715-719,?
+4485,20000,12.29,36,Debt consolidation,credit_card,266.83,8000,5.36,685-689,?
+4486,18000,8.9,36,Pay off Credit Cards,credit_card,571.56,18000,17.76,740-744,?
+4487,24000,17.58,60,Debt pay off,debt_consolidation,603.98,24000,20.96,700-704,?
+4488,3500,9.96,36,Paying off high interest student loan.,other,112.87,3500,11.06,700-704,?
+4489,6200,19.82,36,Business Bank line of Credit,small_business,229.86,6200,0,665-669,?
+4490,12000,12.69,60,Debt consolidation,debt_consolidation,271.14,12000,17.62,705-709,?
+4491,2000,18.39,36,Auto Repair Loan,other,72.7,2000,15.62,665-669,?
+4492,22000,13.11,36,personal loan,debt_consolidation,742.39,22000,21.22,720-724,?
+4493,5150,6.03,36,CRX,car,156.75,5150,3.44,775-779,?
+4494,19425,12.42,60,Lending Club Loan,debt_consolidation,436.24,19425,18.45,745-749,?
+4495,24000,10.62,36,Operation Clean Sweep,credit_card,781.44,24000,4.32,760-764,?
+4496,6000,14.59,36,personal investment,major_purchase,206.79,6000,0,685-689,?
+4497,17600,16.35,36,new family looking to start with a clean slate,debt_consolidation,621.8,17600,17.35,665-669,?
+4498,20000,9.99,60,JarekandPaola,debt_consolidation,424.85,20000,21.03,720-724,?
+4499,10000,16.32,36,Wyndham,other,353.16,10000,24.45,670-674,?
+4500,15000,11.26,36,NVOH 2009 ,small_business,492.95,15000,3.31,755-759,?
+4501,6000,13.61,60,Lending Club Loan,debt_consolidation,138.4,6000,19.87,695-699,?
+4502,7400,16.32,36,Consolidation Loan for Business/Personal,debt_consolidation,261.32,7400,3.85,660-664,?
+4503,3000,13.99,36,Major purchase,major_purchase,102.52,3000,25.95,680-684,?
+4504,15000,14.27,36,consolidation,debt_consolidation,514.64,15000,15.22,695-699,?
+4505,10000,7.9,36,DEBT CONSOLIDATION,debt_consolidation,312.91,10000,9.38,735-739,?
+4506,9250,13.11,36,Need good Karma? Save me from High Interest Rate Hell.,debt_consolidation,312.14,9250,18.72,680-684,?
+4507,35000,20.99,60,Good Income but Need to Consolidate Debt,debt_consolidation,676.87,25025,9,670-674,?
+4508,6000,10.37,36,I need a better rate,debt_consolidation,194.65,6000,6.58,690-694,?
+4509,11875,12.69,60,Debt Consolidation Loan,debt_consolidation,268.32,11875,23.75,725-729,?
+4510,12000,12.18,36,Car loan,car,399.6,12000,9.03,710-714,?
+4511,7000,11.99,36,Consolidation,other,232.47,7000,7.16,675-679,?
+4512,7000,10.16,36,New business needs securtiy system,small_business,226.4,7000,20.01,705-709,?
+4513,15000,10.95,36,"Establish a ""Proven Provider"" network",small_business,490.71,15000,1.07,760-764,?
+4514,4025,14.27,36,Debt Downsizing,debt_consolidation,138.1,4025,6.47,675-679,?
+4515,10000,11.86,60,debt consolidation,debt_consolidation,221.74,10000,22.31,715-719,?
+4516,19600,13.98,36,Wedding loan,wedding,669.7,19600,1.04,705-709,?
+4517,5000,8.94,36,Loan to pay off 2 credit cards!,debt_consolidation,158.86,5000,19.2,725-729,?
+4518,13000,20.03,60,debt consolidation,debt_consolidation,344.64,13000,20.11,670-674,?
+4519,18000,6.99,36,Home Improvement,home_improvement,555.71,18000,11.96,800-804,?
+4520,19200,7.49,36,Credit Card Loan,credit_card,597.16,19200,10.82,760-764,?
+4521,24575,17.49,60,Consolidate Debts,debt_consolidation,617.25,24575,10.44,710-714,?
+4522,6000,7.14,36,Discover,debt_consolidation,185.65,6000,8.91,760-764,?
+4523,1000,10.25,36,Paid Back In Flash,educational,32.39,1000,21.37,700-704,?
+4524,2450,7.9,36,consolidation of bills,credit_card,76.67,2450,19.2,750-754,?
+4525,5000,15.99,36,Debt Consolidation Loan,debt_consolidation,175.77,5000,5.26,665-669,?
+4526,13750,16.45,36,improvement loan,home_improvement,486.47,13750,18.6,670-674,?
+4527,15000,16.45,36,Credit Card Payoff,credit_card,530.7,15000,12.15,675-679,?
+4528,20800,21.48,60,Saving me,debt_consolidation,568.35,20800,18.79,695-699,?
+4529,3000,8,36,personal loan,debt_consolidation,94.01,3000,10.4,740-744,?
+4530,3000,10.14,36,Moving - Need some money,moving,97,3000,0,690-694,?
+4531,4800,9.76,36,House needs a new roof,home_improvement,154.35,4800,16.77,715-719,?
+4532,2000,7.51,36,personal,other,62.23,2000,12.76,725-729,?
+4533,5000,12.99,36,hopeful,debt_consolidation,168.45,5000,24.51,685-689,?
+4534,25000,18.84,36,Coffee Shop,small_business,914.42,25000,6.76,710-714,?
+4535,2700,10.75,36,Major Purchase,major_purchase,88.08,2700,11.35,705-709,?
+4536,10000,12.12,36,Debt Consolidation,debt_consolidation,332.72,10000,2.88,695-699,?
+4537,20000,17.51,60,Debt refinance,credit_card,502.56,20000,15.97,695-699,?
+4538,14500,10.75,36,Small_Business,small_business,473,14500,18.51,740-744,?
+4539,2500,7.88,36,home repairs,home_improvement,78.21,2500,14.51,720-724,?
+4540,4800,11.86,36,Car,car,159.11,4800,0.51,765-769,?
+4541,7500,9.76,36,bill consilidation,debt_consolidation,241.16,7500,13.91,725-729,?
+4542,21200,13.99,60,Pay off Credit Cards,debt_consolidation,487.95,20975,9.44,725-729,?
+4543,27300,17.51,60,MY FREEDOM,debt_consolidation,685.99,27300,16.03,690-694,?
+4544,10325,12.92,36,debt consolidation,debt_consolidation,347.5,10325,9.05,700-704,?
+4545,30000,23.52,60,debt consolidation,debt_consolidation,854.71,30000,8.54,670-674,?
+4546,11400,6.91,36,Consolidating Debt,debt_consolidation,351.53,11400,9.87,710-714,?
+4547,6600,7.88,60,old truck,car,133.45,6600,7.23,790-794,?
+4548,15000,15.31,36,College Clean up,debt_consolidation,522.26,15000,15.69,690-694,?
+4549,20000,17.04,36,Responsible Borrower Seeks Loan For Consolidation,debt_consolidation,713.49,20000,9.66,665-669,?
+4550,1500,12.23,36,Personal,other,49.99,1500,21.6,675-679,?
+4551,8325,14.65,36,cardpayoff,credit_card,287.17,8325,14.94,685-689,?
+4552,8000,9.88,36,Clean the slate and start a new life,other,257.69,8000,6.16,735-739,?
+4553,3000,11.99,36,consolidation,other,99.63,3000,21.36,680-684,?
+4554,2200,19.42,60,Fresh Start Loan,debt_consolidation,57.58,2200,11.9,670-674,?
+4555,7500,12.53,36,Money down to purchase a company,small_business,251,7500,12.87,785-789,?
+4556,9600,15.68,36,Neils Personal Loan,other,328.14,9375,14.1,660-664,?
+4557,16000,16.45,60,Fix car in order to sell and pay cc,debt_consolidation,392.93,16000,16.6,705-709,?
+4558,10000,10.99,36,Pay off credit card and buy a car.,major_purchase,327.36,10000,5.49,720-724,?
+4559,9250,7.74,36,Great Job/Divorce Settlement,debt_consolidation,288.78,9250,8.17,775-779,?
+4560,2800,6.62,36,1st home ,house,85.98,2800,10.66,750-754,?
+4561,3200,12.98,36,Credit card debt consolidation,debt_consolidation,107.79,3200,1.53,670-674,?
+4562,8000,13.11,36,Trucking Loan,small_business,269.96,8000,1.65,740-744,?
+4563,2000,7.66,36,Debt Consolidation Loan,debt_consolidation,62.36,2000,17.18,735-739,?
+4564,30000,16.4,60,Debt Consolidation Loan,debt_consolidation,735.94,30000,9.57,735-739,?
+4565,12000,12.69,36,Debt Consolidation 2012,debt_consolidation,402.54,12000,11.24,690-694,?
+4566,6000,7.51,36,Personal loan,other,186.67,6000,13.43,735-739,?
+4567,7750,5.79,60,General/Chase Relief,debt_consolidation,149.08,7750,18.93,770-774,?
+4568,25000,17.26,36,Consolidation,debt_consolidation,894.61,25000,12.76,690-694,?
+4569,8000,16.4,60,credit cards ,debt_consolidation,196.25,8000,17.48,675-679,?
+4570,4000,13.67,36,first car,car,136.08,4000,14,660-664,?
+4571,2400,14.09,36,Ring,other,82.14,2400,8.94,690-694,?
+4572,10000,5.99,36,Pay Off Credit Cards,credit_card,304.18,10000,2.91,770-774,?
+4573,17800,10.25,36,Help,credit_card,576.45,17800,17.15,760-764,?
+4574,12000,14.65,36,Wedding,wedding,413.94,12000,16.43,675-679,?
+4575,25000,14.96,36,Family,debt_consolidation,866.13,25000,16.55,700-704,?
+4576,7500,10.08,36,Trying to consolidate higher debts,debt_consolidation,171.22,5300,14.79,710-714,?
+4577,20000,16,36,Complete Beta Testing Loan,small_business,703.15,20000,5.31,715-719,?
+4578,23500,10.16,36,LC - Debt Consolidation,debt_consolidation,760.05,23500,6.97,755-759,?
+4579,4600,10.99,36,my debt solution,other,150.59,4600,4.24,750-754,?
+4580,25000,13.36,36,Business Loan,small_business,846.7,25000,16.62,710-714,?
+4581,35000,17.14,60,Wedding Loan,wedding,872.48,35000,19.25,750-754,?
+4582,4800,6.17,36,Timeshare Payoff,debt_consolidation,146.4,4800,14.98,740-744,?
+4583,16500,11.71,60,Small Business,small_business,364.62,16500,12.07,775-779,?
+4584,14800,9.88,36,Debt Consolidation Loan,debt_consolidation,476.72,14800,15.41,740-744,?
+4585,5000,12.21,36,Personal,debt_consolidation,166.58,5000,14.05,690-694,?
+4586,20000,10.74,60,Tax loan,other,432.26,20000,12.08,775-779,?
+4587,15000,17.27,36,Debt Consolidation,debt_consolidation,536.81,15000,16.64,665-669,?
+4588,5000,16,36,next sports king,other,175.79,5000,8.88,685-689,?
+4589,26375,19.91,60,Consolidation,debt_consolidation,697.46,26375,23.22,680-684,?
+4590,8000,12.18,36,Off to work I go,debt_consolidation,266.4,8000,17.27,700-704,?
+4591,11000,15.33,36,GAraimo,debt_consolidation,383.12,11000,21.68,665-669,?
+4592,28800,10.65,36,Home Remodel - Kitchen,home_improvement,938.11,28800,6.71,780-784,?
+4593,6000,10.75,36,Lydloan,debt_consolidation,195.73,6000,1.9,725-729,?
+4594,12000,10.99,36,Debt consolidation/Home AC replacement,debt_consolidation,392.81,12000,3.3,710-714,?
+4595,12000,13.99,36,My Consolidation Loan,debt_consolidation,410.08,12000,14.81,690-694,?
+4596,30000,21.36,60,Debt Consolidation Loan,debt_consolidation,817.69,30000,14.38,690-694,?
+4597,4550,16.77,60,Relocating from MD to MA to start career,moving,112.52,4550,5.56,690-694,?
+4598,12000,10.59,60,kitchen remoldel,home_improvement,258.47,12000,0.75,820-824,?
+4599,5000,15.27,36,Lending Club,debt_consolidation,173.99,5000,12.93,665-669,?
+4600,4200,11.48,36,Refinancing Personal Loan at Better Rate,other,138.47,4200,11.11,720-724,?
+4601,9000,15.31,36,payoff loan,debt_consolidation,313.36,9000,4.91,670-674,?
+4602,6000,7.51,36,Credit card,credit_card,186.67,6000,21.52,760-764,?
+4603,8275,9.01,36,Travel Resorts of America TNC15,other,263.19,8275,12.16,740-744,?
+4604,11000,14.61,36,consolidate and eliminate,debt_consolidation,379.23,11000,12,670-674,?
+4605,12500,18.49,36,Debt Reduction,debt_consolidation,454.99,12500,10.35,670-674,?
+4606,6000,11.97,36,Debt Consolidation,debt_consolidation,199.2,6000,6,670-674,?
+4607,20000,9.51,36,surgery needed asap,medical,640.76,20000,0.22,765-769,?
+4608,3250,6.76,36,Motorcycle Loan,major_purchase,100,3250,5.41,760-764,?
+4609,4000,7.66,36,consolidation,credit_card,124.72,4000,15.5,725-729,?
+4610,3200,16.29,36,Debt Consolidation Loan,debt_consolidation,112.97,3200,5.88,690-694,?
+4611,10000,11.49,36,Vacation Loan,vacation,329.72,10000,9.66,705-709,?
+4612,11100,9.91,36,Debt Consolidation Loan,debt_consolidation,357.7,11100,25.47,725-729,?
+4613,24000,16.35,36,Business Booster Loan,small_business,847.9,24000,14.45,715-719,?
+4614,2000,16.89,36,no more cards,debt_consolidation,71.2,2000,16.88,660-664,?
+4615,10000,14.11,36,Catarina's Loan,debt_consolidation,329.46,9625,22.48,680-684,?
+4616,6000,7.51,36,Help Lisa,other,186.67,6000,16.14,735-739,?
+4617,6000,17.14,60,Small Business Loan,small_business,149.57,6000,2.16,695-699,?
+4618,17500,6.54,60,APR reduction - Total debt reduction,credit_card,208.58,10650,5.5,750-754,?
+4619,12000,14.46,36,Debt Consolidation,debt_consolidation,412.82,12000,16.36,670-674,?
+4620,12000,14.33,36,Major1,debt_consolidation,412.06,12000,13.93,690-694,?
+4621,9350,10,60,80 z28 camaro,car,198.66,9350,4.84,770-774,?
+4622,24000,19.03,60,Consolidation,debt_consolidation,622.97,24000,18.53,680-684,?
+4623,24000,16.32,60,BOB'S BUSINESS LOAN,small_business,587.73,24000,12.67,710-714,?
+4624,8000,12.21,36,LET'S CUT MY CC DEBT IN HALF IN 2009!,debt_consolidation,266.52,8000,14.58,710-714,?
+4625,2125,15.01,36,Expanding Business,small_business,73.68,2125,16.89,700-704,?
+4626,16000,15.27,60,debt consolidation,debt_consolidation,382.92,16000,17.44,735-739,?
+4627,15000,8.94,36,Credit Card Consolidation,credit_card,476.58,15000,7.31,795-799,?
+4628,10625,8.49,36,Pay off car,car,335.36,10625,9.61,735-739,?
+4629,22500,6.54,36,Lending Club Loan - November 2010,debt_consolidation,443.91,14475,14.78,750-754,?
+4630,19700,17.27,36,A Credit Short on Cash,home_improvement,705.01,19700,2.59,710-714,?
+4631,25000,12.53,36,Mohsen,wedding,836.66,25000,1.39,760-764,?
+4632,23000,18.25,60,home improvement,home_improvement,587.19,23000,7.06,710-714,?
+4633,4000,11.49,36,debt loan ,debt_consolidation,131.89,4000,14.4,700-704,?
+4634,10000,14.65,36,consolidation,debt_consolidation,344.95,10000,13.42,685-689,?
+4635,10000,13.67,36,insurance,debt_consolidation,340.18,10000,9.32,690-694,?
+4636,14600,12.61,36,Just Trying To Stay Afloat,debt_consolidation,489.2,14600,16.17,680-684,?
+4637,3450,7.9,36,Medical,medical,107.96,3450,18.39,710-714,?
+4638,18000,18.91,60,Consolidating debt,other,466.04,18000,19.72,660-664,?
+4639,25000,11.49,60,Debt Consolidation,debt_consolidation,437.01,19875,14.14,755-759,?
+4640,15000,16.69,60,Stephanies Loan,debt_consolidation,370.3,15000,15.88,690-694,?
+4641,9000,15.21,60,home improvement,home_improvement,215.11,9000,1.4,810-814,?
+4642,20000,15.62,36,Debt Consolidation,debt_consolidation,699.4,20000,7.95,680-684,?
+4643,15000,9.76,36,Home improvements,home_improvement,482.32,15000,5.77,775-779,?
+4644,3000,14.09,36,Mustang,car,102.67,3000,11.94,685-689,?
+4645,19200,17.49,60,bills,debt_consolidation,482.25,19200,17.25,695-699,?
+4646,7500,12.92,36,To Promote Global Business Pages,other,195.21,5800,9.82,670-674,?
+4647,4000,6.54,36,Credit Card Consolidation,debt_consolidation,122.67,4000,24.79,730-734,?
+4648,9000,8,36,Auto Loan,car,282.03,9000,8.98,775-779,?
+4649,10400,17.77,36,Ref-con,credit_card,374.79,10400,11.94,665-669,?
+4650,25000,10.37,36,SW Refinance,credit_card,811.03,25000,13.14,720-724,?
+4651,13200,14.79,60,Personal,other,312.58,13200,18.24,700-704,?
+4652,35000,14.27,60,Small business Loan,small_business,819.3,35000,15.45,740-744,?
+4653,19975,13.92,36,Taxes and Engagement,other,681.89,19975,14.16,690-694,?
+4654,20000,13.16,36,Financing My son's wedding,wedding,675.41,20000,16.56,710-714,?
+4655,14975,12.53,36,Diligence,debt_consolidation,501.16,14975,16.08,710-714,?
+4656,16000,18.3,60,New Kitchen,home_improvement,270.27,10575,13.11,665-669,?
+4657,11000,6.62,36,Debt Consolidation,debt_consolidation,337.75,11000,7.31,740-744,?
+4658,10000,9.25,60,Medical,small_business,208.8,10000,17.21,760-764,?
+4659,13750,12.73,36,Opportunity Knocks,debt_consolidation,461.54,13750,22.23,705-709,?
+4660,2500,7.66,36,car repair and dental work,other,77.95,2500,23.22,700-704,?
+4661,1200,15.58,60,pat ,debt_consolidation,28.92,1200,0,700-704,?
+4662,4800,10.36,36,Christmas airfare 1 week before payday,vacation,155.7,4800,21.52,680-684,?
+4663,25000,11.78,36,personal loan,debt_consolidation,827.74,25000,10.2,715-719,?
+4664,7200,12.69,36,bills,debt_consolidation,241.53,7200,5.25,720-724,?
+4665,15000,11.48,36,Credit Cards,credit_card,494.53,15000,23.9,735-739,?
+4666,25000,16.77,60,Debt Consolidation Loan,debt_consolidation,443.89,17950,13.66,715-719,?
+4667,13500,10.59,36,Credit Card consolidation,debt_consolidation,439.36,13500,10.51,735-739,?
+4668,24000,12.61,60,pay off debt,debt_consolidation,541.3,24000,15.22,720-724,?
+4669,25000,18.79,60,DebtConsolidation,debt_consolidation,394.48,15275,18.22,700-704,?
+4670,25000,18.84,36,new office (attorney),small_business,914.42,25000,19.3,705-709,?
+4671,2225,7.43,36,Need to refinance my car,car,69.14,2225,7.67,760-764,?
+4672,11200,13.35,60,debt consol,debt_consolidation,256.85,11200,11.47,695-699,?
+4673,2500,14.35,36,montes loan,debt_consolidation,85.87,2500,4.67,675-679,?
+4674,11200,17.27,36,Consolidate Credit Cards,debt_consolidation,400.82,11200,21.65,670-674,?
+4675,10000,20.85,60,Our Union,wedding,269.7,10000,15.17,675-679,?
+4676,18000,12.12,60,Credit Card Payoffs,credit_card,401.5,18000,25.19,730-734,?
+4677,9000,12.84,36,Debt/Unexpected ,other,302.57,9000,19.09,690-694,?
+4678,16000,17.77,36,Debt consolidation,debt_consolidation,576.6,16000,14.93,670-674,?
+4679,5000,8.49,36,Small Biz,small_business,157.82,5000,15.85,725-729,?
+4680,25000,14.96,36,Have Assets To satisfy Loan,debt_consolidation,866.13,25000,19.09,705-709,?
+4681,3000,15.05,36,For purchase of a triathlon bicycle,major_purchase,104.08,3000,18.95,660-664,?
+4682,12000,19.42,60,dream house,house,314.07,12000,7.67,660-664,?
+4683,20000,7.49,36,Debt Consolidation Loan,debt_consolidation,622.04,20000,13.59,760-764,?
+4684,17600,13.49,36,Debt Consolidation,debt_consolidation,597.18,17600,12.67,700-704,?
+4685,20400,22.45,36,Home Improvement,home_improvement,783.85,20400,21.72,665-669,?
+4686,25000,19.66,36,Help,debt_consolidation,924.77,25000,12.73,660-664,?
+4687,10000,11.36,36,Debt Consolidation,debt_consolidation,329.12,10000,5.53,735-739,?
+4688,6000,10.08,36,Looking to Consolidate Some Debt.,debt_consolidation,193.83,6000,9.3,705-709,?
+4689,7500,13.55,36,High Credit Card Interest,credit_card,254.7,7500,21.51,670-674,?
+4690,18000,10.71,36,Debt consolidation,debt_consolidation,339.06,10400,15.6,715-719,?
+4691,6500,7.14,36,Citibank,debt_consolidation,201.12,6500,5.74,750-754,?
+4692,5000,5.42,36,Debt Consolidation Loan,debt_consolidation,150.8,5000,12.75,775-779,?
+4693,29600,13.49,60,Debt Consolidation,small_business,442.27,19225,15.47,735-739,?
+4694,7000,8.88,36,Engagement Ring,major_purchase,222.21,7000,1.66,705-709,?
+4695,24000,15.65,36,Credit Card Consolidation,debt_consolidation,839.67,24000,15.76,680-684,?
+4696,13000,12.87,36,Positive Perspectives,other,437.24,13000,10.8,700-704,?
+4697,18000,13.11,36,doin' great in 2010,debt_consolidation,607.41,18000,7.61,700-704,?
+4698,10000,7.51,36,homeimproement,home_improvement,311.11,10000,5,775-779,?
+4699,30000,17.49,36,Consolidation Loan,debt_consolidation,1076.92,30000,15.14,685-689,?
+4700,30000,23.13,60,Debt Consolidation Loan,debt_consolidation,847.96,30000,22.57,670-674,?
+4701,1500,16.82,36,Debt Con,debt_consolidation,53.35,1500,13.05,680-684,?
+4702,14000,7.51,36,Chris's Personal Loan,debt_consolidation,435.56,14000,5.44,750-754,?
+4703,8000,10.38,36,debt_consolidation,debt_consolidation,259.57,8000,2.8,715-719,?
+4704,8000,12.61,60,payoff high interests rate credit cards,debt_consolidation,180.44,8000,10.95,685-689,?
+4705,12000,16.89,60,debt consolidation,debt_consolidation,297.53,12000,9.01,705-709,?
+4706,16000,12.18,36,Debt Consolidation Loan,debt_consolidation,532.8,16000,16.4,710-714,?
+4707,3350,13.98,36,Il Bello Flyscooter,other,114.47,3350,17.19,675-679,?
+4708,19000,18.49,60,Debt consolidation,debt_consolidation,487.56,19000,27.57,705-709,?
+4709,10400,12.69,36,Debt consolidation,debt_consolidation,348.87,10400,22.27,680-684,?
+4710,25000,13.8,60,consolodation 4.22,debt_consolidation,579.12,25000,6.47,735-739,?
+4711,4500,11.86,36,baby shower,other,149.17,4500,4.74,690-694,?
+4712,3500,8.59,36,my personal loan,home_improvement,110.64,3500,8.56,785-789,?
+4713,5000,12.42,36,Resource,debt_consolidation,167.08,5000,8.59,700-704,?
+4714,14600,15.65,36,CONSOLIDATION,debt_consolidation,510.8,14600,18.73,660-664,?
+4715,35000,12.99,36,debt consolidation,debt_consolidation,1179.12,35000,11.54,725-729,?
+4716,9750,9.63,36,Starting small jewelry business,small_business,312.92,9750,21.82,740-744,?
+4717,10000,20.25,60,Wedding,wedding,266.34,10000,13.07,685-689,?
+4718,4000,13.06,36,FREE-FREE-FREE Finally! ,debt_consolidation,134.9,4000,11.47,670-674,?
+4719,12000,9.01,36,Manhattan Move,other,381.66,12000,4.28,720-724,?
+4720,12000,7.29,36,Less than 3,credit_card,372.12,12000,13.5,730-734,?
+4721,2100,17.14,36,vinman,debt_consolidation,75.02,2100,3.42,660-664,?
+4722,10000,11.71,36,Debt Consolidation,debt_consolidation,330.76,10000,21.38,690-694,?
+4723,7000,8.88,36,Getting Married Thanksgiving Weekend!,wedding,222.21,7000,22.64,710-714,?
+4724,12800,17.99,60,To rent out basement & getting my CPA,home_improvement,324.97,12800,13.21,700-704,?
+4725,8000,15.7,36,work shop,other,280.09,8000,9,670-674,?
+4726,24250,10.62,36,Loan,major_purchase,789.58,24250,8.37,760-764,?
+4727,1500,10.39,36,Debt Consolidation,debt_consolidation,48.68,1500,13.17,695-699,?
+4728,19500,11.83,36,Trying to get debt free,credit_card,646.12,19500,16.44,735-739,?
+4729,6000,11.26,36,school loan,educational,197.18,6000,2.34,710-714,?
+4730,35000,21.28,60,Debt consolidation,debt_consolidation,952.39,35000,16.56,685-689,?
+4731,12000,10.37,36,become debt free,credit_card,389.3,12000,11.9,695-699,?
+4732,12000,8.9,36,Burning off fat.. and debt,debt_consolidation,381.04,12000,3.31,740-744,?
+4733,13000,10.99,60,debt consolidation,debt_consolidation,282.59,13000,17.63,770-774,?
+4734,12000,12.61,60,Paying off high interest loans,debt_consolidation,270.65,12000,22.69,720-724,?
+4735,10000,15.21,60,personal loan,debt_consolidation,239.01,10000,7.44,695-699,?
+4736,10000,9.32,36,Emergency fund loan,other,319.47,10000,0.36,775-779,?
+4737,3000,12.42,60,Personal ,other,67.38,3000,18.23,720-724,?
+4738,35000,13.49,60,investments,other,805.17,35000,7.72,770-774,?
+4739,10000,10.99,36,Consolidation Loan,debt_consolidation,327.36,10000,21.28,740-744,?
+4740,15000,15.95,36,NEW DAYZ,debt_consolidation,526.99,15000,13.68,695-699,?
+4741,35000,18.39,60,Consolidation,debt_consolidation,680.49,26575,8.72,705-709,?
+4742,11100,13.11,36,Debt Consolidation-stable employment,debt_consolidation,374.57,11100,18.59,690-694,?
+4743,7000,8.88,36,my personal loan,debt_consolidation,222.21,7000,7.61,710-714,?
+4744,15000,12.18,36,Determined Parent,educational,499.5,15000,2.18,735-739,?
+4745,1500,9.91,60,Personal Loan,other,31.81,1500,16.19,750-754,?
+4746,7500,11.97,36,cards,debt_consolidation,249,7500,21.63,690-694,?
+4747,10000,13.57,36,business loan,home_improvement,339.69,10000,6.05,710-714,?
+4748,19750,13.99,60,Wedding money,wedding,459.45,19750,15,745-749,?
+4749,10000,7.88,36,Starting my CPA firm,small_business,312.81,10000,3.46,755-759,?
+4750,6000,11.36,36,$3000 Loan,debt_consolidation,197.47,6000,8.93,685-689,?
+4751,18000,15.99,60,Debt Consol,debt_consolidation,437.63,18000,21.47,710-714,?
+4752,15000,16.77,60,lap band,medical,370.94,15000,15.48,695-699,?
+4753,5000,14.91,36,Pay Cards,debt_consolidation,173.11,5000,18.3,675-679,?
+4754,12000,13.49,36,Pay off credit cards,credit_card,407.17,12000,16.28,690-694,?
+4755,18500,18.25,36,Debt Consolidation,debt_consolidation,671.15,18500,8.69,660-664,?
+4756,1100,6.76,36,Financing some medical expenses,medical,33.85,1100,0.21,770-774,?
+4757,9600,6.99,36,Pool Purchase,home_improvement,296.38,9600,4.37,765-769,?
+4758,7200,15.27,36,Debt Consolidation,debt_consolidation,250.55,7200,21.16,755-759,?
+4759,3000,8.9,36,CC Refinance,credit_card,95.26,3000,12.22,710-714,?
+4760,2400,18.79,36,Clear my credit card debt,credit_card,87.72,2400,2.4,670-674,?
+4761,10000,12.69,36,Emergency Fund,debt_consolidation,335.45,10000,14.53,695-699,?
+4762,15000,14.79,36,consolidate and reduce credit card rates,credit_card,518.44,15000,13.92,680-684,?
+4763,13475,15.68,36,Pay off high interest credit card ,credit_card,471.65,13475,18.08,675-679,?
+4764,7500,15.05,36,8301962,debt_consolidation,260.19,7500,15.06,660-664,?
+4765,25000,16.45,36,Debt Free Forever,debt_consolidation,884.5,25000,9.97,680-684,?
+4766,20000,14.27,60,GoodLuck2011,debt_consolidation,468.17,20000,10.16,715-719,?
+4767,20000,11.14,36,Personal Loan,other,656.07,20000,11.31,775-779,?
+4768,35000,22.45,60,Consolidate Debt,debt_consolidation,975.64,35000,7.8,690-694,?
+4769,12000,17.51,60,teeth and credit,other,301.54,12000,20.69,670-674,?
+4770,20000,13.67,36,Debt consolidation,debt_consolidation,680.36,20000,13.06,685-689,?
+4771,18000,19.03,60,my debt consolidation,debt_consolidation,467.23,18000,21.62,670-674,?
+4772,24250,9.62,60,ehuang79 Loan,debt_consolidation,510.72,24250,15.38,730-734,?
+4773,8000,15.31,36,freedom,credit_card,278.54,8000,11.8,675-679,?
+4774,25000,16.45,36,CC Payoff,debt_consolidation,578.46,16350,12.83,680-684,?
+4775,3000,10.36,36,Legal,other,97.31,3000,14.56,680-684,?
+4776,3400,7.4,36,personal loan,moving,105.61,3400,15.03,755-759,?
+4777,4800,10.37,36,bill consolidation,debt_consolidation,155.72,4800,10.12,715-719,?
+4778,4900,6.99,36,siding,home_improvement,151.28,4900,11,780-784,?
+4779,10000,17.27,36,Debt Consolidation,debt_consolidation,357.88,10000,19.02,665-669,?
+4780,16500,16.45,36,Ace Funds,debt_consolidation,583.73,16500,15.1,665-669,?
+4781,8500,15.21,36,mananger,debt_consolidation,295.54,8500,11.39,660-664,?
+4782,6200,21.59,36,Small Business Loan,small_business,235.47,6200,4.06,660-664,?
+4783,9000,11.48,36,Godspeed,debt_consolidation,296.72,9000,11.36,745-749,?
+4784,10000,13.79,36,debt consolidation,debt_consolidation,340.76,10000,15.14,695-699,?
+4785,12000,18.25,60,Car Loan,car,306.36,12000,12.11,660-664,?
+4786,12000,7.51,36,Home Improvement,other,373.32,12000,16.97,795-799,?
+4787,6000,16.49,36,Moving to Austin,moving,212.4,6000,18.2,685-689,?
+4788,12000,18.55,36,Pay off my debts,debt_consolidation,437.15,12000,8.1,665-669,?
+4789,6225,7.9,36,Home Repair Debt Consolidation,debt_consolidation,194.79,6225,14.14,710-714,?
+4790,28000,12.42,60,DebtConsol,debt_consolidation,418.27,18625,23.41,740-744,?
+4791,6000,12.84,36,Medical Expenses for Relative,other,201.71,6000,5.83,740-744,?
+4792,10000,14.42,36,Finish paying construction on Resturant ,small_business,343.83,10000,6.94,680-684,?
+4793,9000,11.49,36,Consolidate Bills,debt_consolidation,296.75,9000,6.93,685-689,?
+4794,15000,13.22,36,Piece of Mind,debt_consolidation,507.01,15000,1.66,690-694,?
+4795,15000,13.98,60,paydebts,debt_consolidation,348.87,15000,15.11,710-714,?
+4796,6400,7.14,36,home improvements for special needs son,home_improvement,198.02,6400,9.43,800-804,?
+4797,10000,12.21,36,Leanne's Credit Card Consolidation Loan,debt_consolidation,333.15,10000,8.3,715-719,?
+4798,15000,11.26,36,Musoke Debt Consolidation,debt_consolidation,492.95,15000,5.46,785-789,?
+4799,5000,15.99,36,Major purchase,major_purchase,175.77,5000,19.89,665-669,?
+4800,10000,6.91,36,Paying off credit cards,debt_consolidation,308.36,10000,17.69,715-719,?
+4801,18200,19.22,60,Debt payoff,debt_consolidation,474.33,18200,10.81,680-684,?
+4802,7000,6.99,36,Marriage,wedding,216.11,7000,7.4,745-749,?
+4803,5000,12.69,36,Loan for all debt consolidation,debt_consolidation,167.73,5000,23.36,675-679,?
+4804,9500,8.9,36,Debt Consolidation,debt_consolidation,301.66,9500,27.72,735-739,?
+4805,5000,13.57,36,Loan Request,debt_consolidation,169.85,5000,15.53,680-684,?
+4806,5000,10.99,36,Debt Consolidation HELP,debt_consolidation,163.68,5000,4.81,700-704,?
+4807,18550,17.99,60,small_business,small_business,470.95,18550,22.34,700-704,?
+4808,15000,7.9,36,Cons Loan,debt_consolidation,469.36,15000,7.92,730-734,?
+4809,3500,14.74,36,Personal Loan,other,120.88,3500,19.94,670-674,?
+4810,8000,8.94,36,Down Payment,house,254.18,8000,2.7,760-764,?
+4811,12000,18.3,60,Debt consolidation,debt_consolidation,306.69,12000,16.91,660-664,?
+4812,12000,13.49,60,consolidation,debt_consolidation,276.06,12000,14.49,730-734,?
+4813,4625,11.12,60,Ralph's loan,car,100.84,4625,14.31,755-759,?
+4814,20000,11.54,36,Business expansion/equipment,small_business,659.91,20000,16.89,705-709,?
+4815,5000,10.99,36,Motorcycle,car,163.68,5000,17.4,695-699,?
+4816,6000,8.88,60,peace of mind loan,medical,124.21,6000,4.4,790-794,?
+4817,2500,14.59,36,Personal,other,86.17,2500,13.44,675-679,?
+4818,18000,8.9,36,January 2012 Loan,debt_consolidation,571.56,18000,4.29,735-739,?
+4819,10000,12.61,60,Jill's Consolidation Loan,debt_consolidation,225.54,10000,19.39,705-709,?
+4820,12000,15.58,36,camp improvement,home_improvement,419.41,12000,20.67,660-664,?
+4821,18000,16.49,60,Personal Loan,moving,442.43,18000,24.24,695-699,?
+4822,7000,18.67,60,Haiti,other,180.32,7000,4.62,680-684,?
+4823,10000,9.63,36,debt consolidation,debt_consolidation,320.95,10000,12.81,740-744,?
+4824,10000,15.21,60,personal,other,239.01,10000,11.25,690-694,?
+4825,21000,17.49,60,Safe Security,credit_card,527.46,21000,16.4,695-699,?
+4826,20000,11.83,36,credit card debt consolidation,credit_card,662.68,20000,15.91,765-769,?
+4827,4800,8.9,36,help loan,wedding,152.42,4800,4.15,705-709,?
+4828,12000,13.79,36,debt consolidation loan,debt_consolidation,408.91,12000,13.46,700-704,?
+4829,12000,13.47,36,Business Start Up Capital,small_business,407.08,12000,23.83,690-694,?
+4830,13000,15.21,60,Personal Loan,debt_consolidation,310.71,13000,8.81,700-704,?
+4831,5000,12.53,36,Cat Consolidation,debt_consolidation,167.34,5000,21.49,705-709,?
+4832,10000,15.31,36,Consolidation Loan,debt_consolidation,348.16,10000,14.83,665-669,?
+4833,1200,14.61,36,rose,medical,41.38,1200,16.35,660-664,?
+4834,16000,10.99,60,billstopay,debt_consolidation,347.8,16000,10.66,755-759,?
+4835,12000,10.39,36,Credit Card Loan,debt_consolidation,389.41,12000,0,710-714,?
+4836,35000,8.49,36,Consolidate debt,debt_consolidation,1104.71,35000,12.44,745-749,?
+4837,25000,19.69,60,Mobile Loan,moving,658.05,25000,15.4,685-689,?
+4838,6000,8.94,36,UIC loan ,educational,190.63,6000,2.91,730-734,?
+4839,15000,10.65,36,Debt Consolidation,debt_consolidation,488.6,15000,12.75,720-724,?
+4840,13000,11.14,36,Bath remodel,home_improvement,426.45,13000,12.15,745-749,?
+4841,5000,12.99,36,My Personal Loan,debt_consolidation,168.45,5000,5.28,705-709,?
+4842,1800,12.53,36,lifesaver,medical,60.24,1800,11.9,680-684,?
+4843,1000,12.18,36,refinancing 19 CARD,credit_card,33.3,1000,13.56,690-694,?
+4844,9000,16.95,36,Al's Loan,debt_consolidation,320.65,9000,11.67,665-669,?
+4845,16000,11.26,36,consolidation,debt_consolidation,525.82,16000,8.83,740-744,?
+4846,12000,19.91,60,My Loan to Freedom!,debt_consolidation,317.33,12000,11.73,660-664,?
+4847,5000,7.88,36,Unexpected Legal Fees-Short Term,other,156.41,5000,10.77,730-734,?
+4848,5000,6.03,36,Vacation Trip,vacation,152.18,5000,7.76,775-779,?
+4849,7500,12.18,36,Pay Off High Interest Credit Card,credit_card,249.75,7500,9.04,740-744,?
+4850,15000,13.43,36,Debt Consolodation,debt_consolidation,508.53,15000,17.16,690-694,?
+4851,5000,12.72,36,Debt Consolidation Loan,debt_consolidation,167.8,5000,7.19,680-684,?
+4852,9250,14.46,36,Debt Consolidation,debt_consolidation,318.22,9250,22.41,665-669,?
+4853,11200,13.98,36,Debt Consolidation and Refinancing,credit_card,382.69,11200,23.48,685-689,?
+4854,17000,13.16,36,Get out of Debt,debt_consolidation,574.1,17000,16.87,730-734,?
+4855,8000,13.99,36,getting on track,credit_card,273.39,8000,4.68,690-694,?
+4856,8000,16.82,60,Personal Loan,major_purchase,198.05,8000,22.55,665-669,?
+4857,2100,12.49,36,Consolidation Loan,debt_consolidation,70.25,2100,14.4,660-664,?
+4858,6000,5.79,36,Jimsland,vacation,181.97,6000,4.36,795-799,?
+4859,2500,13.57,36,Consolidation2,debt_consolidation,84.93,2500,6.09,670-674,?
+4860,16000,7.51,36,home free,other,497.78,16000,20.04,775-779,?
+4861,13000,10.62,36,Consolidate Debt,debt_consolidation,423.28,13000,19.83,735-739,?
+4862,14000,19.91,60,Debt Consolidation,debt_consolidation,370.22,14000,20.05,665-669,?
+4863,22000,10.25,36,Dr. Phil's Tutoring Service,major_purchase,712.47,22000,19.87,765-769,?
+4864,5000,12.12,36,Consolidation,credit_card,166.36,5000,9.57,680-684,?
+4865,16800,9.76,36,Home Improvement/Debt Consolidation,home_improvement,204.19,6350,13.79,745-749,?
+4866,2500,15.27,36,Debt Consolidation,debt_consolidation,87,2500,9.57,670-674,?
+4867,6000,11.89,36,Debt Consolidation,debt_consolidation,198.99,6000,7.15,690-694,?
+4868,16000,14.18,36,Debt Consolidation,debt_consolidation,548.25,16000,11.13,660-664,?
+4869,10000,14.22,36,Retired & Happy,other,342.85,10000,3.83,695-699,?
+4870,11500,15.7,36,Credit Card Payoff,debt_consolidation,402.63,11500,22.57,660-664,?
+4871,2800,12.17,36,Getting Married,wedding,93.23,2800,14.96,690-694,?
+4872,28000,21.48,36,Fresh Start,debt_consolidation,1061.82,28000,19.45,665-669,?
+4873,4000,17.99,60,royal enfield,car,101.56,4000,12.52,680-684,?
+4874,12000,8.9,36,Financial Organization,debt_consolidation,381.04,12000,14.73,715-719,?
+4875,5000,14.27,36,3 Year Plan to Pay off debt,debt_consolidation,171.55,5000,11.93,660-664,?
+4876,11200,10.78,36,lending club loan 1,small_business,365.51,11200,7.56,695-699,?
+4877,14000,6.62,36,Honeymoon Expense,wedding,429.86,14000,4.38,785-789,?
+4878,5925,11.11,36,money,credit_card,194.29,5925,18.48,680-684,?
+4879,18000,22.35,60,Personal loan,debt_consolidation,500.73,18000,15.31,665-669,?
+4880,6400,6.03,36,Other Loan,other,194.79,6400,10.82,795-799,?
+4881,6000,10.75,36,debt cons.,debt_consolidation,195.73,6000,22.76,705-709,?
+4882,5600,7.49,36,Debt Consolidation,debt_consolidation,174.17,5600,24.74,740-744,?
+4883,16750,13.98,36,Manager,debt_consolidation,572.32,16750,21.4,695-699,?
+4884,14000,19.22,36,Consolidation Loan,debt_consolidation,514.75,14000,19.18,665-669,?
+4885,8500,12.09,36,consolidate debt,debt_consolidation,282.69,8500,10.1,680-684,?
+4886,10000,8.07,36,Lending Club,debt_consolidation,313.69,10000,9.95,750-754,?
+4887,8000,15.28,36,My Help Loan,debt_consolidation,278.43,8000,11.91,660-664,?
+4888,3000,9.63,36,buying land,other,96.29,3000,8.21,725-729,?
+4889,15000,16.4,36,CC Con,debt_consolidation,530.33,15000,23.8,740-744,?
+4890,5750,15.31,36,Get me out of debt faster,debt_consolidation,200.2,5750,12.12,665-669,?
+4891,6000,12.69,36,debt consolidation loan,debt_consolidation,201.27,6000,5.61,690-694,?
+4892,11000,13.79,36,Debt Consolidation/used vehicle,credit_card,374.84,11000,14.97,690-694,?
+4893,23000,15.81,36,Debt Consolidation,debt_consolidation,806.46,23000,11.16,695-699,?
+4894,6000,13.11,36,Personal Loan,major_purchase,202.49,6000,21.96,700-704,?
+4895,5000,7.9,36,Home Improvement Loan,home_improvement,156.46,5000,6.44,775-779,?
+4896,16000,19.03,60,Childcare Business,small_business,415.32,16000,5.35,730-734,?
+4897,2500,11.49,36,Freedom11,other,82.43,2500,7.68,700-704,?
+4898,15000,11.49,60,Dependable Veteran Consolidation Loan,debt_consolidation,329.82,15000,13.92,740-744,?
+4899,7500,15.33,36,Starving Student NEEDs help to get back to where she was!,debt_consolidation,261.22,7500,9.3,675-679,?
+4900,15000,12.18,36,Paying off credit cards at better rate,credit_card,499.5,15000,16.97,720-724,?
+4901,4000,8.88,36,A baby?  In our house?!?,home_improvement,126.98,4000,14.29,705-709,?
+4902,9000,8.94,36,Looking to get ahead,debt_consolidation,285.95,9000,11.33,735-739,?
+4903,20000,15.58,60,Consolidation,debt_consolidation,310.23,12875,20.07,705-709,?
+4904,5200,10.37,36,Perfection,small_business,168.7,5200,4.34,680-684,?
+4905,24000,17.49,60,get it started,small_business,602.81,24000,8.96,705-709,?
+4906,7000,13.79,36,Payoff high interest credit card rate,credit_card,238.53,7000,18.35,705-709,?
+4907,2500,12.53,36,personal,other,83.67,2500,20.63,695-699,?
+4908,5000,13.35,36,Debt Consolidation,major_purchase,169.32,5000,9.85,695-699,?
+4909,24000,14.35,36,personal,moving,824.35,24000,15.45,705-709,?
+4910,18250,17.04,36,Debt Consolodation,debt_consolidation,651.06,18250,14.96,660-664,?
+4911,24000,10.25,36,One and done,debt_consolidation,777.24,24000,8.63,780-784,?
+4912,10000,10.71,36,Inventory Purchase,other,163.01,5000,9.58,700-704,?
+4913,8000,15.31,36,CONSOLIDATE,credit_card,278.54,8000,20.32,675-679,?
+4914,1000,9.32,36,nolan22,debt_consolidation,31.95,1000,21.19,725-729,?
+4915,9000,7.88,60,M&T investment,house,116.26,5750,12.17,730-734,?
+4916,13300,11.49,60,personal,major_purchase,292.44,13300,8.1,720-724,?
+4917,5800,17.58,60,buying houses,house,145.96,5800,1,695-699,?
+4918,5000,10.25,36,Mine,other,161.93,5000,17.14,705-709,?
+4919,16000,11.12,36,Wedding Expenses,wedding,524.73,16000,2.04,725-729,?
+4920,18700,10.74,60,Debt Consolidation,credit_card,404.17,18700,12.62,750-754,?
+4921,6000,8,36,Family Trip to Italy,vacation,188.02,6000,13.11,785-789,?
+4922,12000,16.82,60,Boat Loan,major_purchase,297.08,12000,15.98,665-669,?
+4923,18500,19.22,36,Debt Consolidation,debt_consolidation,680.2,18500,23.78,665-669,?
+4924,3000,7.66,36,Moving Loan,moving,93.54,3000,16.2,720-724,?
+4925,5000,7.9,36,Mid-Sized Loan To Pay Off Credit Card,debt_consolidation,156.46,5000,3.47,750-754,?
+4926,3600,6.17,36,Pay off the credit card,debt_consolidation,109.8,3600,3.28,740-744,?
+4927,12000,18.49,36,Consolidation,debt_consolidation,436.79,12000,20.22,660-664,?
+4928,25000,12.69,60,Debt Consolidation,debt_consolidation,564.87,25000,18.07,735-739,?
+4929,9250,14.11,36,consolidate headache,debt_consolidation,316.62,9250,19.9,665-669,?
+4930,30000,17.58,36,CONSOLIDATE,debt_consolidation,1078.27,30000,11.09,715-719,?
+4931,3250,10.99,36,car and roof,car,106.39,3250,2.31,685-689,?
+4932,6000,10.39,36,Bye Credit Cards,debt_consolidation,194.71,6000,7.5,690-694,?
+4933,15000,11.99,60,refi credit card,credit_card,333.6,15000,10.16,760-764,?
+4934,35000,13.49,60,surgery loan,medical,805.17,35000,10.92,760-764,?
+4935,12000,11.99,60,debt consol,debt_consolidation,266.88,12000,0.39,755-759,?
+4936,15250,14.96,36,Reliable teacher needs loan to manage debt accumulated while a student...,debt_consolidation,528.34,15250,24.08,675-679,?
+4937,9000,5.42,36,Other Loan,other,271.44,9000,11.59,785-789,?
+4938,13000,9.76,36,credit card consolidation,debt_consolidation,418.02,13000,4.86,725-729,?
+4939,9250,8.94,36,Debt Consolidation,debt_consolidation,293.89,9250,22.25,735-739,?
+4940,20000,18.75,60,Debt Consolidation ,debt_consolidation,516.07,20000,19.79,695-699,?
+4941,10000,11.12,36,New Home Loan,home_improvement,327.96,10000,12.69,750-754,?
+4942,16000,13.79,36,Lawyer needs to consolidate,credit_card,545.21,16000,10.95,700-704,?
+4943,7000,7.43,36,reinvest,small_business,217.52,7000,1.65,775-779,?
+4944,8000,9.99,36,Medical Loan,medical,258.1,8000,1.25,730-734,?
+4945,7200,7.14,36,Pay Off High APR Credit Card Balance,debt_consolidation,222.77,7200,5.64,765-769,?
+4946,24000,18.79,60,investment,small_business,457.76,17725,20.06,685-689,?
+4947,13000,7.66,36,Cutting Edge Company Needs Some Capital,small_business,405.34,13000,11.02,735-739,?
+4948,20000,15.05,36,Debt Consolidation & Medical Bills,debt_consolidation,693.83,20000,16.54,695-699,?
+4949,5000,10.99,36,Medical Bill Loan,medical,163.67,5000,7.68,700-704,?
+4950,25000,13.61,60,ETLoan,credit_card,576.67,25000,19.28,725-729,?
+4951,4000,15.21,60,Lisa's High Percent Buster,debt_consolidation,95.61,4000,14.5,680-684,?
+4952,7000,8.49,36,Debt Consolidation,debt_consolidation,220.95,7000,20.03,770-774,?
+4953,10000,11.46,36,LOAN,debt_consolidation,329.57,10000,7.85,725-729,?
+4954,20000,19.22,36,Smart Loan,debt_consolidation,735.35,20000,10.02,665-669,?
+4955,18000,14.46,36,Wedding Expenses,wedding,619.23,18000,1.75,700-704,?
+4956,5000,5.42,36,Home Improvement Loan,home_improvement,150.8,5000,10.9,785-789,?
+4957,30000,17.99,60,Debt Consolidation,debt_consolidation,482.38,19000,19.09,715-719,?
+4958,3800,7.9,36,ford f150,car,118.91,3800,17.09,725-729,?
+4959,10000,14.22,36,Debt Consolidation - Good Credit - Have never missed a payment!,debt_consolidation,342.85,10000,16.1,680-684,?
+4960,3000,13.06,36,Give Me The Money ,renewable_energy,101.17,3000,0,680-684,?
+4961,9000,7.88,36,Son's Education,educational,281.53,9000,4.18,735-739,?
+4962,7000,18.64,60,Other Loan,other,180.21,7000,8.8,680-684,?
+4963,9950,14.96,36,Take the interest away from my Credit Card companies!,debt_consolidation,344.74,9950,16.4,665-669,?
+4964,6000,11.12,36,Debt,debt_consolidation,196.78,6000,16.22,700-704,?
+4965,6400,14.35,36,New Life ,debt_consolidation,219.83,6400,17.38,690-694,?
+4966,5375,10.99,36,Wedding Loan,wedding,175.95,5375,20.25,675-679,?
+4967,9200,6.03,36,lowerratemeanseasiertogetoutofdebt!,debt_consolidation,280.01,9200,9.86,755-759,?
+4968,6400,15.21,60,Credit Card Loan,debt_consolidation,152.97,6400,12.75,685-689,?
+4969,9800,16.32,60,Debt consolidation,debt_consolidation,239.99,9800,6.02,680-684,?
+4970,9750,13.06,36,small business,small_business,328.8,9750,21.83,680-684,?
+4971,7500,7.62,36,Medical Expense,medical,233.72,7500,12.06,730-734,?
+4972,4600,20.62,60,LendingClub,debt_consolidation,123.47,4600,9.58,660-664,?
+4973,9600,13.22,36,Financially responsible professional seeks financial freedom!,debt_consolidation,324.49,9600,15.76,695-699,?
+4974,14000,10.99,36,Consolidate medical and other debts,debt_consolidation,458.28,14000,12.62,705-709,?
+4975,1675,6.54,36,Debt Consolidation,debt_consolidation,51.37,1675,4.26,725-729,?
+4976,3500,13.49,36,Jeep Loan,other,118.76,3500,2.49,685-689,?
+4977,7500,12.92,36,payoff cards,debt_consolidation,252.42,7500,18.81,670-674,?
+4978,15000,11.26,36,need rehab money,small_business,492.95,15000,9.57,730-734,?
+4979,24925,19.03,60,Credit Card Refinance,credit_card,646.98,24925,22.91,705-709,?
+4980,35000,18.25,36,Pay off 403b Loan,debt_consolidation,1269.73,35000,14.04,675-679,?
+4981,13200,12.12,36,Credit Card Consolidation,debt_consolidation,439.19,13200,19.42,690-694,?
+4982,7000,16.35,36,Help a Budding Entrepreneur,small_business,247.31,7000,2.57,705-709,?
+4983,7000,13.47,36,consolidate debt by loan,debt_consolidation,237.46,7000,14.66,670-674,?
+4984,6250,7.14,36,Headcoach Salon,small_business,193.39,6250,12.89,770-774,?
+4985,7700,6.91,36,Small Business Loan,small_business,237.44,7700,21.58,735-739,?
+4986,25000,16.45,60,debt_consolidation,debt_consolidation,613.95,25000,10.73,705-709,?
+4987,18500,7.9,36,Wedding Loan,wedding,578.87,18500,12.83,745-749,?
+4988,2000,12.68,60,major purchase,other,45.18,2000,5.44,720-724,?
+4989,10000,5.42,36,Debt Consolidation,debt_consolidation,301.6,10000,9.53,765-769,?
+4990,9050,12.42,36,credit card payoff,debt_consolidation,302.41,9050,18.57,700-704,?
+4991,35000,20.11,36,Consolidator Line,debt_consolidation,1302.69,35000,17.07,660-664,?
+4992,14000,6.54,36,Business expansion,small_business,429.35,14000,4.26,790-794,?
+4993,5000,7.51,36,Mikes Personal Loan,credit_card,155.56,5000,12.36,755-759,?
+4994,10000,13.36,36,wedding,wedding,338.68,10000,1.73,685-689,?
+4995,4900,13.22,36,Lawyer payoff,other,165.63,4900,19.53,690-694,?
+4996,8000,16.02,60,Legal ,debt_consolidation,194.63,8000,4.57,675-679,?
+4997,9525,12.12,36,Debt,debt_consolidation,316.92,9525,30.57,690-694,?
+4998,15000,12.87,36,Debt Consolidation,debt_consolidation,504.5,15000,13.38,705-709,?
+4999,16000,10.59,36,DEBT CONSOLIDATION,debt_consolidation,520.72,16000,10.92,720-724,?
+5000,10000,8.94,36,To make a house a home,home_improvement,317.72,10000,5.58,760-764,?
+5001,16000,14.79,60,Consolidation Loan,debt_consolidation,378.88,16000,18.04,715-719,?
+5002,2500,13.84,36,Personal Loan,other,85.25,2500,13.87,695-699,?
+5003,8000,12.53,36,REFINANCE CC DEBT BEFOR RATES GO WAY UP!!!!!,credit_card,267.74,8000,10.59,690-694,?
+5004,20000,13.22,36,consolidation loan,debt_consolidation,676.02,20000,24.89,705-709,?
+5005,16800,5.42,36,NYC Time Share,major_purchase,506.69,16800,4.98,805-809,?
+5006,1800,7.14,36,Relocation Maintain Credit,moving,55.7,1800,17.38,760-764,?
+5007,2800,12.87,36,my wedding,wedding,94.18,2800,3.52,680-684,?
+5008,16000,16.63,36,For expansion of successful e-business,small_business,567.52,16000,0.26,665-669,?
+5009,7000,10.59,36,boat loan,major_purchase,227.82,7000,8.17,700-704,?
+5010,15000,18.39,60,Personal Loan,major_purchase,384.1,15000,12.43,685-689,?
+5011,3700,16.45,60,CTS Loan,other,90.87,3700,21.73,660-664,?
+5012,10000,14.11,36,PERSONAL LOAN,vacation,342.29,10000,9.27,675-679,?
+5013,7200,9.62,60,Lending Club,renewable_energy,151.64,7200,1.64,710-714,?
+5014,25000,10.91,36,Debt Consolidation,debt_consolidation,817.41,25000,22.13,735-739,?
+5015,8000,10.99,36,Start-up Business in thriving industry,small_business,261.89,8000,21.39,700-704,?
+5016,3000,12.73,60,Lawyer/court fees,other,67.85,3000,17.66,720-724,?
+5017,2400,10.59,36,Bill Consolidation,debt_consolidation,78.11,2400,9.52,685-689,?
+5018,9000,13.72,36,I Pay On Time,credit_card,306.38,9000,13.58,670-674,?
+5019,10000,16.49,60,debt consolidation,debt_consolidation,245.8,10000,9.64,685-689,?
+5020,500,8.07,36,buying a new computer,other,15.69,500,4.27,720-724,?
+5021,15250,12.53,36,Kerchner Home Improvement,home_improvement,510.37,15250,10.96,720-724,?
+5022,6000,15.99,36,Back On Track!,debt_consolidation,210.92,6000,12.32,670-674,?
+5023,3000,7.4,36,2nd Vehicle,major_purchase,93.18,3000,6.91,750-754,?
+5024,9600,10.25,36,Credit Card Payoff,debt_consolidation,310.9,9600,14.88,715-719,?
+5025,5500,10.38,36,land purchase,major_purchase,178.46,5500,14.92,720-724,?
+5026,6475,9.99,36,6k loan,credit_card,208.9,6475,3.43,715-719,?
+5027,8275,10.59,36,Travel Resorts of America TNC30,other,269.31,8275,24.01,765-769,?
+5028,16000,17.27,60,Major Purpose,major_purchase,399.97,16000,19.26,695-699,?
+5029,7000,10.99,36, Citifinancial consolidation,debt_consolidation,229.14,7000,7.22,725-729,?
+5030,20000,16.49,36,Credit Card ReFi,credit_card,707.99,20000,11.8,695-699,?
+5031,13000,16.82,60,401k/creditcard,debt_consolidation,321.83,13000,24.66,695-699,?
+5032,20000,12.42,36,Debt Consolidation Loan,debt_consolidation,668.31,20000,17.37,695-699,?
+5033,16750,12.53,36,Save the house on the Jersey Shore,home_improvement,560.56,16750,8.56,725-729,?
+5034,1500,14.61,36,100 payback,other,51.72,1500,3.9,675-679,?
+5035,7500,11.14,36,Consolidation Loan,debt_consolidation,246.03,7500,17.52,720-724,?
+5036,25000,13.57,36,Loan For Child's Professional Education,educational,849.22,25000,3.27,720-724,?
+5037,12000,13.98,36,Real (Estate) Improvement,home_improvement,410.02,12000,5.79,785-789,?
+5038,10800,17.19,60,Debt,debt_consolidation,269.52,10800,14.32,665-669,?
+5039,20400,17.74,36,Car Loan NoVA,car,734.83,20400,6.84,665-669,?
+5040,10000,10.99,36,Debt Consolidation,debt_consolidation,327.36,10000,0.99,720-724,?
+5041,21000,17.58,60,Freedom,debt_consolidation,528.48,21000,13.91,685-689,?
+5042,8500,5.79,36,debt consolidation,debt_consolidation,257.78,8500,7.54,760-764,?
+5043,2000,10.38,36,Debt Consolidatin,debt_consolidation,64.9,2000,7.24,710-714,?
+5044,6225,7.9,36,Debt loan / 2nd part / remaining balance,debt_consolidation,194.79,6225,15.16,710-714,?
+5045,6000,12.42,36,Business Start Up,small_business,200.5,6000,10.11,680-684,?
+5046,14400,15.58,60,next big step,debt_consolidation,326.5,13550,10.95,700-704,?
+5047,20000,13.92,36,1717,home_improvement,682.74,20000,3.09,695-699,?
+5048,5200,10.74,36,Looking to get rid of my high rate CC's,debt_consolidation,169.61,5200,18.69,710-714,?
+5049,7800,11.14,36,Consolidate credit card debts,debt_consolidation,255.88,7800,20.46,715-719,?
+5050,2725,12.18,36,Soild Investment Loan,other,90.75,2725,1.92,725-729,?
+5051,5000,14.61,36,aller loan,debt_consolidation,172.38,5000,0.25,695-699,?
+5052,4500,12.53,36,Lowrey Organ & Wellness Ctr. For Seniors,small_business,150.6,4500,22.47,715-719,?
+5053,8000,14.65,36,bebt consolidation,debt_consolidation,275.96,8000,22.28,680-684,?
+5054,3000,7.75,36,Vacation,vacation,93.67,3000,5.35,760-764,?
+5055,4000,10.74,36,Debt consolidation,debt_consolidation,130.47,4000,1.53,710-714,?
+5056,12000,11.11,60,Citi Payoff,credit_card,261.57,12000,3.89,745-749,?
+5057,7500,11.59,36,new heat pump,home_improvement,206.37,6250,8.53,680-684,?
+5058,8000,6.54,36,Loan 10K,home_improvement,245.34,8000,8.51,730-734,?
+5059,10000,11.03,36,Pay off debt and start buisness,other,327.53,10000,2.61,695-699,?
+5060,30000,17.99,60,Financial Restructure loan,debt_consolidation,761.64,30000,20.32,715-719,?
+5061,20000,15.57,60,Consolidation loan,debt_consolidation,481.81,20000,19.71,710-714,?
+5062,35000,21.74,60,Pool Installation,other,961.5,35000,22.4,665-669,?
+5063,7000,17.04,36,Taking over established business ,small_business,249.72,7000,6.9,700-704,?
+5064,15000,7.88,36,partnertship business,small_business,469.22,15000,19.37,760-764,?
+5065,7500,12.22,36,consolidation and other,credit_card,193.26,5800,14.84,675-679,?
+5066,3600,15.27,36,Vacation,vacation,125.28,3600,11.83,665-669,?
+5067,13425,13.99,36,Debt Consolidation For Credit Cards,debt_consolidation,458.77,13425,18.49,680-684,?
+5068,25000,12.8,36,Loan to consolidate credit card debt,debt_consolidation,839.95,25000,24.85,720-724,?
+5069,6000,13.23,36,Personal Loan,major_purchase,202.83,6000,2.73,705-709,?
+5070,15000,16.07,36,great timing!!,debt_consolidation,527.91,15000,13.01,680-684,?
+5071,25000,15.31,36,Kitchen RENO,home_improvement,870.39,25000,14.72,695-699,?
+5072,20000,12.53,36,Returning To School,educational,669.33,20000,15.48,720-724,?
+5073,5000,7.74,36,earned reward,debt_consolidation,156.1,5000,4.51,770-774,?
+5074,10000,13.67,36,Debt Freedom,credit_card,340.18,10000,9.05,675-679,?
+5075,11000,15.28,36,Loan,major_purchase,382.83,11000,0,675-679,?
+5076,10625,18.25,60,debt_consolidation,debt_consolidation,271.26,10625,24.9,685-689,?
+5077,10000,17.88,60,Peace of Mind Consolidation,debt_consolidation,253.29,10000,19.56,660-664,?
+5078,4200,16.82,36,Two Jobs/Solid Work History,other,149.36,4200,16.02,660-664,?
+5079,10000,10.37,36,Back on my feet,debt_consolidation,324.42,10000,18.35,690-694,?
+5080,21600,6.91,36,Debt Consolidation Loan,debt_consolidation,407.81,13225,14.97,740-744,?
+5081,12000,5.99,36,Credit Card Consolidation,debt_consolidation,365.01,12000,12.24,750-754,?
+5082,20000,19.72,36,Debt Consolidation,debt_consolidation,740.43,20000,16.54,665-669,?
+5083,20000,12.53,36,Consolidate debt,debt_consolidation,669.33,20000,11.36,715-719,?
+5084,10000,15.95,36,Dental Expenses ,medical,351.33,10000,7.76,660-664,?
+5085,10000,14.91,60,Debt Free Me !,major_purchase,237.43,10000,13.71,705-709,?
+5086,9000,8.94,36,Debt Consolidation,debt_consolidation,285.95,9000,4.51,740-744,?
+5087,7925,14.91,60,Debt Consolidation,debt_consolidation,188.17,7925,20.61,690-694,?
+5088,10000,9.91,36,Home Improvement,home_improvement,322.25,10000,8.12,725-729,?
+5089,9450,17.99,36,credit card-car loan refinace,credit_card,341.6,9450,17.95,660-664,?
+5090,28000,22.45,36,2012 Financial Rework,major_purchase,1075.87,28000,14.52,670-674,?
+5091,15000,11.36,36,Software Development Company with New Patented Golf Product Ready to Launch,small_business,493.67,15000,17.82,710-714,?
+5092,8000,12.84,36,Student Loan,educational,268.95,8000,0,715-719,?
+5093,25000,13.23,60,My Family Room,home_improvement,364.8,15950,2.88,800-804,?
+5094,13000,9.25,36,gm loan,credit_card,414.92,13000,17.08,710-714,?
+5095,8000,13.11,36,consolidation,debt_consolidation,269.98,8000,24.78,690-694,?
+5096,20000,16.02,60,Personal Loan,debt_consolidation,486.58,20000,20.44,705-709,?
+5097,25000,15.33,36,Worthy Debt Consolidation,credit_card,870.71,25000,13.4,690-694,?
+5098,7500,13.22,36,Debt Consolidation,debt_consolidation,253.51,7500,3.88,680-684,?
+5099,24000,14.65,60,Debt Consolidation,debt_consolidation,566.56,24000,24.22,725-729,?
+5100,5000,10.74,36,Personal legal fees,other,163.08,5000,19.1,685-689,?
+5101,8500,10.99,36,jays dental,debt_consolidation,278.25,8500,18.68,710-714,?
+5102,12000,6.62,36,Home Improvement Loan,home_improvement,368.45,12000,7.77,745-749,?
+5103,16000,10.99,36,Consolidate Credit Cards,credit_card,523.77,16000,21.35,710-714,?
+5104,5000,12.84,36,My Dream Car - 1968 Corvette convertible,car,168.09,5000,0.23,765-769,?
+5105,15000,13.47,36,Pay-off high interest credit cards.,debt_consolidation,508.84,15000,13.76,690-694,?
+5106,18000,10.59,36,Credit Card Consolidation,debt_consolidation,585.81,18000,21.61,715-719,?
+5107,10000,11.83,36,Consolidation,debt_consolidation,331.34,10000,24.13,715-719,?
+5108,5000,13.92,36,Debt Consolidation,debt_consolidation,170.69,5000,21.68,670-674,?
+5109,6000,16.35,36,Iryna's loan,small_business,211.98,6000,0.84,780-784,?
+5110,8050,8.9,36,Debt Loan,debt_consolidation,255.62,8050,17.86,720-724,?
+5111,18200,19.05,60,Payoff,debt_consolidation,472.62,18200,14.41,690-694,?
+5112,4000,7.9,36,Consolidations,debt_consolidation,125.17,4000,6.6,740-744,?
+5113,4800,5.99,36,every point helps,debt_consolidation,146.01,4800,4.61,800-804,?
+5114,6000,8.9,36,Love,wedding,190.52,6000,34.62,705-709,?
+5115,5200,9.63,36,finances,debt_consolidation,166.89,5200,19.8,715-719,?
+5116,5000,13.23,60,Teresa's Auto,car,114.36,5000,8.83,710-714,?
+5117,8000,11.14,36,8K,house,262.43,8000,17.39,725-729,?
+5118,8875,7.62,36,Consolidation and Freedom ,debt_consolidation,276.56,8875,24.2,740-744,?
+5119,9600,10.59,36,Home improvement ,home_improvement,312.44,9600,11.88,720-724,?
+5120,12700,7.9,60,Home Improvement Loan,home_improvement,256.91,12700,19.47,775-779,?
+5121,10000,15.33,60,A and A Dad ,debt_consolidation,239.64,10000,11.61,705-709,?
+5122,6000,6.62,36,deposit on a new dance building ,other,184.23,6000,19.45,745-749,?
+5123,7000,7.51,36,BOFA+CITI,debt_consolidation,217.78,7000,23.16,730-734,?
+5124,5000,9.07,36,Opportunistic Investment,other,159.17,5000,5.46,735-739,?
+5125,1500,12.12,36,5,major_purchase,49.91,1500,7.39,695-699,?
+5126,16800,15.95,60,debt gone,debt_consolidation,408.1,16800,24.52,695-699,?
+5127,5000,12.12,36,personal expense,other,166.36,5000,3.17,750-754,?
+5128,10000,7.49,36,Re-financing,debt_consolidation,227.82,7325,12.65,735-739,?
+5129,2400,10.83,36,Credit card,credit_card,78.38,2400,15.75,695-699,?
+5130,2700,6.92,36,Lending Club Redux,credit_card,83.27,2700,15.72,735-739,?
+5131,12000,7.88,36,Travels in Europe,vacation,375.38,12000,13.96,765-769,?
+5132,14500,13.85,36,Debt consolidation loan,debt_consolidation,494.51,14500,23.72,685-689,?
+5133,2850,13.48,36,Cleaning Up Past Mistakes,debt_consolidation,96.69,2850,3.55,670-674,?
+5134,21000,10.71,36,Great Loan for Great Borrower,debt_consolidation,684.64,21000,2.9,720-724,?
+5135,14400,11.71,36,Debit Consolidation,debt_consolidation,476.3,14400,17.57,720-724,?
+5136,6500,10.99,60,FENCEFIX,home_improvement,141.3,6500,22.02,725-729,?
+5137,7500,10.01,36,Decrease utility bills,renewable_energy,242.04,7500,15.21,725-729,?
+5138,18000,12.12,60,getting free from debt,debt_consolidation,401.5,18000,18.18,725-729,?
+5139,12000,12.69,36,Wedding loan,wedding,402.54,12000,18.37,695-699,?
+5140,4000,6.03,36,Debt Consolidation Loan,debt_consolidation,121.75,4000,24.93,750-754,?
+5141,12000,13.49,36,Debt Consolidation,debt_consolidation,407.17,12000,15.72,670-674,?
+5142,33950,11.99,60,silver,credit_card,755.03,33950,24.67,765-769,?
+5143,17000,13.8,60,Jonathan and Sarah's Credit Refinance,credit_card,393.8,17000,15.4,715-719,?
+5144,10000,8.49,36,Loan 1,car,315.63,10000,10.76,730-734,?
+5145,6500,9.32,36,Credit/Medical consolidation,debt_consolidation,207.66,6500,12.08,745-749,?
+5146,4000,7.9,36,vacation,vacation,125.17,4000,6.29,715-719,?
+5147,6000,10.99,36,Home Improvement Project,home_improvement,196.42,6000,7.61,725-729,?
+5148,4000,11.14,36,djp,car,131.22,4000,11.08,720-724,?
+5149,3000,18.3,60,Home improvement,home_improvement,76.68,3000,21.57,670-674,?
+5150,14500,12.61,36,BofA pay off,debt_consolidation,485.85,14500,19.87,690-694,?
+5151,25000,17.93,60,consolidation,debt_consolidation,633.89,25000,2.14,690-694,?
+5152,24000,12.73,36,Live to Serve,debt_consolidation,805.59,24000,15.27,720-724,?
+5153,10300,14.65,36,debt relief,debt_consolidation,355.3,10300,20.58,680-684,?
+5154,35000,20.48,60,Small Business Loan,small_business,791.48,29575,22.3,665-669,?
+5155,19800,17.27,60,Debt Consolidation and Home Improvement,debt_consolidation,494.97,19800,21.58,710-714,?
+5156,12000,10.37,36,Debt consolidation,debt_consolidation,389.3,12000,18.33,685-689,?
+5157,6000,14.42,36,Clean Sweep,debt_consolidation,206.3,6000,13.57,660-664,?
+5158,21000,11.48,36,Pay off Retirement System Service Purchase,other,692.34,21000,10.53,755-759,?
+5159,15250,13.22,36,new lease on life,debt_consolidation,515.46,15250,22.41,695-699,?
+5160,25000,10.25,36,Home Improvement,home_improvement,809.62,25000,17.62,780-784,?
+5161,10000,13.06,36,Car,car,337.23,10000,24.62,680-684,?
+5162,14000,18.64,60,loan 1,debt_consolidation,360.41,14000,13.8,675-679,?
+5163,14000,14.26,36,1 Williams Inc.,small_business,480.29,14000,21.82,745-749,?
+5164,18000,16,36,Debt Consolidation,debt_consolidation,285.66,8125,15.88,700-704,?
+5165,4000,15.95,36,loan,major_purchase,140.53,4000,12.56,665-669,?
+5166,8500,5.42,36,debt consoildation,debt_consolidation,256.36,8500,15.6,775-779,?
+5167,10000,17.14,60,Debt Consolidation ,debt_consolidation,249.28,10000,13.14,695-699,?
+5168,25000,14.11,36,Bank of America loan,other,855.73,25000,15.53,710-714,?
+5169,11200,16.89,36,Wedding Loan,wedding,398.7,11200,8.08,660-664,?
+5170,5000,15.21,60,Loan,major_purchase,119.51,5000,5.08,680-684,?
+5171,15000,12.99,60,debt consolidation,debt_consolidation,341.22,15000,7.44,710-714,?
+5172,1200,10.36,36,Wamu Debt,debt_consolidation,38.93,1200,24.8,685-689,?
+5173,6800,10.59,36,Bye Bye High Interest Rate Cards,debt_consolidation,221.31,6800,13.53,700-704,?
+5174,12000,14.11,36,Small business loan needed,small_business,410.75,12000,7.63,690-694,?
+5175,10000,12.84,36,A little over extended,credit_card,336.18,10000,2,710-714,?
+5176,5000,5.79,36,Personal,debt_consolidation,151.64,5000,10.08,800-804,?
+5177,6000,9.32,36,I need a personal loan,moving,191.69,6000,11.56,775-779,?
+5178,35000,16.89,36,Book Marketing,credit_card,1245.94,35000,8.97,700-704,?
+5179,7200,14.35,36,PayBACK asap,vacation,247.31,7200,8.58,670-674,?
+5180,5000,8.49,36,Credit Card Consolidation,debt_consolidation,157.82,5000,13.31,725-729,?
+5181,13200,10,60,Consolidation,debt_consolidation,280.47,13200,7.66,755-759,?
+5182,9250,12.53,36,Dream West Expeditions,small_business,309.57,9250,0.92,725-729,?
+5183,13000,10.59,60,Debt consol,debt_consolidation,280.01,13000,11.63,750-754,?
+5184,4000,8.59,36,Moving Expenses,other,126.45,4000,7.3,745-749,?
+5185,22000,10.74,36,Debt Consolidation Loan,debt_consolidation,717.55,22000,8.63,715-719,?
+5186,20000,13.57,36,My Own 203K Home Improvement Loan,home_improvement,679.37,20000,9.01,745-749,?
+5187,10000,15.21,60,property purchase,major_purchase,239.01,10000,4.46,705-709,?
+5188,8000,13.16,36,College Grad needs to consolidate debt,debt_consolidation,270.17,8000,11.44,695-699,?
+5189,10000,19.91,36,Debt Consolidation,debt_consolidation,371.18,10000,23.35,680-684,?
+5190,3600,13.67,36,Bill Consolidation Loan,debt_consolidation,122.47,3600,5.97,680-684,?
+5191,5000,12.18,36,My Personal Loan,other,166.5,5000,8.67,690-694,?
+5192,7500,11.36,36,personal loan,other,246.84,7500,18.87,695-699,?
+5193,10000,8.59,36,ocsse,debt_consolidation,316.11,10000,15.75,755-759,?
+5194,5000,8.59,36,home down payment,house,158.06,5000,7.33,750-754,?
+5195,7500,6.03,36,Secure Borrower,other,228.27,7500,12.28,755-759,?
+5196,14000,10.14,36,Lower my bills,debt_consolidation,452.67,14000,16.54,720-724,?
+5197,9000,13.61,60,credit  card refinancing,credit_card,207.6,9000,16.28,705-709,?
+5198,14000,9.99,36,Pay off my Credit Cards,credit_card,388.77,12050,13.1,740-744,?
+5199,5000,7.74,36,Personal loan,other,156.1,5000,14.4,750-754,?
+5200,18000,16.45,36,Loan,credit_card,636.8,18000,6.77,715-719,?
+5201,4025,6.76,36,CitiCard,credit_card,123.84,4025,11.13,745-749,?
+5202,16000,10.99,36,Jump start me!,small_business,523.77,16000,16.33,760-764,?
+5203,19000,6.54,60,Don's Loan,debt_consolidation,372.12,19000,9,780-784,?
+5204,7800,12.53,36,Consolidation,debt_consolidation,261.04,7800,19,700-704,?
+5205,25000,13.61,36,Debt consolidation,debt_consolidation,849.72,25000,16.31,720-724,?
+5206,12000,5.79,36,Credit Card Loan,credit_card,363.93,12000,5.44,745-749,?
+5207,7500,10.25,36,Debt Free,debt_consolidation,242.89,7500,11.62,715-719,?
+5208,14400,5.42,36,Debt Consolidation Loan,debt_consolidation,434.31,14400,8.66,750-754,?
+5209,3800,10.37,36,Travel Loan to Visit Grandfather,vacation,123.28,3800,10.52,680-684,?
+5210,10000,16.63,36,Please help w/ loan towards home down py,house,354.7,10000,4.62,685-689,?
+5211,20000,16.32,60,Consolidation Loan,debt_consolidation,489.77,20000,18.9,690-694,?
+5212,20000,10.37,36,pay off my cards,debt_consolidation,648.83,20000,8.96,740-744,?
+5213,5000,14.26,36,personal loan,other,171.53,5000,9.34,665-669,?
+5214,8000,7.51,36,Consolidation Loan,debt_consolidation,248.89,8000,4.4,765-769,?
+5215,18000,11.12,36,My Mind,home_improvement,590.33,18000,3.37,715-719,?
+5216,7000,14.26,36,Credit Card Consolidation,debt_consolidation,240.15,7000,13.35,680-684,?
+5217,15000,14.27,36,Debt Consolidation,debt_consolidation,514.64,15000,17.43,695-699,?
+5218,4000,10.95,36,Soccer Trial,vacation,130.86,4000,9,770-774,?
+5219,4750,13.11,36,Home Improvement,debt_consolidation,160.29,4750,18.49,680-684,?
+5220,3200,10.25,36,need just a little,home_improvement,103.64,3200,4.91,710-714,?
+5221,25000,10.74,60,Eloan,other,540.33,25000,0.77,785-789,?
+5222,6000,8.49,36,Garage Improvement,home_improvement,189.38,6000,1.95,735-739,?
+5223,8000,16.32,36,Personnel,other,282.53,8000,7.48,665-669,?
+5224,25000,11.12,36,Debt Consolidation,debt_consolidation,819.89,25000,10.05,735-739,?
+5225,7000,5.79,36,Major Purchase Loan,major_purchase,212.29,7000,26,750-754,?
+5226,25000,14.09,36,credit cards,credit_card,855.54,25000,15.55,710-714,?
+5227,14000,14.72,36,bill consolidation,debt_consolidation,483.4,14000,21.52,685-689,?
+5228,7000,18.64,60,my loan,debt_consolidation,180.21,7000,9.75,675-679,?
+5229,16200,15.57,36,Consolidate,debt_consolidation,566.12,16200,13.86,710-714,?
+5230,7500,11.28,36,PAYOFF CARDS,credit_card,218.6,6650,8.68,695-699,?
+5231,10000,7.51,36,Surgery Loan,debt_consolidation,311.11,10000,24.46,765-769,?
+5232,3000,7.62,36,GOODBY TO MOM,debt_consolidation,93.49,3000,16.2,725-729,?
+5233,22000,13.92,36,Bill consolidation,credit_card,751.02,22000,23.92,705-709,?
+5234,3200,13.8,36,Wedding loan,wedding,109.06,3200,9.05,685-689,?
+5235,35000,16.02,60,Credit card pay off,debt_consolidation,851.51,35000,13.62,755-759,?
+5236,17000,8.49,36,Debt Consolidation Loan,debt_consolidation,469.5,14875,23.48,745-749,?
+5237,23000,9.99,60,Debt Consolidation,debt_consolidation,310.14,14600,10.5,745-749,?
+5238,18500,15.33,36,Bill Consolidation,debt_consolidation,644.33,18500,11.2,730-734,?
+5239,35000,15.23,60,Home Improvement,home_improvement,836.88,35000,0.9,760-764,?
+5240,11000,5.79,36,Seans Loan,debt_consolidation,333.6,11000,17.09,760-764,?
+5241,18000,15.95,60,bills,debt_consolidation,437.25,18000,11.45,695-699,?
+5242,4500,14.59,36,Guaranteed Full Return Plus Interest,major_purchase,155.1,4500,20.31,660-664,?
+5243,8000,13.92,36,We desire funding to expand our inventory,small_business,273.1,8000,5.88,770-774,?
+5244,8000,18.67,60,The Journey,educational,206.08,8000,5.56,660-664,?
+5245,3000,12.23,36,Holiday Vacation,vacation,99.98,3000,18.26,675-679,?
+5246,4800,14.96,36,Personal Line,major_purchase,166.3,4800,0,675-679,?
+5247,12000,7.88,36,Legal Debt Consolidation,debt_consolidation,375.38,12000,4,775-779,?
+5248,21000,13.11,60,Home Improvement Loan,house,479,21000,5.58,755-759,?
+5249,20000,13.47,36,loan request,debt_consolidation,678.46,20000,7.28,730-734,?
+5250,15000,6.91,36,Personal Loan,debt_consolidation,287.55,9325,5.78,725-729,?
+5251,15000,16.32,60,Loan Repayment and vacation home upgrade,home_improvement,367.33,15000,18.76,685-689,?
+5252,4000,7.88,36,30 day loan,other,125.13,4000,6.49,720-724,?
+5253,8000,16.69,60,First Loan,vacation,197.49,8000,13,665-669,?
+5254,3600,9.62,36,Positive Choice,medical,115.53,3600,7,725-729,?
+5255,18600,15.57,60,on the way to debtfree living,debt_consolidation,448.08,18600,14.57,690-694,?
+5256,20000,15.81,36,get me out of this hole,credit_card,701.27,20000,16.04,680-684,?
+5257,35000,10.74,36,Equipment Loan,small_business,1141.56,35000,10.52,765-769,?
+5258,4750,7.88,36,AUTO,car,148.59,4750,21.6,715-719,?
+5259,2350,14.17,36,Credit-Bustin' APR Reducin' DebtCon Loan,debt_consolidation,80.52,2350,22.96,660-664,?
+5260,7000,14.26,36,Terry and Shana marriage saver,debt_consolidation,240.15,7000,11.13,670-674,?
+5261,10000,14.35,36,The Loan,other,343.48,10000,6.38,700-704,?
+5262,12250,9.88,36,Home improvement,home_improvement,394.58,12250,0.34,755-759,?
+5263,5175,7.9,36,HOME IMPROVEMENT,home_improvement,161.93,5175,12.25,725-729,?
+5264,3000,7.14,36,alaska,other,92.82,3000,8.04,750-754,?
+5265,35000,22.45,60,Debt Consolidation Loan,debt_consolidation,975.64,35000,24.28,690-694,?
+5266,9800,7.51,36,My dad's Jag,major_purchase,304.88,9800,8.97,765-769,?
+5267,10000,5.99,36,Home Improvement Loan,home_improvement,205.32,6750,5.12,770-774,?
+5268,6000,14.33,36,second,debt_consolidation,206.03,6000,7.25,675-679,?
+5269,7750,19.79,36,Aerial Advertising Co-op,small_business,287.2,7750,15.26,690-694,?
+5270,3250,7.9,36,Home improvement,home_improvement,101.7,3250,17.53,705-709,?
+5271,3000,15.2,60,Ring Loan,moving,71.69,3000,1.34,675-679,?
+5272,5600,14.46,36,Bill Consolidation,debt_consolidation,192.65,5600,16.36,670-674,?
+5273,3000,7.51,36,Used Car,other,93.34,3000,16.66,725-729,?
+5274,3200,13.11,36,Consolidation,other,107.99,3200,17.86,690-694,?
+5275,14400,12.8,36,Debt Consolidation,debt_consolidation,483.81,14400,8.47,660-664,?
+5276,12000,15.28,60,Home Improvement Loan,home_improvement,287.25,12000,13.52,700-704,?
+5277,18000,13.48,36,pay off my credit cards and have only 1 bill,debt_consolidation,610.64,18000,15.23,695-699,?
+5278,4400,12.53,36,Education for Double the Salary,other,147.26,4400,6.17,685-689,?
+5279,1000,9.99,36,Home improvement,home_improvement,32.27,1000,9.11,700-704,?
+5280,6200,11.14,36,Debt Consolidation,debt_consolidation,203.39,6200,8.9,735-739,?
+5281,4400,11.89,36,Payoff & convert into one monthly paymen,credit_card,145.93,4400,12.43,705-709,?
+5282,8500,20.53,60,skipp's redemption,debt_consolidation,227.72,8500,12.73,665-669,?
+5283,10000,14.22,36,Expanding Salon Business,small_business,342.85,10000,4.51,690-694,?
+5284,10000,14.17,36,Darrell Debt Consolidation,debt_consolidation,342.61,10000,14.15,675-679,?
+5285,24000,10.38,36,Christines loan,debt_consolidation,778.71,24000,10.93,750-754,?
+5286,7200,13.06,60,Landscaping ,debt_consolidation,164.05,7200,14.93,705-709,?
+5287,21000,6.17,36,Medical,medical,402.59,13200,16.2,790-794,?
+5288,5000,12.87,36,My Loan,major_purchase,168.17,5000,8.7,690-694,?
+5289,6600,15.33,36,selah,educational,229.87,6600,10.88,670-674,?
+5290,25000,13.06,36,Mortgage Principal Reduction,other,843.08,25000,4.14,735-739,?
+5291,5400,12.68,60,Vehicle,car,121.99,5400,12.84,710-714,?
+5292,9000,15.21,36,not sure what this means,debt_consolidation,312.92,9000,13.8,660-664,?
+5293,9200,7.49,36,Credit Payoff,credit_card,286.14,9200,21.52,730-734,?
+5294,20000,11.83,36,Basement Finishing,home_improvement,662.68,20000,4.24,745-749,?
+5295,8875,17.51,60,A New Start,debt_consolidation,223.01,8875,21.6,660-664,?
+5296,8000,18.39,36,Debt Consolidation Loan,debt_consolidation,290.79,8000,10.16,660-664,?
+5297,25000,13.49,60,Small Business Loan,small_business,380.73,16550,2.15,750-754,?
+5298,23000,11.99,60,Debt consolidation,debt_consolidation,511.51,23000,10.86,780-784,?
+5299,19750,14.11,36,russell,debt_consolidation,676.02,19750,18.85,700-704,?
+5300,32000,24.52,60,Pool,home_improvement,930.26,32000,6.06,660-664,?
+5301,5000,14.74,36,Help Me Slash My Debt. ,debt_consolidation,172.69,5000,15.05,670-674,?
+5302,10500,8.94,36,Need to finish rebuilding after fire.,home_improvement,333.61,10500,2.84,760-764,?
+5303,5600,11.03,36,Kyle's Loan,major_purchase,183.42,5600,0.6,680-684,?
+5304,5000,10.25,36,Debt Free Monkey,debt_consolidation,161.93,5000,8.65,715-719,?
+5305,15000,11.58,36,Home Down Payment,house,495.21,15000,4.34,725-729,?
+5306,7500,13.06,36,motorcycle,major_purchase,252.93,7500,7.82,670-674,?
+5307,8000,11.36,36,security,other,263.29,8000,17.83,700-704,?
+5308,16000,14.22,36,Safety Net,other,548.55,16000,12.41,705-709,?
+5309,6000,10.65,36,Get out of DEBT!,debt_consolidation,195.44,6000,20.73,690-694,?
+5310,12500,13.99,36,credit card consalidation,debt_consolidation,427.16,12500,17.77,685-689,?
+5311,3000,11.86,36,Moving Loan,moving,99.45,3000,3.33,720-724,?
+5312,13750,6.92,36,Home Improvement Loan,home_improvement,424.06,13750,27.87,780-784,?
+5313,24500,12.61,36,Buying IPODs for my Store in Miami Beach,small_business,820.91,24500,5.76,695-699,?
+5314,6000,7.51,36,Home improvement,home_improvement,186.67,6000,18.06,735-739,?
+5315,3000,12.69,36,2011 Consolidation,debt_consolidation,100.64,3000,13.84,680-684,?
+5316,3725,6.54,36,Credit Card Payoff Loan,debt_consolidation,114.24,3725,14.84,725-729,?
+5317,16000,12.12,60,Debt consolidation,debt_consolidation,356.89,16000,16.49,730-734,?
+5318,6000,11.86,36,New Chicago Apartment for the Dog and I!,moving,198.89,6000,17.44,690-694,?
+5319,9250,16.4,60,TEA's loan,debt_consolidation,226.92,9250,22.3,665-669,?
+5320,5000,14.96,36,Personal,other,173.23,5000,24.4,660-664,?
+5321,19425,19.04,60,CC Debt,debt_consolidation,504.33,19425,8.72,660-664,?
+5322,28000,15.65,36,Debt Consolidation Loan,debt_consolidation,979.57,28000,20.35,685-689,?
+5323,1750,15.31,36,Photo Studio,small_business,60.93,1750,22.72,690-694,?
+5324,6000,14.79,36,Credit Card Loan,credit_card,207.38,6000,19.07,690-694,?
+5325,8000,17.27,36,Personal loan,other,286.3,8000,16.5,685-689,?
+5326,12000,14.65,36,debt consolidation,debt_consolidation,413.94,12000,18.63,680-684,?
+5327,6000,13.49,36,Debt Consolidation Loan,debt_consolidation,203.59,6000,9.82,665-669,?
+5328,9950,12.68,36,Buffy,debt_consolidation,333.73,9950,17.15,695-699,?
+5329,5000,7.74,36,Home improvement,home_improvement,156.1,5000,17.68,750-754,?
+5330,14000,13.57,36,Pay off High Credit Card Balances,debt_consolidation,475.56,14000,15.43,700-704,?
+5331,20000,15.13,36,Establishing Photo Studio in New Area,other,694.59,20000,10.25,660-664,?
+5332,4500,9.99,36,Auto Loan,car,145.19,4500,14.46,715-719,?
+5333,2500,14.59,36,The Campbells,major_purchase,86.17,2500,15.45,660-664,?
+5334,18000,8.94,36,Loan For Home,home_improvement,571.89,18000,5.37,775-779,?
+5335,4975,12.21,36,motorcycle,other,165.75,4975,14.2,690-694,?
+5336,13200,13.24,36,Money saver,credit_card,446.29,13200,21.06,680-684,?
+5337,21000,23.13,60,My Auspicious Future,debt_consolidation,593.57,21000,13.37,670-674,?
+5338,16775,11.97,36,Paying off all credit cards and closing ,debt_consolidation,307.93,9275,7.46,685-689,?
+5339,11250,13.16,36,Credit Card Cut  Up Party,debt_consolidation,379.92,11250,18.69,700-704,?
+5340,5600,12.53,36,personal loan,major_purchase,187.42,5600,14.43,700-704,?
+5341,19500,15.65,60,INTEREST SAVER,debt_consolidation,470.59,19500,19.39,740-744,?
+5342,10000,9.88,36,My Loan,small_business,322.11,10000,11.78,730-734,?
+5343,12000,15.05,36,Trailer,small_business,416.3,12000,2.48,670-674,?
+5344,12000,6.03,36,Home Sale Improvement,home_improvement,365.23,12000,9.61,755-759,?
+5345,1000,6.76,36,Home Improvement,home_improvement,30.77,1000,7.84,750-754,?
+5346,5000,10.38,36,in dept,debt_consolidation,162.23,5000,14.35,750-754,?
+5347,7000,13.16,36,Personal Loan,debt_consolidation,236.4,7000,18.85,695-699,?
+5348,14000,14.91,60,Home improve,home_improvement,332.4,14000,22.55,705-709,?
+5349,15000,12.22,36,Small Business equipment,major_purchase,376.52,11300,22.76,710-714,?
+5350,24000,19.03,60,Credit cards Payment ,credit_card,622.97,24000,17.67,690-694,?
+5351,2800,7.9,36,auto loan,car,87.62,2800,31.23,730-734,?
+5352,8000,14.26,36,help money,other,274.45,8000,12.21,700-704,?
+5353,1400,11.86,36,Wendy's Moving Loan,moving,46.41,1400,12.98,680-684,?
+5354,11000,5.42,36,Be Smarter,debt_consolidation,331.76,11000,8.93,790-794,?
+5355,12000,19.69,60,Debt Consolidation,debt_consolidation,315.87,12000,12.03,665-669,?
+5356,12500,19.04,36,Equitable Distribution of Assets,other,458.46,12500,5.84,660-664,?
+5357,5000,11.14,36,Loan for RN to BSN education,educational,164.02,5000,14.48,760-764,?
+5358,7200,17.27,36,Personal,other,257.67,7200,18.7,665-669,?
+5359,26500,15.8,60,Debt Consolidation,debt_consolidation,641.62,26500,16.91,775-779,?
+5360,2200,7.29,36,freedom,debt_consolidation,68.23,2200,8.13,715-719,?
+5361,22000,12.69,36,Consol,debt_consolidation,737.99,22000,5.64,685-689,?
+5362,8000,13.61,60,Final debt consolidation,debt_consolidation,184.54,8000,10.27,700-704,?
+5363,7900,8.59,36,Chase Away,credit_card,249.72,7900,15.2,810-814,?
+5364,10000,16.29,36,Personal Loan,other,353.01,10000,10.61,665-669,?
+5365,5000,15.31,36,straightendout,debt_consolidation,174.09,5000,13.61,670-674,?
+5366,20000,20.4,36,A Prosperous Partnership,debt_consolidation,747.36,20000,12.86,665-669,?
+5367,8000,16.82,60,perfect loan,debt_consolidation,198.05,8000,15.38,670-674,?
+5368,3500,13.23,36,Debt Consolidation,debt_consolidation,118.32,3500,23.24,690-694,?
+5369,4000,15.95,60,Jakes personal loan,debt_consolidation,97.17,4000,20.55,670-674,?
+5370,20000,10.37,36,A medical expense to change a life,credit_card,648.83,20000,12.82,740-744,?
+5371,8000,16.45,60,loan,credit_card,196.47,8000,15.72,670-674,?
+5372,10800,22.78,36,Car Loan,car,416.83,10800,6.89,670-674,?
+5373,6400,7.51,36,Consolidation Loan,debt_consolidation,199.11,6400,9.4,745-749,?
+5374,7000,13.35,60,refinancing LC,credit_card,160.53,7000,16,685-689,?
+5375,25000,10.99,36,Relocation Expenses,moving,818.38,25000,17.51,735-739,?
+5376,1500,11.83,36,student expenses,other,49.71,1500,1.5,730-734,?
+5377,24000,14.65,36,Home Improvement 2012,home_improvement,827.87,24000,10.46,710-714,?
+5378,20000,18.25,60,pay cards off,credit_card,510.6,20000,16.43,690-694,?
+5379,18250,14.26,36,A Loan to Get Back Under Control after an Illness,debt_consolidation,626.08,18250,23.12,685-689,?
+5380,3000,10.51,36,get rid of high interest cards,debt_consolidation,97.53,3000,16.08,725-729,?
+5381,5000,16.29,36,major purchase for equipment for job,major_purchase,176.51,5000,11.21,670-674,?
+5382,8300,9.99,36,DebtFree,debt_consolidation,267.78,8300,9.46,690-694,?
+5383,9000,7.51,36,Surgery,medical,279.99,9000,10,760-764,?
+5384,10050,16.89,60,Small Business Loan,small_business,249.18,10050,16.03,675-679,?
+5385,12250,16.49,60,consolidation depth,credit_card,301.1,12250,24.81,685-689,?
+5386,4000,7.4,36,Lending Club Loan Offer [CASE:39370],major_purchase,124.24,4000,1.89,795-799,?
+5387,5000,12.99,36,moksoup,moving,168.45,5000,4.08,680-684,?
+5388,1500,11.49,60,Credit Card Refinance - No More Debt!,credit_card,32.99,1500,19.02,705-709,?
+5389,11200,6.62,36,Help me low my interest rate,debt_consolidation,343.89,11200,18.64,730-734,?
+5390,3500,13.48,36,Consolidation,other,118.74,3500,4.67,705-709,?
+5391,13000,10.99,36,Credit Card,debt_consolidation,425.55,13000,20.05,700-704,?
+5392,9600,11.97,36,Consolidate Debt,debt_consolidation,70.55,2125,14.95,680-684,?
+5393,25000,20.53,60,Cowpet Unit Purchase,house,669.75,25000,13.67,670-674,?
+5394,5000,20.11,60,Loanclub 2011,debt_consolidation,132.78,5000,22.77,675-679,?
+5395,10000,19.69,60,personal expenses ,other,263.22,10000,0.61,675-679,?
+5396,9000,9.63,36,Tim's Credit Card refinance,credit_card,288.85,9000,18.41,735-739,?
+5397,9000,12.53,36,Consolidation,home_improvement,301.2,9000,20.3,720-724,?
+5398,9600,10.78,36,Home improvement,home_improvement,313.3,9600,14.06,700-704,?
+5399,3800,14.59,36,pay off,debt_consolidation,130.97,3800,19.29,670-674,?
+5400,3600,14.26,36,Helping the elderly to walk,small_business,123.51,3600,2.24,740-744,?
+5401,20000,16.89,60,CC Loan,credit_card,495.87,20000,17.06,735-739,?
+5402,12000,12.53,36,Credit Card Consolidation,debt_consolidation,401.6,12000,19.32,715-719,?
+5403,13500,17.99,60,getting rid of my bills,debt_consolidation,342.74,13500,7.79,685-689,?
+5404,12000,12.53,36,Free From College Credit Card Debt,debt_consolidation,401.6,12000,16.26,715-719,?
+5405,15000,16.07,36,Home Improvement Loan,home_improvement,527.91,15000,17.37,665-669,?
+5406,14000,13.11,36,buyers nightmare,credit_card,472.46,14000,16.52,680-684,?
+5407,10000,11.83,36,Home,home_improvement,331.34,10000,10.59,720-724,?
+5408,12000,7.88,36,Home Improvement - Patio,home_improvement,262.77,8400,9.97,735-739,?
+5409,30000,15.99,36,one,credit_card,1054.57,30000,17.48,715-719,?
+5410,4600,6.62,36,Debt Consolidation,debt_consolidation,141.24,4600,4.6,760-764,?
+5411,10000,5.99,36,4 my Bike,major_purchase,304.18,10000,2.2,785-789,?
+5412,20000,17.27,60,Total Debt Consolidation,debt_consolidation,499.96,20000,8.7,710-714,?
+5413,10000,6.03,36,bills loan,major_purchase,304.36,10000,1.7,790-794,?
+5414,4750,7.14,36,Erin Debt,debt_consolidation,146.98,4750,8.46,755-759,?
+5415,30000,16.77,60,Debt Consolidation,debt_consolidation,741.88,30000,9.89,725-729,?
+5416,9600,17.27,36,Personal Loan,other,343.56,9600,24.09,670-674,?
+5417,25000,17.19,60,Long Island Aerial Photography,small_business,435.47,17450,15.2,720-724,?
+5418,20000,17.74,36,personal,debt_consolidation,720.42,20000,2.87,675-679,?
+5419,6000,8.59,36,Lower My Debt Today!,debt_consolidation,189.67,6000,5.4,760-764,?
+5420,24000,9.25,36,Dan - Debt Consolodation,debt_consolidation,765.99,24000,10.03,720-724,?
+5421,5700,7.66,36,Credit Card Debt Consolidation,debt_consolidation,177.73,5700,17.39,720-724,?
+5422,10000,8,36,Finish landscaping and improvements,home_improvement,313.37,10000,0.49,785-789,?
+5423,5000,16,36,bill payment,debt_consolidation,175.79,5000,16.3,660-664,?
+5424,15000,6.54,36,Debt Payoff,debt_consolidation,300.54,9800,12.37,740-744,?
+5425,6000,6.54,60,Paying off my credit cards,debt_consolidation,117.51,6000,11,735-739,?
+5426,3000,7.14,36,Quality Improvement,other,92.82,3000,19.85,745-749,?
+5427,14000,11.89,36,Repairs on my 4-Family Property,home_improvement,464.3,14000,11.34,730-734,?
+5428,1200,12.21,36,Summer School Tuition,educational,39.98,1200,4.54,700-704,?
+5429,8000,11.89,36,credit card debt,debt_consolidation,265.32,8000,17.24,705-709,?
+5430,5000,6.62,36,bill help,debt_consolidation,153.52,5000,10.84,750-754,?
+5431,10000,13.99,36,debt con.,debt_consolidation,341.73,10000,10.01,680-684,?
+5432,5000,8,36,Roof,home_improvement,156.69,5000,3.75,760-764,?
+5433,10750,12.53,36,Eliminate Credit Card Debt,debt_consolidation,359.77,10750,14.74,695-699,?
+5434,5000,8.94,36,Debt Consolidation,debt_consolidation,158.86,5000,22.09,725-729,?
+5435,10750,5.79,36,Nicole's Consolidation Loan,debt_consolidation,326.02,10750,9.23,775-779,?
+5436,9500,8.94,36,Energy Efficient Windows for Home,home_improvement,301.83,9500,2.84,745-749,?
+5437,16000,18.55,36,Debt Consolidation,debt_consolidation,582.87,16000,18.6,660-664,?
+5438,5000,16.32,36,NEED HELP,credit_card,176.58,5000,20.02,665-669,?
+5439,14400,18.3,60,Fixing up the new OLD house,home_improvement,260.05,10175,22.48,660-664,?
+5440,8000,14.91,36,Credit card consolidation,debt_consolidation,276.98,8000,14.82,665-669,?
+5441,35000,14.27,36,Debt Consolidation,debt_consolidation,1200.82,35000,9.05,725-729,?
+5442,2500,8.9,36,Help us move to Twin Peaks,house,79.39,2500,24.21,715-719,?
+5443,10000,18.25,36,Consolidate to lower rate,debt_consolidation,362.78,10000,15.81,665-669,?
+5444,1400,11.86,36,roses loan,debt_consolidation,46.41,1400,13.24,705-709,?
+5445,8000,7.4,36,Car Loan for VW Passat,car,248.48,8000,0.44,695-699,?
+5446,25000,7.9,36,Debt consolidation,debt_consolidation,782.26,25000,10.55,765-769,?
+5447,11725,17.49,60,Debt Consolidation Loan,debt_consolidation,294.5,11725,11.63,680-684,?
+5448,2500,15.21,36,amy's loan,debt_consolidation,86.93,2500,5.8,670-674,?
+5449,10000,8.59,36,30 year Fed Gov employee,credit_card,316.11,10000,4.46,755-759,?
+5450,5000,11.99,36,loAn 1,debt_consolidation,166.05,5000,18.62,675-679,?
+5451,2400,10.59,36,Home Improvement,home_improvement,78.11,2400,6.9,700-704,?
+5452,20000,12.84,36,Personal Loan,other,672.36,20000,1.95,785-789,?
+5453,2000,9.76,36,personal,other,64.31,2000,18.2,690-694,?
+5454,5000,12.12,36,Debt consolidation,debt_consolidation,166.36,5000,25.52,690-694,?
+5455,14800,19.22,36,debt consolidation,debt_consolidation,544.16,14800,26.46,670-674,?
+5456,7500,7.14,36,Freedom,other,232.06,7500,9.43,795-799,?
+5457,16425,13.99,36,Consolidation of personal & Credit Card,other,561.29,16425,5.31,685-689,?
+5458,15875,14.91,60,Debt Loan,debt_consolidation,376.92,15875,29,725-729,?
+5459,10000,14.33,36,UNIQUE,credit_card,343.39,10000,22.3,685-689,?
+5460,12000,6.99,36,Personal loan,medical,370.48,12000,4.71,740-744,?
+5461,6000,6.99,36,Credit Card Combo,debt_consolidation,185.24,6000,16.8,750-754,?
+5462,35000,17.49,60,Consolidation Loan ,debt_consolidation,570.78,22725,17.24,725-729,?
+5463,5500,7.68,36,Help me kick Citi to the Curb!,credit_card,171.55,5500,10.32,780-784,?
+5464,8000,11.49,60,credit card cosolidation,credit_card,175.91,8000,4.58,740-744,?
+5465,30000,20.25,60,Small Business Loan,small_business,799,30000,5.46,675-679,?
+5466,9200,9.88,36,Better future,other,296.34,9200,16.79,740-744,?
+5467,24000,12.12,36,kstewart317,debt_consolidation,798.52,24000,16.22,720-724,?
+5468,15000,14.22,36,reorganizing debt,debt_consolidation,514.27,15000,23.66,680-684,?
+5469,6000,11.49,36,New Baby & Credit Card Refinance,credit_card,197.83,6000,17.31,695-699,?
+5470,3600,19.42,60,debt consolidation/ emergency fund,other,94.22,3600,4.14,670-674,?
+5471,17000,9.76,60,thebest,house,359.2,17000,21.96,775-779,?
+5472,12500,7.88,36,Credit Card Refinance,credit_card,391.02,12500,19.1,740-744,?
+5473,2000,18.25,60,Debt Loan,debt_consolidation,51.06,2000,8.08,665-669,?
+5474,18000,15.27,60,No more debt,debt_consolidation,430.78,18000,15.31,715-719,?
+5475,15200,13.85,36,Liquid cash loan,major_purchase,518.38,15200,0,690-694,?
+5476,7500,10.78,36,Expand Delivery Capability,small_business,244.76,7500,1.78,685-689,?
+5477,10000,8,36,Home improvement,home_improvement,313.37,10000,1.03,805-809,?
+5478,9175,12.12,36,Credit Card Payoff,credit_card,305.27,9175,20.45,690-694,?
+5479,5000,15.62,36,Tax Payment Loan,other,174.85,5000,22.24,670-674,?
+5480,10000,6.91,36,Classic Monte Carlo Car Loan,car,199.67,6475,8.83,730-734,?
+5481,12250,13.23,36,Debt Consolidation,debt_consolidation,414.11,12250,23.08,695-699,?
