@@ -197,9 +197,71 @@
 \begin{enumerate}[a.]
 % NBC
 \item \ 
-	\begin{enumerate}
-
-
+	\begin{enumerate}[i.]
+	%a-i
+	\item Naive Bayes Classifier: \\ \\
+	From the naive bayes classifier, we have the formula: \\
+	$P(C|X) = \frac{P(X|C)P(C)}{P(X)} \propto P(X|C)P(C)$ (Bayes rule), where C is the class random variable and X is the attribute random vector. \\ \\
+	In NBC, there is an assumption that attributes are conditionally independent given the class, Therefore, we have the naive Bayes classifier: \\
+	$P(C|X) \propto P(X|C)P(C) \propto \prod_{i=1}^{m}P(X_{i}|C)P(C)$ , where m is the number of attributes and $X_i$ is the $i$-th attribute random variable.\\ \\
+	Because we don't know the distribution of $P(X_{i}|C)$ and $P(C)$,
+	Therefore, we need likelihood function to determine unknown parameters based on known outcomes. Assume the data D are independently sampled from the same distribution. Let $D = [x_1, ... , x_n]$, where n is the number of samples:
+	\begin{align}
+	L(\theta|D) &= \prod_{i=1}^{n}P(x_{i},c_{i}|\theta) \text{\ \ (general likelihood)}\\
+	&\propto \prod_{i=1}^{n}P(x_{i}|c_{i},\theta)P(c_i|\theta) \text{\ \ (Bayes rule)}\\ 
+	&\propto \prod_{i=1}^{n} \prod_{j=1}^{m}P(x_{ij}|c_{i},\theta)P(c_i|\theta) \text{\ \ (Naive assumption)}
+	\end{align}
+	We apply Maximum Likelihood estimation to learn the best parameters by finding the value $\theta$ that maximizes likelihood:
+	\begin{align}
+	\hat{\theta}_{MLE} = arg\underset{\theta}{max}L(\theta)
+	\end{align}
+	For Multinomials, Let $A \in \{1,...,k\}$ be a discrete random variable with k values, where $P(A=j) = \theta_j$. Then P(A) is a multinomial distribution:\\
+	\begin{align}
+	P(A|\theta) = \prod_{j=1}^{k}\theta_{j}^{I(A=j)} \text{\ ,\ where $I(A=j)$ is an indicator function.}
+	\end{align}
+	The likelihood for a data set D is:
+	\begin{align}
+	P(D|\theta) = \prod_{i=1}^{n}\prod_{j=1}^{k}\theta_{j}^{I(A=j)} = \prod_{j}\theta_i^{n_j}
+	\end{align}
+	Therefore, by using Lagrange multipliers, the maximum likelihood estimates for each parameter are:
+	\begin{align}
+	\hat{\theta_j} = \frac{n_j}{n}
+	\end{align}
+	which means that in multinomial case, MLE can be determined analytically by counting. \\ \\
+	For continuous inputs $X_i$, the common way to represent the distributions $P(X_i|Y)$ to assume that for each possible discrete value $y_k$ of Y, the distribution of each continuous $X_i$ is Gaussian, and is defined by a mean and standard deviation specific to $X_i$ and $y_k$.
+	\begin{align}
+	\mu_{ik} &= E[X_i|Y=y_k] \\
+	\sigma_{ik}^{2} &= E[(X_i-\mu_{ik})^2|Y=y_k] 
+	\end{align}
+	Again, by MLE, we get: \\
+	\begin{align}
+	\hat\mu_{ik} &= \frac{1}{\sum_{j}\delta(Y^j=y_k)}\sum_{j}X_i^j\delta(Y^j=y_k) \\
+	\hat\sigma_{ik}^{2} &= \frac{1}{\sum_{j}\delta(Y^j=y_k)}\sum_{j}(X_i^j-\hat{\mu_{ik}})^2\delta(Y^j=y_k)
+	\end{align}
+	Then we can estimate continuous attributes using Gaussian distribution with $\hat\mu_{ik}$ and $\hat\sigma_{ik}^{2}$. \\
+	
+	In this question, we are given 11 attributes.
+	\begin{enumerate}[1.]
+	\item Record Number
+	\item Amount Requested
+	\item Interest Rate Percentage
+	\item Loan Length in Months
+	\item Loan Title
+	\item Loan Purpose
+	\item Monthly Payment
+	\item Total Amount Funded
+	\item Debt-To-Income Ratio Percentage
+	\item FICO Range
+	\item Status
+	\end{enumerate}
+	The Record Number is used as id and will not be considered as an attribute and Status is the classification goal that we are interested in and used as the class random variable. Therefore, the potential attributes are from the 2 to 10 entry, which forms our attribute random vector. \\ \\
+	In the step of classifying out-of-sample items, we will use the above shown formula to calculate the P(C|X) and compare $P(C=c_1|X)$ with $P(C=c_2|X)$ to see whether the out-of-sample with its attributes given in X should belong to $c_1$ or $c_2$ class.
+	\item From the MLE, we have the formula 
+	\begin{align}
+	\hat{\theta_j} = \frac{n_j}{n}
+	\end{align}
+	The prior is estimated from the dataset by counting the number of each class among the entire dataset. However, if the real value prior is far from the estimated one, it will have significant impacts on the correctness of the prediction. For example, if we have a dataset with half of people with cancer and other half are healthy while in really life the probability that a person has a cancer is nearly 0.01\%, then in this situation the prior will be estimated wrong (50\%), which should be 0.01\% for cancer class and 99.99\% for healthy class, and cause large false positive in this prediction. Therefore, we can see that the wrong prior in NBC will cause either false positive or false negative to increase depending on the difference between real prior and the estimated one. That's the reason why prior in NBC is important. 
+	\end{enumerate}
 \end{enumerate}
 \end{homeworkProblem}
 \clearpage
