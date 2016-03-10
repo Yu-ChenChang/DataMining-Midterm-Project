@@ -40,6 +40,7 @@
 \usepackage{minted}
 \usepackage{enumerate}
 \usepackage{adjustbox}
+\usepackage{bm}
 
 % Margins
 \topmargin=-0.45in
@@ -195,20 +196,20 @@
 
 \begin{homeworkProblem}
 \begin{enumerate}[a.]
-% NBC
+%% NBC %%
 \item \ 
 	\begin{enumerate}[i.]
-	%a-i
+	% a-i %
 	\item Naive Bayes Classifier: \\ \\
 	From the naive bayes classifier, we have the formula: \\
-	$P(C|X) = \frac{P(X|C)P(C)}{P(X)} \propto P(X|C)P(C)$ (Bayes rule), where C is the class random variable and X is the attribute random vector. \\ \\
+	$P(C|\mathbf{X}) = \frac{P(\mathbf{X}|C)P(C)}{P(\mathbf{X})} \propto P(\mathbf{X}|C)P(C)$ (Bayes rule), where C is the class random variable and \textbf{X} is the attribute random vector. \\ \\
 	In NBC, there is an assumption that attributes are conditionally independent given the class, Therefore, we have the naive Bayes classifier: \\
-	$P(C|X) \propto P(X|C)P(C) \propto \prod_{i=1}^{m}P(X_{i}|C)P(C)$ , where m is the number of attributes and $X_i$ is the $i$-th attribute random variable.\\ \\
+	$P(C|\mathbf{X}) \propto P(\mathbf{X}|C)P(C) \propto \prod_{i=1}^{m}P(X_{i}|C)P(C)$ , where m is the number of attributes and $X_i$ is the $i$-th attribute random variable.\\ \\
 	Because we don't know the distribution of $P(X_{i}|C)$ and $P(C)$,
-	Therefore, we need likelihood function to determine unknown parameters based on known outcomes. Assume the data D are independently sampled from the same distribution. Let $D = [x_1, ... , x_n]$, where n is the number of samples:
+	Therefore, we need likelihood function to determine unknown parameters based on known outcomes. Assume the data D are independently sampled from the same distribution. Let $D = [\mathbf{x}_1, ... , \mathbf{x}_n]$, where n is the number of samples:
 	\begin{align}
-	L(\theta|D) &= \prod_{i=1}^{n}P(x_{i},c_{i}|\theta) \text{\ \ (general likelihood)}\\
-	&\propto \prod_{i=1}^{n}P(x_{i}|c_{i},\theta)P(c_i|\theta) \text{\ \ (Bayes rule)}\\ 
+	L(\theta|D) &= \prod_{i=1}^{n}P(\mathbf{x}_{i},c_{i}|\theta) \text{\ \ (general likelihood)}\\
+	&\propto \prod_{i=1}^{n}P(\mathbf{x}_{i}|c_{i},\theta)P(c_i|\theta) \text{\ \ (Bayes rule)}\\ 
 	&\propto \prod_{i=1}^{n} \prod_{j=1}^{m}P(x_{ij}|c_{i},\theta)P(c_i|\theta) \text{\ \ (Naive assumption)}
 	\end{align}
 	We apply Maximum Likelihood estimation to learn the best parameters by finding the value $\theta$ that maximizes likelihood:
@@ -256,11 +257,62 @@
 	\end{enumerate}
 	The Record Number is used as id and will not be considered as an attribute and Status is the classification goal that we are interested in and used as the class random variable. Therefore, the potential attributes are from the 2 to 10 entry, which forms our attribute random vector. \\ \\
 	In the step of classifying out-of-sample items, we will use the above shown formula to calculate the P(C|X) and compare $P(C=c_1|X)$ with $P(C=c_2|X)$ to see whether the out-of-sample with its attributes given in X should belong to $c_1$ or $c_2$ class.
+	% a-ii %
 	\item From the MLE, we have the formula 
 	\begin{align}
 	\hat{\theta_j} = \frac{n_j}{n}
 	\end{align}
 	The prior is estimated from the dataset by counting the number of each class among the entire dataset. However, if the real value prior is far from the estimated one, it will have significant impacts on the correctness of the prediction. For example, if we have a dataset with half of people with cancer and other half are healthy while in really life the probability that a person has a cancer is nearly 0.01\%, then in this situation the prior will be estimated wrong (50\%), which should be 0.01\% for cancer class and 99.99\% for healthy class, and cause large false positive in this prediction. Therefore, we can see that the wrong prior in NBC will cause either false positive or false negative to increase depending on the difference between real prior and the estimated one. That's the reason why prior in NBC is important. 
+	\end{enumerate}
+\clearpage
+%% Logistic Regression %%
+\item Logistic Regression: \\
+	% b-i %
+	\begin{enumerate}[i.]
+	\item
+	In logistic regression, we make the assumption that
+	\begin{align}
+	log\frac{P(\mathbf{x},y=1)}{P(\mathbf{x},y=0)} = \mathbf{w}^T\mathbf{x} + w_0
+	\end{align}
+	which is equivalent to 
+	\begin{align}
+	P(y=1|\mathbf{x}) &= \frac{1}{1+e^{-(\mathbf{w}^T\mathbf{x}+w_0)}} \\
+	P(y=0|\mathbf{x}) &= \frac{e^{-(\mathbf{w}^T\mathbf{x}+w_0)}}{1+e^{-(\mathbf{w}^T\mathbf{x}+w_0)}}
+	\end{align}
+	Using the canonical representation of the data (adding a dummy feature of value 1 to each input vector), we have
+	\begin{align}
+	P(y=1|\mathbf{x}) &= g(\mathbf{x},\mathbf{w})= \frac{1}{1+e^{-\mathbf{w}^T\mathbf{x}}} \\
+	P(y=0|\mathbf{x}) &= 1-g(\mathbf{x},\mathbf{w}) = \frac{e^{-\mathbf{w}^T\mathbf{x}}}{1+e^{-\mathbf{w}^T\mathbf{x}}}
+	\end{align}
+	These equations mean that given a training data set $\{(\mathbf{x}_i,y_i):i=1,...,N\}$, and $\mathbf{x}_i \in R^{d+1}$, where N is the total number of training examples and d is the original feature dimension, the learning goal is to find the optimal weight vector $\mathbf{w}$. \\
+	The next step is to learn the parameters by using MLE. The log likelihood function is as follows:
+	\begin{align}
+	L(\mathbf{w}) = \sum_{i=1}^{N}log\ p(y_i|\mathbf{x}_i) = \sum_{i=1}^{N}log\ g(\mathbf{x}_i,\mathbf{w})^{y_i}(1-g(\mathbf{x}_i,\mathbf{w}))^{1-y_i}
+	\end{align}
+	Taking gradient of L with respect to \textbf{w}, we have
+	\begin{align}
+	\sum_{i=1}^{N}(y_i-g(\mathbf{x}_i,\mathbf{w}))\mathbf{x}_i = \mathbf{\Phi}^T(\mathbf{y}-g(\mathbf{x},\mathbf{w}))
+	\end{align}
+	Now we use Newton-Raphson update for gradient descent
+	\begin{align}
+	\mathbf{H} = \sum_{i=1}^{N}g(\mathbf{x}_i,\mathbf{w})(1-g(\mathbf{x}_i,\mathbf{w}))\mathbf{x}_i\mathbf{x}_{i}^{T}
+	\end{align}
+	we donote it as:
+	\begin{align}
+	\mathbf{H} = \sum_{i=1}^{N}g(\mathbf{x}_i,\mathbf{w})(1-g(\mathbf{x}_i,\mathbf{w}))\mathbf{x}_i\mathbf{x}_{i}^{T} = \mathbf{\Phi}^T\mathbf{R}\mathbf{\Phi}
+	\end{align}
+	where $R_{nn} = g(\mathbf{x}_i,\mathbf{w})(1-g(\mathbf{x}_i,\mathbf{w})$ \\
+	Then the iterative parameter update is
+	\begin{align}
+	\mathbf{w}^{(\text{new})} &= \mathbf{w}^{\text{(old)}} + (\mathbf{\Phi}^T\mathbf{R}\mathbf{\Phi})^{-1}\mathbf{\Phi}^T(\mathbf{y}-g(\mathbf{x},\mathbf{w})) \\
+	&=(\mathbf{\Phi}^T\mathbf{R}\mathbf{\Phi})^{-1}\mathbf{\Phi}^T\mathbf{R}\mathbf{z}
+	\end{align}
+	where \textbf{z} is an N-dimensional vector with elements
+	\begin{align}
+	\mathbf{z} = \mathbf{\Phi}\mathbf{w}^{\text{(old)}} - \mathbf{R}^{-1}(g(\mathbf{x},\mathbf{w}) - \mathbf{y})
+	\end{align}
+	% b-ii %
+	\item
 	\end{enumerate}
 \end{enumerate}
 \end{homeworkProblem}
@@ -271,7 +323,7 @@
 
 \begin{homeworkProblem}
 \begin{enumerate}[a.]
-\item \ 
+\item \
 
 \item \
 	
@@ -279,5 +331,7 @@
 \end{homeworkProblem}
 \clearpage
 %----------------------------------------------------------------------------------------
+%reference
+%http://web.engr.oregonstate.edu/~xfern/classes/cs534/notes/logistic-regression-note.pdf
 
 \end{document}
