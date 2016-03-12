@@ -57,4 +57,4 @@ class PageRanker():
 		return graph
 
 if __name__ == '__main__':
-	ranker = PageRanker('edges.csv','out_test.csv')
+	ranker = PageRanker('edges.csv','out.csv')
