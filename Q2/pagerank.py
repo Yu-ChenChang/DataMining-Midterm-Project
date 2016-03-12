@@ -1,22 +1,25 @@
 import sys
 import scipy
-import csv
 import operator
 from scipy import sparse
 import numpy as np 
 import networkx as nx
 
-class PageRanker():
+def writeToFile(filename, result):
+	with open(filename,'w') as out:
+		out.write(result)
+
+class PageRank():
 	def __init__(self, filename,outname):
 		self.nodeCandidate = []
-		self.graph = self.readFromFile(filename)
-		#self.personalizedPageRank()
+		self.readFromFile(filename)
+		## Calculation ##
 		Result = ''
-		for i,n in enumerate(self.nodeCandidate):
+		for i,node in enumerate(self.nodeCandidate):
 			if i%100 == 0:
 				print i
-			Result += self.personalizedPageRank(n)
-		self.writeToFile(outname,Result)
+			Result += self.personalizedPageRank(node)
+		writeToFile(outname,Result)
 
 	def personalizedPageRank(self,rootID):
 		personalize = dict((n, 0) for n in self.graph)
@@ -33,28 +36,26 @@ class PageRanker():
 				break
 		return result
 
-	def writeToFile(self, filename, result):
-		with open(filename,'w') as out:
-			out.write(result)
 		
 	def readFromFile(self, filename):
-		edgeCount = 0
+		edgeCount = 1
 		leftNode = 0
 		graph = nx.Graph()
 		with open(filename, 'rb') as fd:
-			reader = csv.reader(fd, delimiter=',')
-			for row in reader:
-				if leftNode == row[0]:
+			for line in fd:
+				ele = line.strip().split(',')
+				if leftNode == ele[0]:
 					edgeCount = edgeCount + 1
-					if edgeCount >= 10 and row[0] not in self.nodeCandidate:
-							self.nodeCandidate += [row[0]]
+					if edgeCount >= 10 and ele[0] not in self.nodeCandidate:
+							self.nodeCandidate += [ele[0]]
 					else:
-						graph.add_edge(row[0],row[1])
+						graph.add_edge(ele[0],ele[1])
 				else:
 					edgeCount = 1;
-					leftNode = row[0]
-					graph.add_edge(row[0],row[1])
-		return graph
+					leftNode = ele[0]
+					graph.add_edge(ele[0],ele[1])
+		self.graph = graph
+
 
 if __name__ == '__main__':
-	ranker = PageRanker('edges.csv','out.csv')
+	PageRank('edges.csv','out.csv')
