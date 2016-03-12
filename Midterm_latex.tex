@@ -329,6 +329,15 @@
 	Once the model is trained with the \textbf{w}, in the step of classifying out-of-sample items, we will use the above shown formula to calculate the P(\textbf{y}|\textbf{x}) and compare $P(y=0|\textbf{x})$ with $P(y=1|\textbf{x})$ to see whether the out-of-sample with its attributes given in X should belong to $y=0$ or $y=1$ class.
 	% b-ii %
 	\item
+	We know that the singular matrix doesn't have inverse matrix, if the $\mathbf{\Phi}^T\mathbf{R}\mathbf{\Phi}$ is singular, we cannot update the \textbf{w} for the updata formula is:
+	\begin{align}
+	\mathbf{w}^{(\text{new})} &= \mathbf{w}^{\text{(old)}} + (\mathbf{\Phi}^T\mathbf{R}\mathbf{\Phi})^{-1}\mathbf{\Phi}^T(\mathbf{y}-g(\mathbf{x},\mathbf{w})) \\
+	&=(\mathbf{\Phi}^T\mathbf{R}\mathbf{\Phi})^{-1}\mathbf{\Phi}^T\mathbf{R}\mathbf{z}
+	\end{align}
+	The reason why $\mathbf{\Phi}^T\mathbf{R}\mathbf{\Phi}$ is singular is that one or more features are a linear combination of other features. \\ \\
+	There are two possible solutions: \\
+	\-\hspace{5mm}The first one is to remove the highly correlated features from the dataset to prevent singular matrix happens or we can handle the feature in different way to prevent such this occur.\\
+	\-\hspace{5mm}The second one is to modify the matrix by adding small value in the diagonal of the matrix to solve the singular matrix situation. However, this way will slightly modify the result of our prediction so the there will have slight difference between the original feature and modified one.
 	\end{enumerate}
 \clearpage
 %% Support Vector Machine %%
@@ -412,8 +421,51 @@
 	Once the model is trained, in the step of classifying out-of-sample items, we will use the above shown formula($\mathbf{w}^T\mathbf{\phi}(\mathbf{x}) + b$) to see its sign to determine which class the out-of-sample with its attributes given in X should belong to $\{-1,1\}$. \\
 	% c-ii %
 	\item
-	
+	The Gaussian kernel work best with the data. The reason is that there are just a few features with approximate 3500 training data. If we use linear kernel, the model is too simple so that the bias of the model is high and cause the higher error than Gaussian kernel. If we have lots of feature that may cause Gaussian kernel become too complicated, than at that case the Gaussian kernel will have high variance that it didn't perform well on testcases. Then at that case, we should choose linear kernel to reduce the complexity of the model.
 	\end{enumerate}
+%% d %%
+\item \ \\
+	\begin{enumerate}[1)]
+	\item how to do k-fold validation.\\
+	The k-fold validation is done by randomly splitting the training dataset into k pieces, and each time we use 1 piece as testing dataset and others as training dataset and repeat this procedure for k time. Then we can avoid the situation that the model is only doing well in special cases. \\
+	\item give the average F1 score (possibly also the variance if you want) \\ \\
+	The F1 score formula:
+	\begin{align}
+	F_1 = 2\cdot \frac{precision \cdot recall}{precision + recall}
+	\end{align}
+	5-fold: \\
+		\-\hspace{5mm}NBC: 0.606583184549 \\
+		\-\hspace{5mm}Logistic Regression: 0.618686739271\\
+		\-\hspace{5mm}Linear SVM: 0.477387708457\\
+		\-\hspace{5mm}Gaussian SVM: 0.540240372093\\
+	10-fold: \\
+		\-\hspace{5mm}NBC: 0.605173788179\\
+		\-\hspace{5mm}Logistic Regression: 0.610975291637\\
+		\-\hspace{5mm}Linear SVM: 0.452656020523\\
+		\-\hspace{5mm}Gaussian SVM: 0.536445423083\\
+		
+	\item comment the results you obtained [which classifier seems to do best] \\
+	The Logistic Regression seems to do better bases on my result. We will use paired t-test to test the significance in the next question. \\
+	\item explain how to get the ROC curve from the logistic regression output \\
+	In logistic regression, we compute the probabilities to decide which class the node should belong to. If we adjust the probability threshold and re-classify all individuals using new threshold, then we get new true positive rate and false positive rate. If we calculate lots of these threshold, we can then draw the ROC curve with true positive rate as y axis and false negative rate as x axis.\\
+	\item Plot the ROC for logistic \\
+	\begin{minipage}[t]{\linewidth}
+         	 \raggedright
+          	 \adjustbox{valign=t}{
+          		  \includegraphics[scale=0.5]{Q1/ROC.png}
+        		  }
+    		\end{minipage}
+	\item Give the AUC score (say AUC is the area under the ROC curve) \\
+		0.68 as shown in the figure.
+	\end{enumerate}
+%% e %%
+\item \ \\
+	The null hypothesis is that logistic regression has the same F1 score with NBC , and the p-value of F1-score between logistic regression and NBC is 0.19062380751022309 > $\alpha = 0.05$. Therefore, we cannot reject the null hypothesis. \\
+	The null hypothesis is that logistic regression has the same F1 score with linear SVM and the p-value of F1-score between logistic regression and linear SVM is 1.9670734624844568e-12 < $\alpha = 0.05$. Therefore, we can say that there is significant difference that logistic regression is better than linear SVM. \\
+	The null hypothesis is that logistic regression has the same F1 score with Gaussian SVM and the p-value of F1-score between logistic regression and Gaussian SVM is 4.3700619261450163e-06 < $\alpha = 0.05$. Therefore, we can say that there is significant difference that logistic regression is better than Gaussian SVM. \\
+%% f %%
+\item \ \\
+	I select the logistic regression as my algorithm and choose 'Interest Rate Percentage', 'Loan Purpose', 'Monthly PAYMENT', 'Debt-To-Income Ratio Percentage', 'FICO Range' as my features.
 \end{enumerate}
 \end{homeworkProblem}
 \clearpage
@@ -423,9 +475,95 @@
 
 \begin{homeworkProblem}
 \begin{enumerate}[a.]
-\item \
-
-\item \
+\item \ \\
+	\begin{enumerate}[1.]
+		\item Shortest Path \\
+		Since we are given the undirected graph $G_0$, for each node with more than 10 neighbors, we apply shortest path algorithm to find the nearest node that is not its neighbor and predict the edge between them as the missing edge. \\
+		Advantage:\\
+		\-\hspace{5mm}Based on existing algorithm and it is intuitive. \\
+		
+		Disadvantage:\\
+		\-\hspace{5mm}Network diameter often very small and distribution very concentrated.\\
+		
+		\item Common Neighbors \\
+		Common neighbors usess as score the number of common neighbors between vertices u and v. For each node with more than 10 neighbors, we calculate the score between the node and others that is not its neighbor to predict the one with highest score as missing edge.
+		\begin{align}
+		score(u,v) = |N(u) \cap N(v)|
+		\end{align}
+		Advantage: \\
+		\-\hspace{5mm}The algorithm is efficient and works well on small society community. \\
+		
+		Disadvantage:\\
+		\-\hspace{5mm}Large scores for vertices with too many neighbors \\	
+		
+		\item Jaccard Similarity \\
+		The Jaccard Similarity is aimed to compensate the problem in Common Neighbors. It has same idea with Common Neighbors but with modified formula:
+		\begin{align}
+		score(u,v) = \frac{|N(u) \cap N(v)|}{|N(u) \cup N(v)|}
+		\end{align}
+		Advantage: \\
+		\-\hspace{5mm}Fixes the issue of Common Neighbors, "u or v have too many neighbors", by dividing the intersection by the union. \\
+		
+		Disadvantage: \\
+		\-\hspace{5mm}Although u, v are not problem, but the method fails to measure the quality of their neighbors. \\
+		
+		 \item Adamic / Adar \\
+		 It is improved version of Jaccard Similarity and can be applied similarly as previous two methods, the formula it use is:
+		 \begin{align}
+		 score(u,v) = \sum_{z \epsilon N(u) \cap N(v)}\frac{1}{log|N(z)|}
+		 \end{align}
+		 where N(z) is the neighbors of the common neighbors of u and v. \\
+		 Advantage: \\
+		 \-\hspace{5mm}This score gives more weight to neighbors that are not shared with many others.
+		 
+		 Disadvantage: \\
+		 \-\hspace{5mm}It is based on the hypothesis that the neighbor of u and v with less neighbors imply that u and v should know each other, which may not be true is some cases. \\
+		 
+		 \item Katz score \\
+		 In Katz score, we calculate the score to find out the missing edges. The Katz score uses adjacency matrix A in its formula:
+		 \begin{align}
+		 score(u,v) = \sum_{l=1}^{\infty}\alpha^l(A^l)_{u,v}
+		 \end{align}
+		 The $\alpha$ is to ensure that the sum isn't divergent. \\
+		 Advantage: \\
+		 \-\hspace{5mm}The adjacency matrix A is easy to express the relationship between nodes.  A itself expresses the nodes with path of length 1 and  AA can express the number of common neighbors between $node_{i}$ and $node_{j}$. \\
+		 
+		 Disadvantage:\\
+		 \-\hspace{5mm}For $\alpha << 1$, predictions will be approximated to common neighbors, which share the same defect. \\
+		 
+		 \item Page Rank \\
+		 Each edge's vote is proportional to the importance of its source node. Therefore, if node j with importance $r_j$ has n out-edges, each link gets $\frac{r_j}{n}$ votes. Node j's own importance is the sum of the votes on its in-links.\\
+		 For the stochastic adjacency matrix M, let node i has $d_i$ out-links. If $i\rightarrow j$, then $M_{ji} = \frac{1}{d_i}$ else $M_{ji} = 0$, where M is a colum stochastic matrix and the columns sum to 1. \\
+		 Rank vector r: vector with an entry per page\\
+		 $r_i$ is the importance score of node i and $\sum_ir_i=1$
+		 Then the flow equations can be written as:
+		 \begin{align}
+		 r &= M \cdot r \\
+		 (r_j  &= \sum_{i \rightarrow j}\frac{r_i}{d_i})
+		 \end{align}
+		 The pagerank also has random teleports to solve dead ends and spider trap problem, the modified formula is:
+		 \begin{align}
+		 r_j = \sum_{i\rightarrow j}\beta\frac{r_i}{d_i} + (1-\beta)\frac{1}{N}
+		 \end{align}
+		 In order to use pagerank to do link prediction, we have to apply rooted pagerank, which is also called personalized pagerank. The idea is based on hitting time . We first choose a rooted node say x, then for each step, there is $\alpha$ probability that goes back to x ('reset'), and there is $1-\alpha$ probability that goes from current node to its random neighbor. So the formula becomes:
+		 \begin{align}
+		 r_{root} &= \sum_{i\rightarrow j}\beta\frac{r_i}{d_i} + (1-\beta) \\
+		 r_j &= \sum_{i\rightarrow j}\beta\frac{r_i}{d_i} \ ,\ \ \text{where}\ j\ !=\ root
+		 \end{align}
+		For each node, we use it as root to calculate its pagerank and retrieve the top 5 score nodes that is original not the neighbor of root as its missing neighbor.\\
+		
+		Advantage: \\
+		\-\hspace{5mm} The matrix will always converge, so we don't need $\alpha$ value as in Katz score to prevent divergent.
+		
+		Disadvantage:\\
+		\-\hspace{5mm} It share the same idea as hitting time and it is a randomized algorithm. Therefore, it relies on the probabilistic and may get bad result in chance.
+		
+	\end{enumerate}
+\item \ \\
+	In this question, I choose rooted pagerank as my best algorithm for it is well developed and efficient. To verify this approach, I randomly remove an edge from nodes with more than 10 edges and put those edges into validation set. By this way, I can test the prediction accuracy in my approach. For each node we report five candidates and if any of the candidate is the node of the removed edge, we view it as a successful hit. After comparing the accuracy of different methods, we select rooted pagerank as the best algorithm.\\ \\
+	Then I put those edges back and re-run the algorithm to report the real missing candidate. \\ \\
+	The data contains more than ten thousand nodes with approximate four thousand nodes with more than 10 edges. Each one hundred rooted pagerank procedure takes about three minutes. Therefore, to calculate all the four thousand nodes, it takes us about two hours.  \\ \\
+	
 	
 \end{enumerate}
 \end{homeworkProblem}
